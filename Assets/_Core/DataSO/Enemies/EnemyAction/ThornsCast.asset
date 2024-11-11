@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 933094dcac1248c9a9ba14a9e0b4338b, type: 3}
+  m_Name: ThornsCast
+  m_EditorClassIdentifier: 
+  isCastAction: 1
+  effects: 
+  powerModificator: 0
+  description: loc_core_tooltip_spikes
+  icon: {fileID: 21300000, guid: a28ba72434e22f04084e42b2f3e38d63, type: 3}
+  duration: 1
+  durationAbility: {fileID: 11400000, guid: f88ae3dcaabaaba47bdcb59f4ec495cc, type: 2}

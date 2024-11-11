@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8507347014987069423
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3574129108462328312}
+  - component: {fileID: 2664135340700456005}
+  - component: {fileID: 1115347225727853840}
+  m_Layer: 5
+  m_Name: DiceTower
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3574129108462328312
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8507347014987069423}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2664135340700456005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8507347014987069423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cde72ffa94354e6d9286e82b249214cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  diceTowerHolder: {fileID: 1115347225727853840}
+  _dicePrefab: {fileID: 8938816726363957526, guid: 52f7d16f28fe0104f8f2d2515dc48728, type: 3}
+  _dicePanel: {fileID: 0}
+  _diceStartPositions:
+  - {x: -1.9, y: -2.9}
+  - {x: 0, y: -2.9}
+  - {x: 1.9, y: -2.9}
+  - {x: -1.9, y: -0.9}
+  - {x: 0, y: -0.9}
+  - {x: 1.9, y: -0.9}
+  _diceStartPositionZ: 0
+  attackBuff: 0
+  armorBuff: 0
+--- !u!114 &1115347225727853840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8507347014987069423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f018059aebba4892b1e5869d44f519b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

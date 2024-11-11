@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7ec28587594f9286d479e0c28d6460, type: 3}
+  m_Name: InquisitorDice
+  m_EditorClassIdentifier: 
+  diceName: loc_heromenu_cubename_dicename5
+  description: loc_heromenu_descript_dice_description5
+  id: base_inquisitor_1
+  levelNumber: 1
+  upgradeCost: 80
+  Edges:
+  - {fileID: 11400000, guid: 9f5f55df7f2f642429ca209fce5c7b9a, type: 2}
+  - {fileID: 11400000, guid: d4fdab320fbd62b408015a572c72febb, type: 2}
+  - {fileID: 11400000, guid: c1d406177dc885544b33572877ce3e2e, type: 2}
+  - {fileID: 11400000, guid: a095347c298e83940bf2d34f32866abc, type: 2}
+  - {fileID: 11400000, guid: a0c3d2edad583ab498e956431f0df773, type: 2}
+  - {fileID: 11400000, guid: c1d406177dc885544b33572877ce3e2e, type: 2}
+  Upgrades:
+  - {fileID: 11400000, guid: beff3ac7874d7394ca460e2dfdc91398, type: 2}
+  - {fileID: 11400000, guid: ef1a77707d04ba24f931df29037317eb, type: 2}
+  DiceBorderMaterial: {fileID: 2100000, guid: 2a170a6f273e83049aa05a767822847c, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7ec28587594f9286d479e0c28d6460, type: 3}
+  m_Name: GuaranteeDice
+  m_EditorClassIdentifier: 
+  diceName: loc_heromenu_cubename_dicename6
+  description: loc_heromenu_descript_dice_description6
+  id: base_guarantee_1
+  levelNumber: 1
+  upgradeCost: 85
+  Edges:
+  - {fileID: 11400000, guid: c9be85ca402422340955155a22e71a46, type: 2}
+  - {fileID: 11400000, guid: 881a047230f05184fbc3946f226fc608, type: 2}
+  - {fileID: 11400000, guid: cd313658c15a154458b7dbc238da1d7e, type: 2}
+  - {fileID: 11400000, guid: 8adf37e8f7f4c3f45843ed6ea16437c0, type: 2}
+  - {fileID: 11400000, guid: 15d7699feefa4534aba37168fe128a3a, type: 2}
+  - {fileID: 11400000, guid: dfbe99fcc6efbdb4dade12a3970f3f97, type: 2}
+  Upgrades:
+  - {fileID: 11400000, guid: 466b5f9a501136547818f7de2596bb7c, type: 2}
+  - {fileID: 11400000, guid: 7b6c5e2fe51dbd04aa2d891f88ad6016, type: 2}
+  DiceBorderMaterial: {fileID: 2100000, guid: e1192a63f73fafb4c8c44074c34894e2, type: 2}

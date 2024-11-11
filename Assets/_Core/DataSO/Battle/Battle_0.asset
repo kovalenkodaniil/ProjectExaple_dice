@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58646359d5f04a1fb7d09c0e46a807e8, type: 3}
+  m_Name: Battle_0
+  m_EditorClassIdentifier: 
+  expiriense: 20
+  enemies:
+  - {fileID: 11400000, guid: 4a75b734d75ecf247bb36e75f1cf2eb6, type: 2}
+  loot:
+  - rid: 1966029586209439778
+  - rid: 1118010346358439936
+  - rid: 1118010346358439937
+  - rid: 7929815352450744321
+  references:
+    version: 2
+    RefIds:
+    - rid: 1118010346358439936
+      type: {class: LootConsumable, ns: Core.Data, asm: Assembly-CSharp}
+      data:
+        quantity: 1
+        consumableType: 3
+    - rid: 1118010346358439937
+      type: {class: LootConsumable, ns: Core.Data, asm: Assembly-CSharp}
+      data:
+        quantity: 1
+        consumableType: 4
+    - rid: 1966029586209439778
+      type: {class: LootConsumable, ns: Core.Data, asm: Assembly-CSharp}
+      data:
+        quantity: 1
+        consumableType: 1
+    - rid: 7929815352450744321
+      type: {class: LootCurrency, ns: Core.Data, asm: Assembly-CSharp}
+      data:
+        quantity: 100
+        currencyType: 0

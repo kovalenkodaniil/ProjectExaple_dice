@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7ec28587594f9286d479e0c28d6460, type: 3}
+  m_Name: DivineDice UP 1_1
+  m_EditorClassIdentifier: 
+  diceName: loc_heromenu_cubename_dicename8_1
+  description: loc_heromenu_descript_dice_description8
+  id: base_divine_2
+  levelNumber: 2
+  upgradeCost: 95
+  Edges:
+  - {fileID: 11400000, guid: 02915afa890c9c34c9d9c26dc8cfa5c6, type: 2}
+  - {fileID: 11400000, guid: 0e2033550bb8f6a45bc4ed90b3f61e63, type: 2}
+  - {fileID: 11400000, guid: a3ba26d5447b8344ab5fbf5bc6a84b8d, type: 2}
+  - {fileID: 11400000, guid: 89d956411b5e1584fb680c7a44cf0d81, type: 2}
+  - {fileID: 11400000, guid: 02915afa890c9c34c9d9c26dc8cfa5c6, type: 2}
+  - {fileID: 11400000, guid: 19be879ab1a814c48b1875e9432f6e3d, type: 2}
+  Upgrades:
+  - {fileID: 11400000, guid: 5aaeef5083f1e15479d9ab731551bbf0, type: 2}
+  - {fileID: 11400000, guid: 8f246984f2c0acf4dac0961698646748, type: 2}
+  DiceMaterial: {fileID: 2100000, guid: 4593ca10b36d1254cb5dd978243a875a, type: 2}
+  DiceBorderMaterial: {fileID: 2100000, guid: 349a4f1420b6dda45a40ffc51c3c5ea9, type: 2}

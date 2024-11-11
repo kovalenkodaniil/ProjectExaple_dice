@@ -1,0 +1,2860 @@
+{
+  "localization": [
+    {
+      "key": "language",
+      "text": "Русский"
+    },
+    {
+      "key": "loc_load_tip",
+      "text": "Загрузка..."
+    },
+    {
+      "key": "loc_mmenu_button_continue",
+      "text": "Продолжить"
+    },
+    {
+      "key": "loc_mmenu_button_newgame",
+      "text": "Новая игра"
+    },
+    {
+      "key": "loc_mmenu_button_load",
+      "text": "Загрузить игру"
+    },
+    {
+      "key": "loc_mmenu_button_settings",
+      "text": "Настройки"
+    },
+    {
+      "key": "loc_mmenu_button_gallery",
+      "text": "Галерея"
+    },
+    {
+      "key": "loc_mmenu_label",
+      "text": "Новое!"
+    },
+    {
+      "key": "loc_mmenu_head_choose_game",
+      "text": "Выберите игру"
+    },
+    {
+      "key": "loc_mmenu_head_chapter",
+      "text": "Глава"
+    },
+    {
+      "key": "loc_mmenu_loadscreen_button_load",
+      "text": "Загрузить"
+    },
+    {
+      "key": "loc_mmenu_head_startnewgame",
+      "text": "Начните новую игру!"
+    },
+    {
+      "key": "loc_mmenu_body_emptyslot",
+      "text": "Пустой слот"
+    },
+    {
+      "key": "loc_mmenu_button_play",
+      "text": "Играть"
+    },
+    {
+      "key": "loc_mmenu_head_newgame",
+      "text": "Новая игра"
+    },
+    {
+      "key": "loc_mmenu_body_newgame_tip",
+      "text": "Если вы начнёте новую игру, предыдущее автосохранение будет утеряно.\nВы уверены?"
+    },
+    {
+      "key": "loc_mmenu_head_newgame_name",
+      "text": "Введите своё имя"
+    },
+    {
+      "key": "loc_mmenu_body_newgame_sure",
+      "text": "Вы уверены?"
+    },
+    {
+      "key": "loc_mmenu_button_yes",
+      "text": "Да"
+    },
+    {
+      "key": "loc_mmenu_button_no",
+      "text": "Нет"
+    },
+    {
+      "key": "loc_popup_settings_head",
+      "text": "Настройки"
+    },
+    {
+      "key": "loc_popup_settings_setting1",
+      "text": "Разрешение экрана"
+    },
+    {
+      "key": "loc_popup_settings_setting2",
+      "text": "Режим экрана"
+    },
+    {
+      "key": "loc_popup_settings_resolution1",
+      "text": "Полноэкранный"
+    },
+    {
+      "key": "loc_popup_settings_resolution2",
+      "text": "В окне"
+    },
+    {
+      "key": "loc_popup_settings_setting3",
+      "text": "Язык"
+    },
+    {
+      "key": "loc_popup_settings_lang1",
+      "text": "Русский"
+    },
+    {
+      "key": "loc_popup_settings_lang2",
+      "text": "English"
+    },
+    {
+      "key": "loc_popup_settings_lang3",
+      "text": "Français"
+    },
+    {
+      "key": "loc_popup_settings_lang4",
+      "text": "简体中文"
+    },
+    {
+      "key": "loc_popup_settings_lang5",
+      "text": "Español"
+    },
+    {
+      "key": "loc_popup_settings_setting4",
+      "text": "Музыка"
+    },
+    {
+      "key": "loc_popup_settings_setting5",
+      "text": "Звуки"
+    },
+    {
+      "key": "loc_popup_settings_button",
+      "text": "Принять"
+    },
+    {
+      "key": "loc_gallery_head",
+      "text": "Галерея"
+    },
+    {
+      "key": "loc_gallery_button_scenes",
+      "text": "Секс сцены"
+    },
+    {
+      "key": "loc_gallery_button_cards",
+      "text": "Карточки"
+    },
+    {
+      "key": "loc_gallery_button_fights",
+      "text": "Сражения"
+    },
+    {
+      "key": "loc_map_cityname",
+      "text": "Святой Йорк"
+    },
+    {
+      "key": "loc_map_location0",
+      "text": "Пролог"
+    },
+    {
+      "key": "loc_map_location1",
+      "text": "Гетто"
+    },
+    {
+      "key": "loc_map_location2",
+      "text": "Склад"
+    },
+    {
+      "key": "loc_map_location3",
+      "text": "Промзона"
+    },
+    {
+      "key": "loc_map_location4",
+      "text": "Старый город"
+    },
+    {
+      "key": "loc_map_location5",
+      "text": "База Ордена"
+    },
+    {
+      "key": "loc_map_location6",
+      "text": "Святилище Ордена"
+    },
+    {
+      "key": "loc_map_location7",
+      "text": "Катакомбы"
+    },
+    {
+      "key": "loc_map_location8",
+      "text": "Подземный город"
+    },
+    {
+      "key": "loc_map_location9",
+      "text": "Храм Магии"
+    },
+    {
+      "key": "loc_popup_quest_head",
+      "text": "Задания"
+    },
+    {
+      "key": "loc_popup_quest_button",
+      "text": "Взять задание"
+    },
+    {
+      "key": "loc_heromenu_head_development",
+      "text": "Развитие"
+    },
+    {
+      "key": "loc_heromenu_button_spell1",
+      "text": "Огненный шар"
+    },
+    {
+      "key": "loc_heromenu_button_spell2",
+      "text": "Оглушение"
+    },
+    {
+      "key": "loc_heromenu_button_spell3",
+      "text": "Гнев"
+    },
+    {
+      "key": "loc_heromenu_button_spell4",
+      "text": "Бастион"
+    },
+    {
+      "key": "loc_heromenu_button_spell5",
+      "text": "Барьер"
+    },
+    {
+      "key": "loc_heromenu_button_spell6",
+      "text": "Взрыв магии"
+    },
+    {
+      "key": "loc_heromenu_button_spell7",
+      "text": "Мастерство"
+    },
+    {
+      "key": "loc_heromenu_button_spell8",
+      "text": "Связь"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript1",
+      "text": "Древнейшее из классических заклинаний. Преобразует магию в чистейший огонь.\nНаносит 3 урона"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript2",
+      "text": "Мощное ментальное воздействие на сознание противника позволяет полностью дизориентировать его на короткое время.\nОтменяет действия противника в этом ходу."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript3",
+      "text": "Обуздав тёмную магию, позволяет залить кровью и ваши глаза, и землю у ног врага.\nДобавляет +1 урон к каждому кубику урона в этом ходу."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript4",
+      "text": "Сквозясь через кожу, благотворная магия усиливает любые защитные действия заклинателя.\nДобавляет +1 щита к каждому кубику с щитом в этом ходу."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript5",
+      "text": "Старый приём без лишних хитростей - концентрирует ману вокруг заклинателя, создавай защитный барьер.\nДаёт 3 защиты"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript6",
+      "text": "Ультимативная способность самых суровых магов, периодически спасавшая их жизни в последний момент.\nТратит всю ману, и за каждую единицу наносит 2 урона"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript7",
+      "text": "Тончайшие струны маны укрепляют сознание волшебника, обостряя его рефлексы.\nДаёт игроку 3 Закрепления"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript8",
+      "text": "Вершина творения самых мстительных колдунов. Долгожданная карма в мире безответного зла.\nВ конце хода враг получит столько же урона, сколько и игрок за ход."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell1",
+      "text": "Наносит 3 урона"
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell2",
+      "text": "Отменяет действия противника в этом ходу."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell3",
+      "text": "Добавляет +1 урон к каждому кубику урона в этом ходу."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell4",
+      "text": "Добавляет +1 щита к каждому кубику с щитом в этом ходу."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell5",
+      "text": "Даёт 3 защиты"
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell6",
+      "text": "Тратит всю ману, и за каждую единицу наносит 2 урона"
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell7",
+      "text": "Даёт игроку 3 Закрепления"
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell8",
+      "text": "В конце хода враг получит столько же урона, сколько и игрок за ход."
+    },
+    {
+      "key": "loc_heromenu_tip_cooldown",
+      "text": "Откат"
+    },
+    {
+      "key": "loc_heromenu_tip_mana",
+      "text": "Мана"
+    },
+    {
+      "key": "loc_heromenu_button_choose",
+      "text": "Выбрать"
+    },
+    {
+      "key": "loc_heromenu_tip_yourspells",
+      "text": "Ваши заклинания"
+    },
+    {
+      "key": "loc_heromenu_tooltip_choosespell",
+      "text": "Выберите заклинание для замены"
+    },
+    {
+      "key": "loc_heromenu_tip_yourdices",
+      "text": "Ваши кубы"
+    },
+    {
+      "key": "loc_heromenu_tooltip_choosedés",
+      "text": "Выберите куб для замены"
+    },
+    {
+      "key": "loc_heromenu_button_skills",
+      "text": "Умения"
+    },
+    {
+      "key": "loc_heromenu_button_dices",
+      "text": "Кубы"
+    },
+    {
+      "key": "loc_heromenu_button_char",
+      "text": "Персонаж"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1",
+      "text": "Куб Авангард"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2",
+      "text": "Куб Страж"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3",
+      "text": "Магический куб"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4",
+      "text": "Куб Гармонии"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5",
+      "text": "Куб Инквизитор"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6",
+      "text": "Куб Гарант"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7",
+      "text": "Тёмный куб"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8",
+      "text": "Божественный куб"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9",
+      "text": "Куб Кузнеца"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10",
+      "text": "Куб Зеркала"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_1",
+      "text": "Громила"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_2",
+      "text": "Снайпер"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_1_1",
+      "text": "Громила II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_1_2",
+      "text": "Кровь"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_2_1",
+      "text": "Cнайпер II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_2_2",
+      "text": "Скаут"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_1",
+      "text": "Бастион"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_2",
+      "text": "Стена"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_1_1",
+      "text": "Бастион II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_1_2",
+      "text": "Убежище"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_2_1",
+      "text": "Стена II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_2_2",
+      "text": "Шип"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_1",
+      "text": "Светлая магия"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_2",
+      "text": "Темная магия"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_1_1",
+      "text": "Светлая магия II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_1_2",
+      "text": "Чистый"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_2_1",
+      "text": "Темная магия II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_2_2",
+      "text": "Мрак"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_1",
+      "text": "Милосердие"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_2",
+      "text": "Рвение"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_1_1",
+      "text": "Милосердие II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_1_2",
+      "text": "Cвятость"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_2_1",
+      "text": "Рвение II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_2_2",
+      "text": "Фанатик"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_1",
+      "text": "Крестоносец"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_2",
+      "text": "Дознаватель"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_1_1",
+      "text": "Крестоносец II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_1_2",
+      "text": "Ярость"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_2_1",
+      "text": "Дознаватель II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_2_2",
+      "text": "Пламя"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_1",
+      "text": "База"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_2",
+      "text": "Особенный"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_1_1",
+      "text": "База II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_1_2",
+      "text": "Основа"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_2_1",
+      "text": "Особенный II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_2_2",
+      "text": "Уникум"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_1",
+      "text": "Носферату"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_2",
+      "text": "Высший"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_1_1",
+      "text": "Носферату II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_1_2",
+      "text": "Кровожадность"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_2_1",
+      "text": "Высший II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_2_2",
+      "text": "Стрыга"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_1",
+      "text": "Исцеление"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_2",
+      "text": "Клирик"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_1_1",
+      "text": "Исцеление II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_1_2",
+      "text": "Медитация"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_2_1",
+      "text": "Клирик II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_2_2",
+      "text": "Молитва"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_1",
+      "text": "Молот"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_2",
+      "text": "Наковальня"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_1_1",
+      "text": "Молот II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_1_2",
+      "text": "Горн"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_2_1",
+      "text": "Наковальня II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_2_2",
+      "text": "Металл"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_1",
+      "text": "Мечта"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_2",
+      "text": "Ужас"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_1_1",
+      "text": "Мечта II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_1_2",
+      "text": "Желание"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_2_1",
+      "text": "Ужас II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_2_2",
+      "text": "Порок"
+    },
+    {
+      "key": "loc_heromenu_tip_dice_level",
+      "text": "Уровень"
+    },
+    {
+      "key": "loc_heromenu_tip_dice_quantity",
+      "text": "Количество"
+    },
+    {
+      "key": "loc_heromenu_tip_dice_faces",
+      "text": "Грани"
+    },
+    {
+      "key": "loc_heromenu_button_upgrade",
+      "text": "Улучшить"
+    },
+    {
+      "key": "loc_heromenu_button_maxlevel",
+      "text": "Макс. уровень"
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description1",
+      "text": "Первоочередное орудие всех бойцов этого мира.\nОсновной куб для атаки."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description2",
+      "text": "Лучший друг всех торговцев, паломников, и просто тех, кто хочет жить подольше.\nОсновной куб для защиты."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description3",
+      "text": "Если вам не чужды магические приёмы, и вы не лишены колдовских способностей - это отличный выбор для вас.\nОсновной куб любителей магии."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description4",
+      "text": "Сбалансированный инструмент для поддержании в здравии и тела, и духа.\nКуб для тех, кто любит быть в безопасности."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description5",
+      "text": "Мало кто осмелится напасть на бойца с такой приблудой. Суров, напорист, и убедителен.\nКуб для разностороннего нападения."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description6",
+      "text": "Лучший соратник тех, кто не любит неожиданностей в свою сторону.\nСамый надёжный и стабильный куб."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description7",
+      "text": "Мало у кого можно встретить такую игрушку, да и встречи с ними мало кто пережил.\nКуб для агрессивного нападения."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description8",
+      "text": "Редкий артефакт лучших паладинов и бойцов света, защищающий своего владельца божественными силам.\nСамый оберегающий владельца куб."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description9",
+      "text": "Это чудо изобрели не столь маги, сколь умельцы своего дела, желающие перенести своё мастерство на поле боя.\nКуб для тех, кто любит действовать точно."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description10",
+      "text": "Маэстро отражения, отбивающий любое желание наносить вам хоть какой-то урон.\nКуб кармы - зуб за зуб, боль за боль."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description1",
+      "text": "Тут ничего нет. Пусто!"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description2",
+      "text": "Наносит {0} урона"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description3",
+      "text": "Наносит {0} урона и исцеляет {0} здоровья"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description4",
+      "text": "Наносит {0} урона врагу, и {0} урона хозяину"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description5",
+      "text": "Даёт {0} защиты и наносит {0} урона врагу"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description6",
+      "text": "Даёт {0} защиты"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description7",
+      "text": "Даёт {0} маны"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description8",
+      "text": "Исцеляет {0} здоровья"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description9",
+      "text": "Даёт {0} маны и исцеляет {0} здоровья"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description10",
+      "text": "Даёт {0} Закреплений"
+    },
+    {
+      "key": "loc_heromenu_outlookandhealth_head",
+      "text": "Мировоззрение и здоровье"
+    },
+    {
+      "key": "loc_heromenu_outlookandhealth_body",
+      "text": "Чем больше сила - тем больше и ответственность."
+    },
+    {
+      "key": "loc_heromenu_head_outlook",
+      "text": "Мировоззрение"
+    },
+    {
+      "key": "loc_heromenu_head_health",
+      "text": "Здоровье"
+    },
+    {
+      "key": "loc_heromenu_button_healthmax",
+      "text": "Максимум"
+    },
+    {
+      "key": "loc_heromenu_upgrade_head",
+      "text": "Улучшение"
+    },
+    {
+      "key": "loc_heromenu_upgrade_body",
+      "text": "Вы хотите улучшить {diceName} с уровня {lvl} до уровня {lvlUp} за {cost} ?"
+    },
+    {
+      "key": "loc_core_tip_enemyaction",
+      "text": "Действия врага"
+    },
+    {
+      "key": "loc_core_tip_player",
+      "text": "Я"
+    },
+    {
+      "key": "loc_core_tip_undress",
+      "text": "Раздеть"
+    },
+    {
+      "key": "loc_core_tooltip_undress",
+      "text": "Необходимая для раздевания комбинация"
+    },
+    {
+      "key": "loc_core_tooltip_attack",
+      "text": "Атака - наносит урон"
+    },
+    {
+      "key": "loc_core_tooltip_defence",
+      "text": "Защита - накладывает щиты"
+    },
+    {
+      "key": "loc_core_tooltip_heal",
+      "text": "Лечение - исцеляет здоровье"
+    },
+    {
+      "key": "loc_core_tooltip_attackanddefence",
+      "text": "Атака и Защита - наносит урон и накладывает щиты"
+    },
+    {
+      "key": "loc_core_tooltip_strengthening",
+      "text": "Усиление - в течении 2х ходов наносит больше урона"
+    },
+    {
+      "key": "loc_core_tooltip_shell",
+      "text": "Панцирь - в течении 2х ходов получает больше щитов"
+    },
+    {
+      "key": "loc_core_tooltip_invulnerability",
+      "text": "Неуязвимость - не может получить урон в следующий ход"
+    },
+    {
+      "key": "loc_core_tooltip_protective",
+      "text": "Защитная стойка - каждый ход начинает с временным щитом"
+    },
+    {
+      "key": "loc_core_tooltip_trap",
+      "text": "Ловушка - блокирует переброс некоторых кубов в следующий ход"
+    },
+    {
+      "key": "loc_core_tooltip_magicshield",
+      "text": "Магический щит - не получит урон, если на кубах недостаточно граней Маны"
+    },
+    {
+      "key": "loc_core_tooltip_spikes",
+      "text": "Шипы - за каждый куб игрока с уроном будет наносить урон игроку"
+    },
+    {
+      "key": "loc_core_tooltip_vampire",
+      "text": "Удар вампира - забирает здоровье игрока себе"
+    },
+    {
+      "key": "loc_core_tooltip_sap",
+      "text": "Ошеломление - в следующий ход отнимает возможность закреплять кубы и применять магию"
+    },
+    {
+      "key": "loc_core_tooltip_stun",
+      "text": "Враг оглушён - бездействует в этот ход"
+    },
+    {
+      "key": "loc_core_tooltip_description_strengthening",
+      "text": "Усиление - наносит больше урона"
+    },
+    {
+      "key": "loc_core_tooltip_description_shell",
+      "text": "Панцирь - получает больше щитов"
+    },
+    {
+      "key": "loc_core_defence",
+      "text": "Защита"
+    },
+    {
+      "key": "loc_core_tooltip_description_anger",
+      "text": "Гнев - добавляет +1 урон к каждому кубику урона в этом ходу"
+    },
+    {
+      "key": "loc_core_tooltip_description_bastion",
+      "text": "Бастион - добавляет +1 щита к каждому кубику с щитом в этом ходу"
+    },
+    {
+      "key": "loc_core_tooltip_description_Communication",
+      "text": "Связь - в этом ходу враг получит столько же урона, сколько и игрок"
+    },
+    {
+      "key": "loc_core_tooltip_description_Trap",
+      "text": "Ловушка - переброс некоторых кубов заблокирован"
+    },
+    {
+      "key": "loc_core_tooltip_description_sap",
+      "text": "Ошеломление - заблокирована возможность закреплять кубы и применять магию"
+    },
+    {
+      "key": "loc_core_tooltip_description_fixations",
+      "text": "Количество доступных Закреплений"
+    },
+    {
+      "key": "loc_core_head_pausePause",
+      "text": "Пауза"
+    },
+    {
+      "key": "loc_core_button_menu",
+      "text": "Главное меню"
+    },
+    {
+      "key": "loc_core_button_backtomap",
+      "text": "Назад на Карту"
+    },
+    {
+      "key": "loc_popup_reward_head_award",
+      "text": "Награда"
+    },
+    {
+      "key": "loc_popup_reward_button_pickup",
+      "text": "Забрать"
+    },
+    {
+      "key": "loc_popup_reward_head_coins",
+      "text": "Монеты"
+    },
+    {
+      "key": "loc_popup_reward_body_upgrade",
+      "text": "+1 улучшение"
+    },
+    {
+      "key": "loc_popup_reward_head_anydice",
+      "text": "Любой куб"
+    },
+    {
+      "key": "loc_popup_reward_tip_body_nextfight",
+      "text": "Только на следующий бой"
+    },
+    {
+      "key": "loc_popup_reward_head_HPMana",
+      "text": "Здоровье & Мана"
+    },
+    {
+      "key": "loc_popup_reward_head_DiceCoins",
+      "text": "Куб & Монеты"
+    },
+    {
+      "key": "loc_popup_reward_head_SpellCoins",
+      "text": "Заклинание & Монеты"
+    },
+    {
+      "key": "loc_popup_reward_head_fixation",
+      "text": "Закрепы"
+    },
+    {
+      "key": "loc_popup_reward_head_fight",
+      "text": "Бой:"
+    },
+    {
+      "key": "loc_popup_reward_button_change",
+      "text": "Изменить"
+    },
+    {
+      "key": "loc_popup_reward_button_fight",
+      "text": "В бой!"
+    },
+    {
+      "key": "loc_scenes_button_vaginal",
+      "text": "Классика"
+    },
+    {
+      "key": "loc_scenes_button_blowjob",
+      "text": "Минет"
+    },
+    {
+      "key": "loc_scenes_button_anal",
+      "text": "Анал"
+    },
+    {
+      "key": "loc_scenes_button_titsfuck",
+      "text": "Трах сисек"
+    },
+    {
+      "key": "loc_scenes_button_analandvaginal",
+      "text": "Анал + Классика"
+    },
+    {
+      "key": "loc_scenes_button_finish",
+      "text": "Финиш"
+    },
+    {
+      "key": "loc_popup_defeat_head",
+      "text": "Поражение"
+    },
+    {
+      "key": "loc_popup_defeat_body_1",
+      "text": "Ваше здоровье на исходе!\nНо избранные не умирают..."
+    },
+    {
+      "key": "loc_popup_defeat_body_2",
+      "text": "Вы можете вернуться к подготовке к битве, либо попробовать еще раз."
+    },
+    {
+      "key": "loc_popup_defeat_button_retry",
+      "text": "Заново"
+    },
+    {
+      "key": "Rebecca",
+      "text": "Ребекка"
+    },
+    {
+      "key": "Alicia",
+      "text": "Алисия"
+    },
+    {
+      "key": "Helena",
+      "text": "Хелена"
+    },
+    {
+      "key": "Hilda",
+      "text": "Хильда"
+    },
+    {
+      "key": "Diana",
+      "text": "Диана"
+    },
+    {
+      "key": "Etel",
+      "text": "Этель"
+    },
+    {
+      "key": "Juliana",
+      "text": "Джулиана"
+    },
+    {
+      "key": "Jessica",
+      "text": "Джессика"
+    },
+    {
+      "key": "Lilith",
+      "text": "Лилит"
+    },
+    {
+      "key": "Eva",
+      "text": "Эва"
+    },
+    {
+      "key": "Bellona",
+      "text": "Беллона"
+    },
+    {
+      "key": "Ida",
+      "text": "Ида"
+    },
+    {
+      "key": "loc_enemy_name1",
+      "text": "Адепт"
+    },
+    {
+      "key": "loc_enemy_name2",
+      "text": "Старший адепт"
+    },
+    {
+      "key": "loc_enemy_name3",
+      "text": "Боевой гомункул"
+    },
+    {
+      "key": "loc_enemy_name4",
+      "text": "Порабощенная волшебница"
+    },
+    {
+      "key": "loc_enemy_name5",
+      "text": "Гвардеец"
+    },
+    {
+      "key": "loc_enemy_name6",
+      "text": "Призрак"
+    },
+    {
+      "key": "loc_enemy_name7",
+      "text": "Дух стихии"
+    },
+    {
+      "key": "loc_enemy_name8",
+      "text": "Тёмная богиня"
+    },
+    {
+      "key": "loc_enemy_name9",
+      "text": "Светлая богиня"
+    },
+    {
+      "key": "loc_dialogues_button_previous",
+      "text": "Назад"
+    },
+    {
+      "key": "loc_dialogues_button_next",
+      "text": "Вперёд"
+    },
+    {
+      "key": "loc_demoend_header",
+      "text": "Продолжение следует"
+    },
+    {
+      "key": "loc_demoend_body1",
+      "text": "Спасибо, что прошли демоверсию игры!"
+    },
+    {
+      "key": "loc_demoend_body2",
+      "text": "Добавляйте нас в свой вишлист, чтобы не пропустить полную версию!"
+    },
+    {
+      "key": "loc_quest1_name",
+      "text": "Гремлин"
+    },
+    {
+      "key": "loc_quest1_short_descript",
+      "text": "Одна мерзкая сущность..."
+    },
+    {
+      "key": "loc_quest1_descript",
+      "text": "Одна мерзкая сущность постоянно гоняет своего приспешника по этому маршруту. У него можно забрать что-то ценное."
+    },
+    {
+      "key": "loc_quest1_desc1",
+      "text": "По указанному маршруту, скрываясь от глаз обычных людей, проскакивает гремлин. За его спиной - мешок с магической эссенцией, буквально пульсирующий изнутри энергией. \n\nОн движется быстро, практически на грани возможного."
+    },
+    {
+      "key": "loc_quest1_desc1_choice1",
+      "text": "Проследовать за ним скрытно."
+    },
+    {
+      "key": "loc_quest1_desc1_choice2",
+      "text": "Если медлить - он может скрыться. Ускориться."
+    },
+    {
+      "key": "loc_quest1_desc2",
+      "text": "Гремлин быстрый - но и ты не промах. Пускай он тебя заметил еще несколько секунд назад, зато оторваться у него не получается. В конце концов он загнан в тупик. \n\nОн разворачивается к тебе, шипит, выпускает когти...Кажется, он что-то задумал."
+    },
+    {
+      "key": "loc_quest1_desc2_choice1",
+      "text": "Попробовать его поймать. Догнать же получилось!"
+    },
+    {
+      "key": "loc_quest1_desc2_choice2",
+      "text": "Отвлечь его, бросив один из кубиков между вами. И поймать."
+    },
+    {
+      "key": "loc_quest1_desc3",
+      "text": "Ты пытаешься двигаться аккуратно, скрываешься от него в тени зданий, пытаешься затеряться среди деревьев небольшого парка, но, кажется, ты перехитрил сам себя.\n\nВсе-таки он слишком быстр и, пускай он тебя не заметил, но все равно скрылся вдалеке."
+    },
+    {
+      "key": "loc_quest1_desc3_choice1",
+      "text": "Продолжить путь."
+    },
+    {
+      "key": "loc_quest1_desc4",
+      "text": "Ты бросаешься на него, но он только этого и ждал. На короткой дистанции это создание все же оказалось быстрее и ловчее - миг, и он скрывается в одном из окон. Кажется дальше его преследовать бесполезно.\n\nОднако он кое-что обронил..."
+    },
+    {
+      "key": "loc_quest1_desc4_choice1",
+      "text": "Изучить находку"
+    },
+    {
+      "key": "loc_quest1_desc5",
+      "text": "Его глаза округляются, он выдавливает из себя:\n\n\"Ч-что?! Настоящий Ма...\"\nВ этот момент ты его ловишь. Ловишь, чтобы отпустить, однако оставив его мешок у себя."
+    },
+    {
+      "key": "loc_quest1_desc5_choice1",
+      "text": "Изучить добычу"
+    },
+    {
+      "key": "loc_quest2_name",
+      "text": "Алтарь"
+    },
+    {
+      "key": "loc_quest2_short_descript",
+      "text": "Тут есть заброшка..."
+    },
+    {
+      "key": "loc_quest2_descript",
+      "text": "Тут есть заброшка с интересной магической аурой. Посмотри, вдруг там что-то интересное."
+    },
+    {
+      "key": "loc_quest2_desc1",
+      "text": "Ты приходишь на нужную заброшку. Она кажется невзрачной и совершенно обычной, но в определенный момент ты чувствуешь...\nНет, эмоцией или предвкушением это нельзя назвать. Ты даже не чувствуешь, а знаешь - рядом есть что-то магическое. Что-то важное. \n\nИзучая здание, ты понимаешь, что оно будто бы меняет свою структуру и пройти дважды одним путём просто не получается. Кубики в кармане заметно нагреваются."
+    },
+    {
+      "key": "loc_quest2_desc1_choice1",
+      "text": "Сжать кубики, выдохнуть и попробовать найти путь к центру этого места."
+    },
+    {
+      "key": "loc_quest2_desc1_choice2",
+      "text": "Закрыть глаза и поддаться потоку. Это место само приведет меня к цели"
+    },
+    {
+      "key": "loc_quest2_desc2",
+      "text": "Кажется, решение было верным\nТы выходишь к небольшому золотому алтарю, изображающему женщину с аккуратными рожками. В центре алтаря стоит чаша с красной жидкостью. В воздухе пахнет металлом, а глянцевая поверхность жидкости будто бы иногда подрагивает.\n\nОборачиваясь, ты понимаешь - уйти ты сможешь. А вот вернуться сюда - не факт."
+    },
+    {
+      "key": "loc_quest2_desc2_choice1",
+      "text": "Выпить из чаши"
+    },
+    {
+      "key": "loc_quest2_desc2_choice2",
+      "text": "Сомнительная чаща и сомнительная жидкость. Уйти."
+    },
+    {
+      "key": "loc_quest2_desc3",
+      "text": "Раз за разом ты оказываешься снаружи здания, в конце концов потеряв и вход в него. Оно становится похожим на абсолютно серую бетонную коробку без входа и выхода...И к счастью ты снаружи."
+    },
+    {
+      "key": "loc_quest2_desc3_choice1",
+      "text": "Скрыться, пока Орден не нашел аномалию"
+    },
+    {
+      "key": "loc_quest2_desc4",
+      "text": "Ты чувствуешь, как твои жилы наполняются новой, неизвестной до этого силой. Кажется, весь мир вокруг стал ярче и понятнее. Сердце ускорило бег."
+    },
+    {
+      "key": "loc_quest2_desc4_choice1",
+      "text": "Улыбнуться и ощутить эту мощь всем собой"
+    },
+    {
+      "key": "loc_quest3_name",
+      "text": "Граффити"
+    },
+    {
+      "key": "loc_quest3_short_descript",
+      "text": "В этом районе..."
+    },
+    {
+      "key": "loc_quest3_descript",
+      "text": "В этом районе кто-то начал оставлять очень странные магические рисунки. Думаю, тебе это может быть интересно."
+    },
+    {
+      "key": "loc_quest3_desc1",
+      "text": "Среди мрачных переулков ты находишь странное графити.\n\nМножество гротескно нарисованных фигур, у которых даже глаза не намечены. Кто бы его не нарисовал, но он точно был не в себе - линии неровные, периодически вместо краски в ход шло нечто кроваво-бурое.\n\nА еще от рисунка веет магией. Так и хочется коснуться. \nНо не очередная ли это ловушка?"
+    },
+    {
+      "key": "loc_quest3_desc1_choice1",
+      "text": "Коснуться"
+    },
+    {
+      "key": "loc_quest3_desc1_choice2",
+      "text": "Отойти и изучить внимательней"
+    },
+    {
+      "key": "loc_quest3_desc2",
+      "text": "Ты касаешься графити и фигуры с него - буквально сходят с изображения, перемещаясь в реальное пространство. Они кружат вокруг тебя, образуя хоровод. С каждым их движением ты все сильнее слышишь стук сердца в ушах. И шепот.\n\n\"Избранный...\"\n\n\"Избранный!\"\n\n\"ИЗБРАННЫЙ"
+    },
+    {
+      "key": "loc_quest3_desc2_choice1",
+      "text": "Закричать"
+    },
+    {
+      "key": "loc_quest3_desc2_choice2",
+      "text": "Попытаться сбежать"
+    },
+    {
+      "key": "loc_quest3_desc3",
+      "text": "Ты отступаешь несколько шагов назад, но фигуры буквально сходят с изображения и увязываются за тобой. \n\nОни всё ближе и ближе."
+    },
+    {
+      "key": "loc_quest3_desc3_choice1",
+      "text": "Вскинуть кубики и приготовиться к бою"
+    },
+    {
+      "key": "loc_quest3_desc4",
+      "text": "Но достаточно лишь моргнуть и они исчезают. Как и не остается рисунка на стене.\n\nТолько остатки шепота внутри головы и...И неожиданно, но ты чувствуешь себя сильнее."
+    },
+    {
+      "key": "loc_quest3_desc4_choice1",
+      "text": "Сжать кулаки и отправиться дальше."
+    },
+    {
+      "key": "loc_quest3_desc5",
+      "text": "От кубиков тут же разносится во все стороны магическая вспышка. Нарисованные люди задрожали...\n\nИ рассыпались магической энергией прямо на землю."
+    },
+    {
+      "key": "loc_quest3_desc5_choice1",
+      "text": "Собрать энергию."
+    },
+    {
+      "key": "loc_quest4_name",
+      "text": "Сила воли"
+    },
+    {
+      "key": "loc_quest4_short_descript",
+      "text": "Не забывай тренироваться..."
+    },
+    {
+      "key": "loc_quest4_descript",
+      "text": "Не забывай тренироваться с кубиками. Без тренировки воли тебе будет очень сложно в пути."
+    },
+    {
+      "key": "loc_quest4_desc1",
+      "text": "Да, ты где-то читал, что магия - это еще и воля. Но тогда это все казалось выдуманным.\n\nВозможно, стоит воспользоваться советом Ребекки и потренироваться в эту короткую передышку?\n \nВпереди слишком много опасностей, чтобы быть к ним не готовым."
+    },
+    {
+      "key": "loc_quest4_desc1_choice1",
+      "text": "Пройти дальше."
+    },
+    {
+      "key": "loc_quest4_desc1_choice2",
+      "text": "Вернусь сюда позже."
+    },
+    {
+      "key": "loc_quest4_desc2",
+      "text": "Ты закрываешь глаза и сосредотачиваешься.\n\nМиг, другой и вот - вокруг только тишина. Да и нет никакого вокруг, есть только ты и твоя воля. Ты чувствуешь, как нагреваются кубики. И даже на краткий миг чувствуешь себя с ними одним целым.\n\nНо каким ты хочешь стать?"
+    },
+    {
+      "key": "loc_quest4_desc2_choice1",
+      "text": "Я хочу стать сильным."
+    },
+    {
+      "key": "loc_quest4_desc2_choice2",
+      "text": "Сила духа - моё кредо."
+    },
+    {
+      "key": "loc_quest4_desc3",
+      "text": "Ты чувствуешь как кубики поддаются твоим мыслям. \n\nТвоё тело наполняется их энергией и становится сильнее.\n\nКаждый вдох даётся легче."
+    },
+    {
+      "key": "loc_quest4_desc3_choice1",
+      "text": "Я сокрушу своих врагов."
+    },
+    {
+      "key": "loc_quest4_desc4",
+      "text": "Ты чувствуешь как кубики поддаются твоим мыслям. \n\nТвой разум наполняется их энергией и становится сильнее.\n\nТы сильнее сжимаешь их в руке."
+    },
+    {
+      "key": "loc_quest4_desc4_choice1",
+      "text": "Я не отступлюсь."
+    },
+    {
+      "key": "loc_quest5_name",
+      "text": "Птица"
+    },
+    {
+      "key": "loc_quest5_short_descript",
+      "text": "Ты будешь смеяться, но..."
+    },
+    {
+      "key": "loc_quest5_descript",
+      "text": "Ты будешь смеяться, но...Птицы на окраине промзоны странно себя ведут. Будто ими кто-то управляет..."
+    },
+    {
+      "key": "loc_quest5_desc1",
+      "text": "Проходя вдоль окраины промзоны, которую указала Хелена, ты замечаешь что на одном из каменных заборов, ограждающих старые особняки, сидит птица. \n\nНе простая птица, ведь у простой птицы не бывает драгоценного кольца на лапке."
+    },
+    {
+      "key": "loc_quest5_desc1_choice1",
+      "text": "Попробовать подозвать птицу"
+    },
+    {
+      "key": "loc_quest5_desc1_choice2",
+      "text": "Попробовать поймать птицу"
+    },
+    {
+      "key": "loc_quest5_desc2",
+      "text": "Ты ласково подзываешь птицу и, к твоему удивлению, она подлетает к тебе и даже садится на руку. \n\nЭто - огромный черный ворон и его глаза, как и взгляд, очень похожи на человеческие. \nКогда он вспархивает и улетает, кольцо будто само собой соскальзывает с лапки и оказывается у тебя в руках."
+    },
+    {
+      "key": "loc_quest5_desc2_choice1",
+      "text": "Забрать кольцо"
+    },
+    {
+      "key": "loc_quest5_desc3",
+      "text": "Ты пытаешься поймать птицу, но твои попытки тщетны - она слишком быстра.\n\nТебе только и остается, что провожать её удаляющийся силуэт взглядом."
+    },
+    {
+      "key": "loc_quest5_desc3_choice1",
+      "text": "Вздохнуть и уйти."
+    },
+    {
+      "key": "loc_quest6_name",
+      "text": "Застенчивый адепт"
+    },
+    {
+      "key": "loc_quest6_short_descript",
+      "text": "Тут есть один..."
+    },
+    {
+      "key": "loc_quest6_descript",
+      "text": "Тут есть один забытый тайник. Интересны координаты?"
+    },
+    {
+      "key": "loc_quest6_desc1",
+      "text": "Идёт проливной дождь.\nТы идешь по оставленным координатам в поисках тайника и вовремя успеваешь спрятаться, когда мимо тебя проходит адепт Ордена. Молодой парень с бегающими глазами и растрепанными волосами, он скрывается в переулке города.\n\nОн заметно нервничает и явно не ищет боя."
+    },
+    {
+      "key": "loc_quest6_desc1_choice1",
+      "text": "Оглушить его. Он здесь не просто так и может что-то скрывать."
+    },
+    {
+      "key": "loc_quest6_desc1_choice2",
+      "text": "Попробовать скрытно проследить за ним."
+    },
+    {
+      "key": "loc_quest6_desc2",
+      "text": "Ты оглушаешь его и быстро обыскиваешь. В его карманах нашлось несколько кристаллов, содержащих магическую эссенцию... Вот только дождаться и допросить его у тебя не получилось - вскоре прибыл патруль Ордена и тебе пришлось покинуть этот район."
+    },
+    {
+      "key": "loc_quest6_desc2_choice1",
+      "text": "Разломить кристалы и получить эссенцию"
+    },
+    {
+      "key": "loc_quest6_desc3",
+      "text": "Парень скрывается в переулке и подходит к тупику. \n\nМокрые обшарпаные кирпичи щедро украшены множеством граффити. Он прикрывает глаза и начинает постукивать по ним в каком-то странном ритме."
+    },
+    {
+      "key": "loc_quest6_desc3_choice1",
+      "text": "Настало время. Тайник наверняка здесь!"
+    },
+    {
+      "key": "loc_quest6_desc3_choice2",
+      "text": "Выждать еще время"
+    },
+    {
+      "key": "loc_quest6_desc4",
+      "text": "Ты оглушаешь его и быстро обыскиваешь. В его карманах нашлось несколько кристаллов, содержащих магическую эссенцию... Вот только дождаться и допросить его у тебя не получилось, как не получилось и открыть тайник без его помощи - вскоре прибыл патруль Ордена и времени просто не хватило."
+    },
+    {
+      "key": "loc_quest6_desc4_choice1",
+      "text": "Разломить кристалы и получить эссенцию. Хотя бы что-то"
+    },
+    {
+      "key": "loc_quest6_desc5",
+      "text": "Ты решаешь выждать время и не зря. Спустя две минуты постукиваний стена вздрагивает и раздвигается, обнаруживая тайник. \n\nТы применяешь магию и поток энергии ударяет инквизитора о стену, оглушая. Содержимое тайника теперь твоё!"
+    },
+    {
+      "key": "loc_quest6_desc5_choice1",
+      "text": "Изучить добычу"
+    },
+    {
+      "key": "scene_1_slide_1",
+      "text": "Получив в наследство старый дедушкин дом, я понятия не имел, что меня ждет. Думал, надо будет разобрать вещи, а потом выставить дом на продажу."
+    },
+    {
+      "key": "scene_1_slide_2",
+      "text": "Впервые я вошел в дом, где проводил так много времени в детстве…"
+    },
+    {
+      "key": "scene_1_slide_4",
+      "text": "Я прошелся по помещениям и воспрял духом - вещей было немного. Но потом я вспомнил, что все лишнее и временно ненужное дедушка складывал на чердак."
+    },
+    {
+      "key": "scene_1_slide_5",
+      "text": "Я забрался на чердак по старой приставной лестнице и чихнул несколько раз подряд. Все было сложено в коробки и сумки, а на старом столе, накрытом газетами, лежали какие-то мелкие предметы."
+    },
+    {
+      "key": "scene_1_slide_6",
+      "text": "Я подошел поближе и увидел, что это были игральные кубики из необычного материала."
+    },
+    {
+      "key": "scene_1_slide_7",
+      "text": "Я взял их в руку… и произошло что-то странное. Кубики засветились изнутри и стали очень горячими."
+    },
+    {
+      "key": "scene_1_slide_8",
+      "text": "От испуга я выронил их на газеты, и они тут же загорелись. Что делать?!"
+    },
+    {
+      "key": "scene_1_slide_10",
+      "text": "Раздался громкий щелчок, из ниоткуда появилась девушка и погасила огонь, сделав несколько пассов руками."
+    },
+    {
+      "key": "scene_1_slide_11",
+      "text": "Здравствуй, {Name}. Меня зовут Ребекка."
+    },
+    {
+      "key": "scene_1_slide_12",
+      "text": "Ты откуда?!"
+    },
+    {
+      "key": "scene_1_slide_13",
+      "text": "Неважно. Важно то, что я волшебница."
+    },
+    {
+      "key": "scene_1_slide_14",
+      "text": "А еще управляешь миром."
+    },
+    {
+      "key": "scene_1_slide_15",
+      "text": "Зря смеешься. Ты тоже волшебник, кстати."
+    },
+    {
+      "key": "scene_1_slide_16",
+      "text": "Но я не..."
+    },
+    {
+      "key": "scene_1_slide_17",
+      "text": "Мужская магия давно не существует. Но есть пророчество, что вновь появившийся мужчина-маг должен ее спасти. Ты избранный."
+    },
+    {
+      "key": "scene_1_slide_19",
+      "text": "Я не буду заниматься этой чепухой. Сумасшествие какое-то."
+    },
+    {
+      "key": "scene_1_slide_20",
+      "text": "Тебе некуда деваться, потому что пророчество не даст тебе жить спокойно."
+    },
+    {
+      "key": "scene_1_slide_21",
+      "text": "Оно гласит, что рано или поздно появится первый за много лет мужчина маг.\nИ он сможет восстановить утраченную магию."
+    },
+    {
+      "key": "scene_1_slide_22",
+      "text": "Я не могу быть магом. Это...все равно что сказать, что я осьминог."
+    },
+    {
+      "key": "scene_1_slide_23",
+      "text": "Смирись. Ты - избранный. Таково твое предназначение."
+    },
+    {
+      "key": "scene_1_slide_24",
+      "text": "А если я не хочу ему следовать? Если просто не стану?"
+    },
+    {
+      "key": "scene_1_slide_25",
+      "text": "Тогда до тебя доберется Орден Равенства, а волшебницы могут посчитать тебя врагом."
+    },
+    {
+      "key": "scene_1_slide_26",
+      "text": "Почему за мной должны охотиться? Что за Орден такой?"
+    },
+    {
+      "key": "scene_1_slide_27",
+      "text": "Орден хочет искоренить магию как явление. Они охотятся за всеми, обладающими магией."
+    },
+    {
+      "key": "scene_1_slide_28",
+      "text": "Поскольку ты теперь маг, то охотиться начнут и за тобой. Они умеют брать след."
+    },
+    {
+      "key": "scene_1_slide_29",
+      "text": "Теперь ты тоже будешь в зоне риска."
+    },
+    {
+      "key": "scene_1_slide_30",
+      "text": "Но пророчество должно исполниться любой ценой. Я научу тебя основам."
+    },
+    {
+      "key": "scene_1_slide_31",
+      "text": "Прямо сейчас?"
+    },
+    {
+      "key": "scene_1_slide_32",
+      "text": "Да. Остальное ты освоишь сам."
+    },
+    {
+      "key": "scene_1_slide_33",
+      "text": "За что мне это?"
+    },
+    {
+      "key": "scene_1_slide_34",
+      "text": "Все задают себе вопрос \"за что\", но никто ни разу не получил ответа. Приступаем."
+    },
+    {
+      "key": "scene_1_slide_35",
+      "text": "Встал так утром, а в обед выяснилось, что я избранный..."
+    },
+    {
+      "key": "scene_1_slide_36",
+      "text": "Перестань ныть. Впрочем, давай вернемся к тому, чем тебе предстоит заняться."
+    },
+    {
+      "key": "scene_1_slide_37",
+      "text": "Что мне придется сделать?"
+    },
+    {
+      "key": "scene_1_slide_38",
+      "text": "Вытащить несколько человек из лап Ордена. Только ты можешь это сделать."
+    },
+    {
+      "key": "scene_1_slide_39",
+      "text": "Возможно, сразиться с некоторыми Адептами."
+    },
+    {
+      "key": "scene_1_slide_40",
+      "text": "Я ощутил слабость."
+    },
+    {
+      "key": "scene_1_slide_41",
+      "text": "Как я это сделаю?"
+    },
+    {
+      "key": "scene_1_slide_42",
+      "text": "Тебе придется пробраться на территорию укрепленной базы Ордена, которая находится в промзоне."
+    },
+    {
+      "key": "scene_1_slide_43",
+      "text": "И много чего еще..."
+    },
+    {
+      "key": "scene_1_slide_44",
+      "text": "Не будем терять время."
+    },
+    {
+      "key": "scene_1_slide_45",
+      "text": "Сейчас у нас будет пробный бой. Сосредоточься."
+    },
+    {
+      "key": "scene_2_slide_1",
+      "text": "Cлушай, кстати, хотел спросить: а что это за кубики?"
+    },
+    {
+      "key": "scene_2_slide_2",
+      "text": "Это - артефакты. То, что позволяет тебе творить магию."
+    },
+    {
+      "key": "scene_2_slide_3",
+      "text": "А откуда они взялись у моего дедушки?"
+    },
+    {
+      "key": "scene_2_slide_4",
+      "text": "Я тебе потом расскажу...А пока давай восстановим силы."
+    },
+    {
+      "key": "scene_2_choose_1_variant_1",
+      "text": "А это не больно?"
+    },
+    {
+      "key": "scene_2_choose_1_variant_2",
+      "text": "Интересный поворот."
+    },
+    {
+      "key": "scene_slide_4_variant_1",
+      "text": "Тебе понравится."
+    },
+    {
+      "key": "scene_slide_4_variant_2",
+      "text": "Сосредоточься и не отвлекайся."
+    },
+    {
+      "key": "scene_2_slide_5",
+      "text": "Настало время научить тебя заклинаниям."
+    },
+    {
+      "key": "scene_2_slide_6",
+      "text": "Буду рад продолжить."
+    },
+    {
+      "key": "scene_3_slide_1",
+      "text": "Теперь ты не так безнадежен. Не ожидала, думала, будет хуже."
+    },
+    {
+      "key": "scene_3_slide_2",
+      "text": "С тебя одежда слетала во время боя. Я тоже не ожидал такого."
+    },
+    {
+      "key": "scene_3_slide_3",
+      "text": "Тебе нравится то, что ты видишь?"
+    },
+    {
+      "key": "scene_3_slide_4",
+      "text": "Очень."
+    },
+    {
+      "key": "scene_3_slide_5",
+      "text": "Тогда я закончу инструктаж, и мы немного расслабимся."
+    },
+    {
+      "key": "scene_3_slide_6",
+      "text": "Тебе нужно переговорить с моей подругой Алисией. Она введет тебя в курс дела."
+    },
+    {
+      "key": "scene_3_choose_1_variant_1",
+      "text": "Как мне её найти?"
+    },
+    {
+      "key": "scene_3_choose_1_variant_2",
+      "text": "А я могу доверять кому-то кроме тебя?"
+    },
+    {
+      "key": "scene_3_slide_6_variant_1",
+      "text": "Об этом позже."
+    },
+    {
+      "key": "scene_3_slide_6_variant_2",
+      "text": "Да, ей - абсолютно. Она никогда не сдаст тебя Ордену."
+    },
+    {
+      "key": "scene_3_slide_7",
+      "text": "Я все объясню и покажу, не беспокойся."
+    },
+    {
+      "key": "scene_3_slide_8",
+      "text": "Сейчас можно перевести дух."
+    },
+    {
+      "key": "scene_3_slide_9",
+      "text": "У тебя есть девушка?"
+    },
+    {
+      "key": "scene_3_slide_10",
+      "text": "Нет. А почему ты спрашиваешь?"
+    },
+    {
+      "key": "scene_3_slide_11",
+      "text": "Я подумала, что ты классный парень..."
+    },
+    {
+      "key": "scene_3_slide_12",
+      "text": "Правда? Почему?"
+    },
+    {
+      "key": "scene_3_slide_13",
+      "text": "Теперь ты маг. Это все меняет."
+    },
+    {
+      "key": "scene_3_slide_14",
+      "text": "Это делает тебя единственным и неповторимым."
+    },
+    {
+      "key": "scene_3_slide_15",
+      "text": "Интересно, каков первый мужчина-маг в постели?"
+    },
+    {
+      "key": "scene_3_slide_16",
+      "text": "Ты хочешь узнать это прямо сейчас?"
+    },
+    {
+      "key": "scene_3_slide_17",
+      "text": "Да. А ты сможешь узнать, каково это быть в постели с волшебницей."
+    },
+    {
+      "key": "scene_3_slide_18",
+      "text": "Заинтригован."
+    },
+    {
+      "key": "scene_3_slide_19",
+      "text": "Тогда раздевайся."
+    },
+    {
+      "key": "scene_4_slide_1",
+      "text": "Я встретился с Алисией в условленном месте."
+    },
+    {
+      "key": "scene_4_slide_2",
+      "text": "Пойдем. Расскажу про город."
+    },
+    {
+      "key": "scene_4_slide_3",
+      "text": "Не знаю, зачем ты нужен Ребекке. Мне ты не особо нужен."
+    },
+    {
+      "key": "scene_4_slide_4",
+      "text": "И тем более не нравишься, совсем не в моем вкусе."
+    },
+    {
+      "key": "scene_4_choose_1_variant_1",
+      "text": "Я тоже не рад знакомству."
+    },
+    {
+      "key": "scene_4_choose_1_variant_2",
+      "text": "Возможно, я смогу произвести впечатление получше."
+    },
+    {
+      "key": "scene_4_slide_5",
+      "text": "Я не уверена, что ты в достаточной мере владеешь магией, чтобы выполнить пророчество."
+    },
+    {
+      "key": "scene_4_choose_2_variant_1",
+      "text": "Понимаю. Проверь меня."
+    },
+    {
+      "key": "scene_4_choose_2_variant_2",
+      "text": "Ты такая хлипкая...Я тебя по стенке размажу и без всякой магии."
+    },
+    {
+      "key": "scene_4_slide_5_variant_1",
+      "text": "Придется."
+    },
+    {
+      "key": "scene_4_slide_5_variant_2",
+      "text": "Это мы еще посмотрим."
+    },
+    {
+      "key": "scene_4_slide_6",
+      "text": "А ты хорош. Что же, начнем."
+    },
+    {
+      "key": "scene_4_slide_7",
+      "text": "Город имеет две части: старую и новую."
+    },
+    {
+      "key": "scene_4_slide_8",
+      "text": "Это ты и сам знаешь. Но вот знаешь ли ты, что в старой части находится штаб Ордена? В Старой, конечно."
+    },
+    {
+      "key": "scene_4_slide_9",
+      "text": "Теперь узнал."
+    },
+    {
+      "key": "scene_4_slide_10",
+      "text": "Там и полевые агенты, и канцелярия, и вспомогательные отделения."
+    },
+    {
+      "key": "scene_4_slide_11",
+      "text": "Повсюду снуют Адепты."
+    },
+    {
+      "key": "scene_4_slide_12",
+      "text": "В новой, в основном, жилые дома. Весь официоз в старой части."
+    },
+    {
+      "key": "scene_4_slide_13",
+      "text": "Орден шныряет повсюду. У них есть как офицеры в форме, так и люди под видом гражданских."
+    },
+    {
+      "key": "scene_4_slide_14",
+      "text": "У них есть наблюдательные посты и патрули."
+    },
+    {
+      "key": "scene_4_slide_15",
+      "text": "Специально обученные люди сами не владеют магией, но прекрасно чувствуют ее присутствие."
+    },
+    {
+      "key": "scene_4_slide_16",
+      "text": "Они могут находиться где угодно."
+    },
+    {
+      "key": "scene_4_slide_17",
+      "text": "Всегда надо быть настороже. Хотя вам, мужчинам, проще."
+    },
+    {
+      "key": "scene_4_slide_18",
+      "text": "Вон там стоит мужчина и пристально на нас смотрит. Это может быть адепт Ордена?"
+    },
+    {
+      "key": "scene_4_slide_19",
+      "text": "Похоже, это он и есть."
+    },
+    {
+      "key": "scene_4_slide_20",
+      "text": "Надо уходить."
+    },
+    {
+      "key": "scene_4_slide_21",
+      "text": "Он идет за нами... О нет!"
+    },
+    {
+      "key": "scene_4_slide_22",
+      "text": "Такие как он предлагают пройти с ними, а потом волшебница исчезает."
+    },
+    {
+      "key": "scene_4_slide_23",
+      "text": "Я остановлю его."
+    },
+    {
+      "key": "scene_4_choose_3_variant_1",
+      "text": "Надеюсь, он не сильно пострадает, иначе меня загрызет совесть."
+    },
+    {
+      "key": "scene_4_choose_3_variant_2",
+      "text": "Я его порву в куски!"
+    },
+    {
+      "key": "scene_5_slide_1",
+      "text": "Я думала, ты слабак."
+    },
+    {
+      "key": "scene_5_slide_2",
+      "text": "Зря. Ты не испугалась?"
+    },
+    {
+      "key": "scene_5_slide_3",
+      "text": "Ужасно испугалась. Я думала, что все кончено."
+    },
+    {
+      "key": "scene_5_slide_4",
+      "text": "Так, на чем мы остановились?"
+    },
+    {
+      "key": "scene_5_slide_5",
+      "text": "Мы остановились на том, насколько опасен Орден, но ты уже и сам это понял."
+    },
+    {
+      "key": "scene_5_slide_6",
+      "text": "По словам Ребекки твоя конечная цель - восстановить мужскую магию. Для этого тебе понадобится найти Демиургов."
+    },
+    {
+      "key": "scene_5_slide_7",
+      "text": "Как я узнаю, где они?"
+    },
+    {
+      "key": "scene_5_slide_8",
+      "text": "С этим сложнее. Тебе придется узнать это у других волшебниц."
+    },
+    {
+      "key": "scene_5_slide_9",
+      "text": "Ты так говоришь, будто здесь есть подвох."
+    },
+    {
+      "key": "scene_5_slide_10",
+      "text": "Они находятся в застенках Ордена."
+    },
+    {
+      "key": "scene_5_slide_11",
+      "text": "Если освободишь их, они поделятся с тобой информацией."
+    },
+    {
+      "key": "scene_5_slide_12",
+      "text": "Я отмечу на карте убежище, где вы сможете переждать погоню."
+    },
+    {
+      "key": "scene_5_slide_13",
+      "text": "Ох... Допустим, я проберусь на базу. Что дальше?"
+    },
+    {
+      "key": "scene_5_choose_1_variant_1",
+      "text": "Просто освободить девушек?"
+    },
+    {
+      "key": "scene_5_choose_1_variant_2",
+      "text": "Или заодно поубивать Адептов?"
+    },
+    {
+      "key": "scene_5_slide_14",
+      "text": "Ты же герой. Герои могут все. Если серьезно, то просто освободить волшебниц."
+    },
+    {
+      "key": "scene_5_slide_15",
+      "text": "Я начинающий герой, мне нужна информация и детали, чего ожидать на базе."
+    },
+    {
+      "key": "scene_5_slide_16",
+      "text": "Первый фактор, который облегчит задачу, это медлительная охрана."
+    },
+    {
+      "key": "scene_5_slide_17",
+      "text": "В таком месте не может быть медлительных охранников."
+    },
+    {
+      "key": "scene_5_slide_18",
+      "text": "Они очень сильные, но двигаются медленно, потому что им мешает экипировка."
+    },
+    {
+      "key": "scene_5_slide_19",
+      "text": "А второй фактор?"
+    },
+    {
+      "key": "scene_5_slide_20",
+      "text": "Там есть секретный способ. Но за это ты должен мне поцелуй."
+    },
+    {
+      "key": "scene_5_slide_21",
+      "text": "И все? Мне казалось, я должен больше."
+    },
+    {
+      "key": "scene_5_slide_22",
+      "text": "Мы же не будем это делать в центре города?"
+    },
+    {
+      "key": "scene_5_slide_23",
+      "text": "Я готов делать это с тобой где угодно."
+    },
+    {
+      "key": "scene_5_slide_24",
+      "text": "Кажется, я вижу еще одного Адепта. Мне страшно..."
+    },
+    {
+      "key": "scene_5_slide_25",
+      "text": "Он не понимает, от кого из нас ощущает магию, но хочет выяснить."
+    },
+    {
+      "key": "scene_5_slide_26",
+      "text": "Нужно спрятаться!"
+    },
+    {
+      "key": "scene_5_slide_27",
+      "text": "Не успеем. Он уже идет к нам."
+    },
+    {
+      "key": "scene_5_slide_28",
+      "text": "Ты спрячься, а я разберусь с ним."
+    },
+    {
+      "key": "scene_5_slide_29",
+      "text": "Будь осторожен! Они готовы на все!"
+    },
+    {
+      "key": "scene_5_slide_30",
+      "text": "Я тоже готов на все!"
+    },
+    {
+      "key": "scene_5_slide_31",
+      "text": "Отступать было некуда."
+    },
+    {
+      "key": "scene_6_slide_1",
+      "text": "Алисия! Где ты?"
+    },
+    {
+      "key": "scene_6_slide_2",
+      "text": "Я пряталась вон за теми ящиками и очень за тебя переживала."
+    },
+    {
+      "key": "scene_6_slide_3",
+      "text": "Спасибо, герой."
+    },
+    {
+      "key": "scene_6_slide_4",
+      "text": "Мне было очень приятно. Возможно, не так и плохо быть избранным?"
+    },
+    {
+      "key": "scene_6_slide_5",
+      "text": "Держи свой кошелек."
+    },
+    {
+      "key": "scene_6_slide_6",
+      "text": "Это что за новости? Ты меня обокрала?"
+    },
+    {
+      "key": "scene_6_slide_7",
+      "text": "Намек, что не надо никому доверять."
+    },
+    {
+      "key": "scene_6_slide_8",
+      "text": "А тебе?"
+    },
+    {
+      "key": "scene_6_slide_9",
+      "text": "Мне особенно. Ладно, вернемся к вопросу базы Ордена."
+    },
+    {
+      "key": "scene_6_slide_10",
+      "text": "Там ходят патрули, и у них жесткий график. Я дам его тебе, и ты сможешь пробраться в пересменку."
+    },
+    {
+      "key": "scene_6_slide_11",
+      "text": "Алисия добавляла все новые аспекты, и у меня голова шла кругом от обилия информации."
+    },
+    {
+      "key": "scene_6_slide_12",
+      "text": "Пересменки, ниши в стенах, слепые пятна..."
+    },
+    {
+      "key": "scene_6_slide_13",
+      "text": "Постой-ка, а что делать, если меня поймают?"
+    },
+    {
+      "key": "scene_6_slide_14",
+      "text": "Это крайне нежелательно. Прогнозы печальные."
+    },
+    {
+      "key": "scene_6_slide_15",
+      "text": "Если я должен исполнить пророчество, то не могу погибнуть."
+    },
+    {
+      "key": "scene_6_slide_16",
+      "text": "Жизнь преподносит разные сюрпризы."
+    },
+    {
+      "key": "scene_6_slide_17",
+      "text": "Ты должен найти девушку, которая предоставит дальнейшую информацию."
+    },
+    {
+      "key": "scene_6_slide_18",
+      "text": "Её зовут Хелена. Она...Легко верит людям. Так и попала в плен."
+    },
+    {
+      "key": "scene_6_slide_19",
+      "text": "Один раз стоило оставить её без присмотра. Мы должны спасти её."
+    },
+    {
+      "key": "scene_6_slide_20",
+      "text": "Направь все усилия на это, а не на пустое волнение."
+    },
+    {
+      "key": "scene_6_slide_21",
+      "text": "А что мне делать, если я столкнусь с охранниками?"
+    },
+    {
+      "key": "scene_6_choose_1_variant_1",
+      "text": "Может быть, получится прокрасться мимо?"
+    },
+    {
+      "key": "scene_6_choose_1_variant_2",
+      "text": "Я обаятельный. Их можно обмануть?"
+    },
+    {
+      "key": "scene_6_slide_21_variant_1",
+      "text": "Там множество камер. Кто-нибудь да заметит. Без боя не обойтись."
+    },
+    {
+      "key": "scene_6_slide_21_variant_2",
+      "text": "Они абсолютные фанатики в большинстве своём. Вряд ли получится обойтись без боя."
+    },
+    {
+      "key": "scene_6_slide_22",
+      "text": "Я, кажется, рассказала все, что нужно. Перейдем к долгам."
+    },
+    {
+      "key": "scene_6_slide_23",
+      "text": "Да-да, я был что-то должен..."
+    },
+    {
+      "key": "scene_6_slide_24",
+      "text": "Больше, чем поцелуй."
+    },
+    {
+      "key": "scene_6_slide_25",
+      "text": "Пойдем. Там дверь в заброшенную кладовку."
+    },
+    {
+      "key": "scene_6_slide_26",
+      "text": "Обещаю, что мы хорошо проведем время."
+    },
+    {
+      "key": "scene_6_slide_27",
+      "text": "Если ты приглашаешь..."
+    },
+    {
+      "key": "scene_6_slide_28",
+      "text": "Но не рассчитывай на многое в этот раз. Хочу подразнить тебя."
+    },
+    {
+      "key": "scene_6_slide_29",
+      "text": "Окей, давай растянем удовольствие."
+    },
+    {
+      "key": "scene_6_slide_30",
+      "text": "Ты такой милый..."
+    },
+    {
+      "key": "scene_6_choose_2_variant_1",
+      "text": "А здесь не опасно?"
+    },
+    {
+      "key": "scene_6_choose_2_variant_2",
+      "text": "Я не хочу тянуть...Я хочу тебя здесь и сейчас."
+    },
+    {
+      "key": "scene_6_slide_30_variant_1",
+      "text": "Без риска никуда...Избранный."
+    },
+    {
+      "key": "scene_6_slide_30_variant_2",
+      "text": "Рано еще. Геройствуй дальше."
+    },
+    {
+      "key": "scene_7_slide_1",
+      "text": "Мы еще не все сделали."
+    },
+    {
+      "key": "scene_7_slide_2",
+      "text": "Она оделась, и мы вышли из помещения."
+    },
+    {
+      "key": "scene_7_slide_3",
+      "text": "Опять Адепт..."
+    },
+    {
+      "key": "scene_7_slide_4",
+      "text": "Надоели уже. Что за день..."
+    },
+    {
+      "key": "scene_7_slide_5",
+      "text": "Я начинаю к этому привыкать."
+    },
+    {
+      "key": "scene_7_slide_6",
+      "text": "Не уверена, что к этому можно привыкнуть."
+    },
+    {
+      "key": "scene_7_slide_7",
+      "text": "У меня нет выбора. Так я хотя бы буду спокойнее."
+    },
+    {
+      "key": "scene_7_slide_8",
+      "text": "Спрячься пока что."
+    },
+    {
+      "key": "scene_7_slide_9",
+      "text": "Сейчас главное отбиться и остаться в живых."
+    },
+    {
+      "key": "scene_8_slide_1",
+      "text": "Девушка тяжело дышала. Но ее взгляд выдавал не проигравшую сторону..."
+    },
+    {
+      "key": "scene_8_slide_2",
+      "text": "Мы еще увидимся... Мне нравятся молоденькие мальчики, как ты."
+    },
+    {
+      "key": "scene_8_slide_3",
+      "text": "Она эротично облизнула губы и медленно ушла."
+    },
+    {
+      "key": "scene_8_slide_4",
+      "text": "Я дождался пока она скроется из виду и крикнул:"
+    },
+    {
+      "key": "scene_8_slide_5",
+      "text": "Выходи, Алисия!"
+    },
+    {
+      "key": "scene_8_slide_6",
+      "text": "Я узнала ее! Это Хильда!"
+    },
+    {
+      "key": "scene_8_slide_7",
+      "text": "Вы знакомы?"
+    },
+    {
+      "key": "scene_8_slide_8",
+      "text": "Она известна среди Адептов. Отвечает за пленников."
+    },
+    {
+      "key": "scene_8_slide_9",
+      "text": "В ее ведении находятся все арестованные волшебницы."
+    },
+    {
+      "key": "scene_8_slide_10",
+      "text": "Да-да, помню, ты говорила об этом."
+    },
+    {
+      "key": "scene_8_slide_11",
+      "text": "Да. Волшебницы находятся в плену без суда и следствия."
+    },
+    {
+      "key": "scene_8_slide_12",
+      "text": "Она имеет право делать с ними, что захочет. Но Адептам нельзя и пальцем тронуть обычного человека."
+    },
+    {
+      "key": "scene_8_slide_13",
+      "text": "Почему так?"
+    },
+    {
+      "key": "scene_8_slide_14",
+      "text": "Идеология их Ордена - это защита людей, от нас магов. На самом деле, цели, конечно, другие. Но рядовые Адепты считают себя добром."
+    },
+    {
+      "key": "scene_8_slide_15",
+      "text": "Хильда - типичный Адепт и строго следует всем законам."
+    },
+    {
+      "key": "scene_8_slide_16",
+      "text": "Не хотел бы я оказаться ее пленником..."
+    },
+    {
+      "key": "scene_8_slide_17",
+      "text": "Тебе все же предстоит побывать в этой тюрьме и вытащить оттуда Хелену."
+    },
+    {
+      "key": "scene_8_slide_18",
+      "text": "Какую информацию я смогу от нее получить?"
+    },
+    {
+      "key": "scene_8_slide_19",
+      "text": "Максимум - где находятся самые могущественные существа."
+    },
+    {
+      "key": "scene_8_slide_20",
+      "text": "Минимум - она подслушала кое-что из планов Орден и сможет тебе это рассказать."
+    },
+    {
+      "key": "scene_8_slide_21",
+      "text": "Кстати, как я ее узнаю? Как она выглядит?"
+    },
+    {
+      "key": "scene_8_slide_22",
+      "text": "Высокая худая девушка с темными волосами."
+    },
+    {
+      "key": "scene_8_slide_23",
+      "text": "Про охрану я рассказала, про особенности территории тоже..."
+    },
+    {
+      "key": "scene_8_slide_24",
+      "text": "Но пора закончить начатое..."
+    },
+    {
+      "key": "scene_8_slide_25",
+      "text": "На чём мы остановились?"
+    },
+    {
+      "key": "scene_8_slide_26",
+      "text": "На том, какой ты горячий."
+    },
+    {
+      "key": "scene_8_slide_27",
+      "text": "Ты такая соблазнительная..."
+    },
+    {
+      "key": "scene_8_slide_28",
+      "text": "Давай не будем медлить."
+    },
+    {
+      "key": "scene_8_slide_29",
+      "text": "Хочешь ощутить меня внутри?"
+    },
+    {
+      "key": "scene_8_slide_30",
+      "text": "Я вся твоя."
+    },
+    {
+      "key": "scene_9_slide_1",
+      "text": "Следуя инструкции Алисии, я проник в то место, где содержались пленники."
+    },
+    {
+      "key": "scene_9_slide_2",
+      "text": "Стоило больших трудов подавить липкий страх."
+    },
+    {
+      "key": "scene_9_slide_3",
+      "text": "Я помнил, что мне нужно найти Хелену, а также я знал, как она должна выглядеть."
+    },
+    {
+      "key": "scene_9_slide_4",
+      "text": "Хелена нашлась в некотором подобии одиночной камеры. Дверь была очень надежной."
+    },
+    {
+      "key": "scene_9_slide_5",
+      "text": "Хелена!"
+    },
+    {
+      "key": "scene_9_slide_6",
+      "text": "Я вытащу тебя отсюда."
+    },
+    {
+      "key": "scene_9_slide_7",
+      "text": "Я дождалась! Наконец-то!"
+    },
+    {
+      "key": "scene_9_slide_8",
+      "text": "Но... Ты же не просто так это делаешь. Зачем я тебе?"
+    },
+    {
+      "key": "scene_9_choose_1_variant_1",
+      "text": "Потому что невиновные не должны сидеть взаперти."
+    },
+    {
+      "key": "scene_9_choose_1_variant_2",
+      "text": "Мне нужна информация. Но ты будешь должна и кое-что ещё."
+    },
+    {
+      "key": "scene_9_slide_8_variant_1",
+      "text": "Ты настоящий герой! Но...Как ты узнал, где меня содержат?"
+    },
+    {
+      "key": "scene_9_slide_8_variant_2",
+      "text": "Конечно, только освободи меня! Но...Как ты узнал, где меня содержат?"
+    },
+    {
+      "key": "scene_9_slide_9",
+      "text": "Алисия..."
+    },
+    {
+      "key": "scene_9_slide_10",
+      "text": "Так это все она? Тогда понятно."
+    },
+    {
+      "key": "scene_9_slide_11",
+      "text": "Я кое-как вскрыл тяжелый замок и открыл дверь. Она тихо заскрипела."
+    },
+    {
+      "key": "scene_9_slide_12",
+      "text": "Мы с Хеленой замерли в ужасе. Но, кажется, никто не услышал скрипа."
+    },
+    {
+      "key": "scene_9_slide_13",
+      "text": "Пойдем быстрее."
+    },
+    {
+      "key": "scene_9_slide_14",
+      "text": "Сердце колотилось изо всех сил."
+    },
+    {
+      "key": "scene_9_slide_15",
+      "text": "Я взял Хелену за руку, и мы побежали к выходу."
+    },
+    {
+      "key": "scene_9_slide_16",
+      "text": "Но нам не повезло."
+    },
+    {
+      "key": "scene_9_slide_17",
+      "text": "На пути вырос один из охранников."
+    },
+    {
+      "key": "scene_9_slide_18",
+      "text": "Он чудовище... Он убьет нас."
+    },
+    {
+      "key": "scene_9_slide_19",
+      "text": "Ничего, у меня есть опыт."
+    },
+    {
+      "key": "scene_9_slide_20",
+      "text": "Но он все равно очень опасен! Не думай, что будет легко!"
+    },
+    {
+      "key": "scene_9_slide_21",
+      "text": "Сейчас я с ним разберусь."
+    },
+    {
+      "key": "scene_10_slide_1",
+      "text": "Ты невероятный!"
+    },
+    {
+      "key": "scene_10_slide_2",
+      "text": "Хелена была в восторге."
+    },
+    {
+      "key": "scene_10_slide_3",
+      "text": "Ты разделался с этим чудовищем! Я перед тобой в долгу!"
+    },
+    {
+      "key": "scene_10_slide_4",
+      "text": "Расскажешь, что мне делать дальше, и мы в расчете."
+    },
+    {
+      "key": "scene_10_slide_5",
+      "text": "Что угодно! Я и подумать не могла, что я отсюда выйду!"
+    },
+    {
+      "key": "scene_10_slide_6",
+      "text": "Я же избранный. Спасти тебя - это лишь часть того, что я могу."
+    },
+    {
+      "key": "scene_10_slide_7",
+      "text": "Хелена остановилась. Я тоже."
+    },
+    {
+      "key": "scene_10_slide_8",
+      "text": "В каком смысле избранный?"
+    },
+    {
+      "key": "scene_10_slide_9",
+      "text": "Мужчина-маг. И мой основной инструмент это кубики."
+    },
+    {
+      "key": "scene_10_slide_10",
+      "text": "Мужчин-магов нет уже много лет. Как так получилось, что ты...?"
+    },
+    {
+      "key": "scene_10_slide_11",
+      "text": "Было сделано пророчество, что появится избранный, способный возродить мужскую магию."
+    },
+    {
+      "key": "scene_10_slide_12",
+      "text": "Так получилось, что это я."
+    },
+    {
+      "key": "scene_10_slide_13",
+      "text": "Поразительно... Нет, это невозможно... но раз ты так говоришь..."
+    },
+    {
+      "key": "scene_10_slide_14",
+      "text": "Я и сам до сих пор не свыкся с новой ролью."
+    },
+    {
+      "key": "scene_10_slide_15",
+      "text": "Для меня вся эта ситуация в новинку."
+    },
+    {
+      "key": "scene_10_slide_16",
+      "text": "И про кубики в качестве магического инструмента я тоже впервые слышу."
+    },
+    {
+      "key": "scene_10_slide_17",
+      "text": "Ты бы знала, как я сам удивился."
+    },
+    {
+      "key": "scene_10_slide_18",
+      "text": "Думал, свихнулся."
+    },
+    {
+      "key": "scene_10_slide_19",
+      "text": "Ты неповторимый. И спаситель, и маг, и просто крутой парень."
+    },
+    {
+      "key": "scene_11_slide_1",
+      "text": "Когда мы выйдем..."
+    },
+    {
+      "key": "scene_11_slide_2",
+      "text": "Намек понят."
+    },
+    {
+      "key": "scene_11_slide_3",
+      "text": "На что я могу рассчитывать?"
+    },
+    {
+      "key": "scene_11_slide_4",
+      "text": "На что хочешь. Я готова на все."
+    },
+    {
+      "key": "scene_11_slide_5",
+      "text": "Очень люблю, когда красивая девушка готова на все."
+    },
+    {
+      "key": "scene_11_slide_6",
+      "text": "Тебе понравится."
+    },
+    {
+      "key": "scene_11_slide_7",
+      "text": "Ты так уверена в своих словах? А вдруг нет?"
+    },
+    {
+      "key": "scene_11_slide_8",
+      "text": "Не забывай, что я волшебница."
+    },
+    {
+      "key": "scene_11_slide_9",
+      "text": "Меня вообще заводит, когда такой красавчик спасает меня из плена."
+    },
+    {
+      "key": "scene_11_slide_10",
+      "text": "А это хорошая идея - спасать тебя почаще."
+    },
+    {
+      "key": "scene_11_slide_11",
+      "text": "Если это будешь делать лично ты, я буду счастлива."
+    },
+    {
+      "key": "scene_11_slide_12",
+      "text": "Обязательно учту на будущее."
+    },
+    {
+      "key": "scene_11_slide_13",
+      "text": "Кто это там промелькнул? Мне показалось..."
+    },
+    {
+      "key": "scene_11_slide_14",
+      "text": "Не знаю, надо осмотреться."
+    },
+    {
+      "key": "scene_11_slide_15",
+      "text": "Интуиция не подвела."
+    },
+    {
+      "key": "scene_11_slide_16",
+      "text": "Мы увидели еще одного охранника, который хищно скалил зубы в нашу сторону."
+    },
+    {
+      "key": "scene_11_slide_17",
+      "text": "Где они только берутся... Бить не успеваю."
+    },
+    {
+      "key": "scene_12_slide_1",
+      "text": "Хелена была очень напугана."
+    },
+    {
+      "key": "scene_12_slide_2",
+      "text": "Я не знаю, выйдем мы отсюда или нет... Что ты хотел узнать?"
+    },
+    {
+      "key": "scene_12_slide_3",
+      "text": "Как найти самых могущественных сущ..."
+    },
+    {
+      "key": "scene_12_slide_4",
+      "text": "Не продолжай, я поняла. Лично я не знаю, но знаю девушку, которая сможет тебе в этом помочь."
+    },
+    {
+      "key": "scene_12_slide_5",
+      "text": "Надеюсь, она не в плену."
+    },
+    {
+      "key": "scene_12_slide_6",
+      "text": "Напрасно надеешься... Ее зовут Этель. И вот у нее должна быть эта информация."
+    },
+    {
+      "key": "scene_12_slide_7",
+      "text": "Она дриада. Ее держит при себе Верховный Адепт."
+    },
+    {
+      "key": "scene_12_slide_8",
+      "text": "Насколько мне известно, Этель находится в клетке чуть ли не в его личных покоях."
+    },
+    {
+      "key": "scene_12_slide_9",
+      "text": "То есть попутно придется воевать и с Верховным?"
+    },
+    {
+      "key": "scene_12_slide_10",
+      "text": "Да. Если мы ее освободим, она расскажет то, что нам нужно."
+    },
+    {
+      "key": "scene_12_slide_11",
+      "text": "Она знает, как добраться до самых могущественных существ в мире магии..."
+    },
+    {
+      "key": "scene_12_slide_12",
+      "text": "Опять придется лезть в самое пекло."
+    },
+    {
+      "key": "scene_12_slide_13",
+      "text": "Я знаю, в каком секторе промзоны находится Верховный. Могу провести туда."
+    },
+    {
+      "key": "scene_12_slide_14",
+      "text": "Хорошо, пойдем туда вместе, но позже."
+    },
+    {
+      "key": "scene_12_slide_15",
+      "text": "Мы сумели добраться незамеченными до убежища, обозначенного Алисией ранее."
+    },
+    {
+      "key": "scene_12_slide_16",
+      "text": "Нам нужно было пересидеть какое-то время и не выходить на улицу."
+    },
+    {
+      "key": "scene_12_slide_17",
+      "text": "Хелена бодро осваивалась в новом месте."
+    },
+    {
+      "key": "scene_12_slide_18",
+      "text": "После тюремной камеры ей все будет казаться роскошным еще пару месяцев."
+    },
+    {
+      "key": "scene_12_slide_19",
+      "text": "Меня наполняла гордость, что я смог спасти прекрасную девушку."
+    },
+    {
+      "key": "scene_12_slide_20",
+      "text": "Ты обещала меня отблагодарить."
+    },
+    {
+      "key": "scene_12_slide_21",
+      "text": "Ты будешь моей плохой девочкой?"
+    },
+    {
+      "key": "scene_12_slide_22",
+      "text": "Сделаю все, что ты захочешь."
+    },
+    {
+      "key": "scene_12_slide_23",
+      "text": "Хочу, чтобы ты разделась."
+    },
+    {
+      "key": "scene_12_slide_24",
+      "text": "Взгляд Хелены выражал неприкрытое желание."
+    },
+    {
+      "key": "scene_13_slide_1",
+      "text": "Очень красивая."
+    },
+    {
+      "key": "scene_13_slide_2",
+      "text": "Хочу видеть тебя всю."
+    },
+    {
+      "key": "scene_13_slide_3",
+      "text": "Сегодня я тобой займусь."
+    },
+    {
+      "key": "scene_13_slide_4",
+      "text": "Но позже."
+    },
+    {
+      "key": "scene_13_slide_5",
+      "text": "Почему?"
+    },
+    {
+      "key": "scene_13_slide_6",
+      "text": "Я чувствую приближение какой-то опасности. Укрытие может стать ловушкой. Я хочу предотвратить риск."
+    },
+    {
+      "key": "scene_13_slide_7",
+      "text": "Конечно!"
+    },
+    {
+      "key": "scene_13_slide_8",
+      "text": "Скоро вернусь."
+    },
+    {
+      "key": "scene_13_slide_9",
+      "text": "До встречи."
+    },
+    {
+      "key": "scene_14_slide_1",
+      "text": "Пройдя совсем немного, я ощутил, что опасность совсем близко."
+    },
+    {
+      "key": "scene_14_slide_2",
+      "text": "Спустя несколько секунд меня кто-то сбил с ног."
+    },
+    {
+      "key": "scene_14_slide_3",
+      "text": "Ай!"
+    },
+    {
+      "key": "scene_14_slide_4",
+      "text": "Снова ты?"
+    },
+    {
+      "key": "scene_14_slide_5",
+      "text": "Ты мне надоел!"
+    },
+    {
+      "key": "scene_14_slide_6",
+      "text": "Ты мне тоже. Ненавижу такие совпадения."
+    },
+    {
+      "key": "scene_14_slide_7",
+      "text": "Это не совпадение."
+    },
+    {
+      "key": "scene_14_choose_1_variant_1",
+      "text": "Еще не поздно сделать вид, что мы не заметили друг друга."
+    },
+    {
+      "key": "scene_14_choose_1_variant_2",
+      "text": "Хватит за мной таскаться! Уходи, пока жива!"
+    },
+    {
+      "key": "scene_14_slide_8",
+      "text": "Скорее, тебе надоело получать самому."
+    },
+    {
+      "key": "scene_14_slide_9",
+      "text": "Нам придется выяснить, кто сильнее."
+    },
+    {
+      "key": "scene_14_slide_10",
+      "text": "Сделаем это прямо сейчас."
+    },
+    {
+      "key": "scene_15_slide_1",
+      "text": "Как тебя зовут?"
+    },
+    {
+      "key": "scene_15_choose_1_variant_1",
+      "text": "{Name}."
+    },
+    {
+      "key": "scene_15_choose_1_variant_2",
+      "text": "Не твое дело."
+    },
+    {
+      "key": "scene_15_slide_2",
+      "text": "Про меня тебе уже рассказали?"
+    },
+    {
+      "key": "scene_15_slide_3",
+      "text": "Да. Ты Хильда и занимаешь видное место в Ордене."
+    },
+    {
+      "key": "scene_15_slide_4",
+      "text": "Мы уже уяснили, кто сильнее."
+    },
+    {
+      "key": "scene_15_slide_5",
+      "text": "Теперь отсюда уйдет кто-то один."
+    },
+    {
+      "key": "scene_15_slide_6",
+      "text": "Предлагаю разойтись и забыть."
+    },
+    {
+      "key": "scene_15_slide_7",
+      "text": "Нет. Мы должны продолжать до конца."
+    },
+    {
+      "key": "scene_15_slide_8",
+      "text": "Это единственный способ сохранить равновесие."
+    },
+    {
+      "key": "scene_15_slide_9",
+      "text": "Если ты меня убьешь, тебе придется оправдываться за убийство обычного гражданина. Никто не поверит, что я мужчина-маг."
+    },
+    {
+      "key": "scene_15_slide_10",
+      "text": "У меня слишком высокий статус. Я могу выкрутиться из любой ситуации."
+    },
+    {
+      "key": "scene_15_slide_11",
+      "text": "Но если ты меня убьешь, то как будешь оправдываться?"
+    },
+    {
+      "key": "scene_15_slide_12",
+      "text": "Меня никто не заподозрит. Вот и все."
+    },
+    {
+      "key": "scene_15_slide_13",
+      "text": "Ты себя переоцениваешь."
+    },
+    {
+      "key": "scene_15_slide_14",
+      "text": "Ты себя тоже. У тебя нет ни опыта, ни репутации, но много наглости."
+    },
+    {
+      "key": "scene_15_slide_15",
+      "text": "Наглость - второе счастье."
+    },
+    {
+      "key": "scene_15_slide_16",
+      "text": "Мне нравятся наглые молодые парни. Они очень стараются в постели."
+    },
+    {
+      "key": "scene_15_slide_17",
+      "text": "А что насчет меня?"
+    },
+    {
+      "key": "scene_15_slide_18",
+      "text": "Очень наглый, и поэтому я хочу переспать с тобой."
+    },
+    {
+      "key": "scene_15_slide_19",
+      "text": "Мое мнение учитывается?"
+    },
+    {
+      "key": "scene_15_slide_20",
+      "text": "В моей коллекции будет мужчина-маг."
+    },
+    {
+      "key": "scene_15_slide_21",
+      "text": "Разумеется, нет."
+    },
+    {
+      "key": "scene_15_slide_22",
+      "text": "А если так?"
+    },
+    {
+      "key": "scene_16_slide_1",
+      "text": "А теперь иди отсюда, пока живой."
+    },
+    {
+      "key": "scene_16_slide_2",
+      "text": "Ты тоже."
+    },
+    {
+      "key": "scene_16_slide_3",
+      "text": "Мы разошлись, не выпуская друг друга из виду."
+    },
+    {
+      "key": "scene_16_slide_4",
+      "text": "Я решил больше не искать приключений и вернулся домой."
+    },
+    {
+      "key": "scene_16_slide_5",
+      "text": "Как хорошо, когда дома ждет красотка, готовая на все."
+    },
+    {
+      "key": "scene_16_slide_6",
+      "text": "Я шел и мечтал, как меня встретит Хелена."
+    },
+    {
+      "key": "scene_16_slide_7",
+      "text": "Я вошел в дом. Наконец-то можно отдохнуть."
+    },
+    {
+      "key": "scene_16_slide_8",
+      "text": "Что случилось?"
+    },
+    {
+      "key": "scene_16_slide_9",
+      "text": "Меня выследила Хильда. Ей пришлось отступить."
+    },
+    {
+      "key": "scene_16_slide_10",
+      "text": "Что? Ты смог ее одолеть?!"
+    },
+    {
+      "key": "scene_16_slide_11",
+      "text": "Да."
+    },
+    {
+      "key": "scene_16_slide_12",
+      "text": "Поразительно!"
+    },
+    {
+      "key": "scene_16_slide_13",
+      "text": "Теперь я буду дома."
+    },
+    {
+      "key": "scene_16_slide_14",
+      "text": "Мы будем совсем одни. Нам нельзя скучать."
+    },
+    {
+      "key": "scene_16_slide_15",
+      "text": "Чем займемся?"
+    },
+    {
+      "key": "scene_16_slide_16",
+      "text": "Чего бы ты хотел? Я все сделаю."
+    },
+    {
+      "key": "scene_16_slide_17",
+      "text": "А если я хочу анальный секс?"
+    },
+    {
+      "key": "scene_16_slide_18",
+      "text": "Я же обещала."
+    },
+    {
+      "key": "scene_16_slide_19",
+      "text": "Да, обещания нужно выполнять."
+    },
+    {
+      "key": "scene_16_slide_20",
+      "text": "Я могу много чего сделать, только попроси."
+    }
+  ]
+}

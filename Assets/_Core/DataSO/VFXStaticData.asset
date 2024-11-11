@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bce7ce562784df0bc85d94a486547b7, type: 3}
+  m_Name: VFXStaticData
+  m_EditorClassIdentifier: 
+  battleEffects:
+  - effectType: 0
+    effect: {fileID: 330383620148991369, guid: 1654c054480b87c4c954cb908b2b5817, type: 3}
+  - effectType: 3
+    effect: {fileID: 947081492927082150, guid: 965bf322d6cbe52468db56e95230537f, type: 3}
+  - effectType: 1
+    effect: {fileID: 5220013268042285053, guid: e6fe600f3f83d404f83d2c0312bf791c, type: 3}
+  - effectType: 2
+    effect: {fileID: 4557581198215853575, guid: 47bb476837be0254f9b1966485215755, type: 3}
+  - effectType: 4
+    effect: {fileID: 7240099996793200824, guid: 52c66d60478c47644a9903bc7168bad4, type: 3}
+  - effectType: 5
+    effect: {fileID: 7261317049290184536, guid: 6951ab4ce96acd64bb22b83e6e90395e, type: 3}
+  - effectType: 6
+    effect: {fileID: 6500189464174048412, guid: fd1daf04a1a2f724db2b3901403e99d0, type: 3}
+  - effectType: 8
+    effect: {fileID: 8738996475683416747, guid: 04e6afed3ca5ba9439a9e19a80a5d67a, type: 3}
+  - effectType: 9
+    effect: {fileID: 2359744500363385980, guid: bf6d520d3a68cdb4ca50f75e4a8ea420, type: 3}
+  - effectType: 10
+    effect: {fileID: 8179916044296779398, guid: bde3b0838d9e802489d1c06145b19ee8, type: 3}
+  - effectType: 11
+    effect: {fileID: 3724143681814825180, guid: 485e9baf64a772a4ca5a062f1912fbee, type: 3}
+  - effectType: 12
+    effect: {fileID: 4502565138927678275, guid: b6b6111b835d9eb42a8e9e54ffd93f86, type: 3}
+  - effectType: 13
+    effect: {fileID: 3621698168555373748, guid: 16174cbe8fde1224685928b316136822, type: 3}
+  emitOrder: 000000000400000001000000020000000600000005000000

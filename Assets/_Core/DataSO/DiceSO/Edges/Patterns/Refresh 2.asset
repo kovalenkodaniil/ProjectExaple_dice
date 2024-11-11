@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940a1e0db7ad4aca9af1e846dcfcf195, type: 3}
+  m_Name: Refresh 2
+  m_EditorClassIdentifier: 
+  edgeIcon: {fileID: 21300000, guid: 3a1d67e38882f7048b1ac2302ea833f5, type: 3}
+  edgeDescription: "\u0414\u0430\u0451\u0442 {0} \u043C\u0430\u043D\u044B \u0438
+    \u0438\u0441\u0446\u0435\u043B\u044F\u0435\u0442 {0} \u0437\u0434\u043E\u0440\u043E\u0432\u044C\u044F"
+  edgeType: 7
+  colors:
+  - {fileID: 11400000, guid: 248ca0e39a4aecf44932970172f79cad, type: 2}
+  - {fileID: 11400000, guid: bed4df408d211d344be634fa7f631ac0, type: 2}
+  _effects:
+  - _effectType: 2
+    _value: 1
+  - _effectType: 1
+    _value: 2

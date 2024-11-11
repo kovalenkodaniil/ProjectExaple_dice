@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7ec28587594f9286d479e0c28d6460, type: 3}
+  m_Name: MirrorDice UP 1_2_2
+  m_EditorClassIdentifier: 
+  diceName: loc_heromenu_cubename_dicename10_2_2
+  description: loc_heromenu_descript_face_description10
+  id: base_mirror_7
+  levelNumber: 3
+  upgradeCost: 0
+  Edges:
+  - {fileID: 11400000, guid: 9e5e8bd01fb918a40a25259c37528dd9, type: 2}
+  - {fileID: 11400000, guid: 2b9b4c835f3d4534299c8611dfeb2aa7, type: 2}
+  - {fileID: 11400000, guid: 0e2033550bb8f6a45bc4ed90b3f61e63, type: 2}
+  - {fileID: 11400000, guid: 2215044648fb3214792b5079a49d86bd, type: 2}
+  - {fileID: 11400000, guid: b08530a12a1cb9a4d9b507faacc86eb8, type: 2}
+  - {fileID: 11400000, guid: 19be879ab1a814c48b1875e9432f6e3d, type: 2}
+  Upgrades: []
+  DiceMaterial: {fileID: 2100000, guid: c455a90fa9c3cdd499d661a8d03aef49, type: 2}
+  DiceBorderMaterial: {fileID: 2100000, guid: 395b4eb3a0014774a8422be246ad1704, type: 2}

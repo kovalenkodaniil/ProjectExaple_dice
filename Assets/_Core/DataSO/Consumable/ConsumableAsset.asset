@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbafd632172e435b9494290ba241aa74, type: 3}
+  m_Name: ConsumableAsset
+  m_EditorClassIdentifier: 
+  maxConsumables: 3
+  consumables:
+  - {fileID: 11400000, guid: 3f04b4d61b109fb4d8431b982323e525, type: 2}
+  - {fileID: 11400000, guid: 26ae9fbb53b5e36448f91f553de8e55c, type: 2}
+  - {fileID: 11400000, guid: b68476ae4a4426e42bb21c28080bc00e, type: 2}
+  - {fileID: 11400000, guid: 852449022ab7e9c43a05cd74d1789aa4, type: 2}
+  inBattlePreviewPrefab: {fileID: 7908445352983956427, guid: c0d1bca2eeaf6f646b5b4cccb51bf420, type: 3}
+  inventoryPreviewPrefab: {fileID: 2389894164501308092, guid: ef570ec72966bba48856aab815ddb52b, type: 3}

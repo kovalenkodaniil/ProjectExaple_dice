@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c84d9529cd3b4f3b99f54cbbdc6e04ee, type: 3}
+  m_Name: FontSettings
+  m_EditorClassIdentifier: 
+  fontsForLanguage:
+  - language: "\u0420\u0443\u0441\u0441\u043A\u0438\u0439"
+    fonts:
+    - tag: 0
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: -9044156578985703956, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+    - tag: 5
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: c75555c088592a0409825391e46102f4, type: 2}
+    - tag: 6
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: b4de5edd9e03a734f8c4cc26a5654042, type: 2}
+    - tag: 13
+      fontAsset: {fileID: 11400000, guid: 77052158ad06f434da0440fce9a6cca1, type: 2}
+      fontMaterial: {fileID: 1493943766877947459, guid: 77052158ad06f434da0440fce9a6cca1, type: 2}
+    - tag: 1
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 4cc47621b4b667046bf849f928bfe998, type: 2}
+    - tag: 10
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 2e59dca42d286c14a9284d734837bd19, type: 2}
+    - tag: 11
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 3853041eefb5770459810f170f316dfb, type: 2}
+    - tag: 4
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 103f780a9cad9f14f819aa31621de1b5, type: 2}
+    - tag: 7
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 0bba05b6e0bd38e4ea7b8fba55f61704, type: 2}
+    - tag: 8
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: e6501f8dff4e45549b574370c9db861b, type: 2}
+    - tag: 2
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 22681045a44be9b43a1a516b394d1d6f, type: 2}
+    - tag: 14
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 95216d7789221724ca1f957db41e0605, type: 2}
+    - tag: 9
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 95216d7789221724ca1f957db41e0605, type: 2}
+    - tag: 15
+      fontAsset: {fileID: 11400000, guid: 521769b7ac4001043b9b3283c944cad9, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 95216d7789221724ca1f957db41e0605, type: 2}
+    - tag: 16
+      fontAsset: {fileID: 11400000, guid: ced3993d9b8e9fe49b4d120d9afe73ef, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 7556a77ac833b4e4288a847261937c0b, type: 2}
+  - language: English
+    fonts:
+    - tag: 0
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 7540179027305621351, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+    - tag: 5
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: dd9e899ffd0ea3a4b9b5e5c174750329, type: 2}
+    - tag: 6
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: b0ae9441926d8fd499c019ce62359169, type: 2}
+    - tag: 13
+      fontAsset: {fileID: 11400000, guid: 77052158ad06f434da0440fce9a6cca1, type: 2}
+      fontMaterial: {fileID: 1493943766877947459, guid: 77052158ad06f434da0440fce9a6cca1, type: 2}
+    - tag: 1
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 066d646e3950ce2468613adb7ac7561e, type: 2}
+    - tag: 10
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 8b62e2ac3cc91634285a26ae18725e8e, type: 2}
+    - tag: 11
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 4ca89de6db827d7458566d39a850cd79, type: 2}
+    - tag: 4
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 86eb015e5bc9e7a479c0994eb503ccca, type: 2}
+    - tag: 7
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 5b1cc0b4f8ac5d9428e2d6f5185a1434, type: 2}
+    - tag: 8
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: db6cc337b2294a04d89324ed9d6614bf, type: 2}
+    - tag: 2
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 944d4e7189abde74da49129859a020f2, type: 2}
+    - tag: 14
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 7d500edbd7e7185489e795f82ec2753d, type: 2}
+    - tag: 9
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: c88c404f538b19f4181c80049e6bf123, type: 2}
+    - tag: 15
+      fontAsset: {fileID: 11400000, guid: 5a0ca1e22a2b0044ea7d60706041f1f1, type: 2}
+      fontMaterial: {fileID: 6164246468554565030, guid: 5a0ca1e22a2b0044ea7d60706041f1f1, type: 2}
+    - tag: 16
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 7d592b6ab203dd44787a7238e90b003f, type: 2}
+    - tag: 1
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 066d646e3950ce2468613adb7ac7561e, type: 2}
+  - language: "\u7B80\u4F53\u4E2D\u6587"
+    fonts:
+    - tag: 0
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: -3414053244749494578, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+    - tag: 5
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 6e5cc5221fcb41c409a2b1f90bf79c26, type: 2}
+    - tag: 6
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: a4f06843cec5d284fb86d63241e19f6b, type: 2}
+    - tag: 13
+      fontAsset: {fileID: 11400000, guid: b7eaff54af9a4ef4893308e36f00db79, type: 2}
+      fontMaterial: {fileID: 603118501307360025, guid: b7eaff54af9a4ef4893308e36f00db79, type: 2}
+    - tag: 1
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 652d9c2c22f18514e935b0a4284f0153, type: 2}
+    - tag: 10
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: ffa86905d8c23c141b4461d53b17b4bb, type: 2}
+    - tag: 11
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 024505d126574384fa3abf267e0323a6, type: 2}
+    - tag: 4
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 27c77eb1b8e1ccd4c9acf5bddff8abc1, type: 2}
+    - tag: 7
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 5dcc1026e785c0446949c18b1d6d2859, type: 2}
+    - tag: 8
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 804e4d5091787384abb1cc061541c788, type: 2}
+    - tag: 2
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: f742d1ac084462043a879b152174e108, type: 2}
+    - tag: 9
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: -3414053244749494578, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+    - tag: 14
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: cd335496a67fea4498750bddde8a4f9e, type: 2}
+    - tag: 15
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: cd335496a67fea4498750bddde8a4f9e, type: 2}
+    - tag: 16
+      fontAsset: {fileID: 11400000, guid: 5a32b2abf45808e4a96ace2dd746fa8a, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 652d9c2c22f18514e935b0a4284f0153, type: 2}
+  - language: "Fran\xE7ais"
+    fonts:
+    - tag: 0
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 7540179027305621351, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+    - tag: 5
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: dd9e899ffd0ea3a4b9b5e5c174750329, type: 2}
+    - tag: 6
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: b0ae9441926d8fd499c019ce62359169, type: 2}
+    - tag: 13
+      fontAsset: {fileID: 11400000, guid: 77052158ad06f434da0440fce9a6cca1, type: 2}
+      fontMaterial: {fileID: 1493943766877947459, guid: 77052158ad06f434da0440fce9a6cca1, type: 2}
+    - tag: 1
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 066d646e3950ce2468613adb7ac7561e, type: 2}
+    - tag: 10
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 8b62e2ac3cc91634285a26ae18725e8e, type: 2}
+    - tag: 11
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 4ca89de6db827d7458566d39a850cd79, type: 2}
+    - tag: 4
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 86eb015e5bc9e7a479c0994eb503ccca, type: 2}
+    - tag: 7
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 5b1cc0b4f8ac5d9428e2d6f5185a1434, type: 2}
+    - tag: 8
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: db6cc337b2294a04d89324ed9d6614bf, type: 2}
+    - tag: 2
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 944d4e7189abde74da49129859a020f2, type: 2}
+    - tag: 14
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 7d500edbd7e7185489e795f82ec2753d, type: 2}
+    - tag: 9
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: c88c404f538b19f4181c80049e6bf123, type: 2}
+    - tag: 15
+      fontAsset: {fileID: 11400000, guid: 5a0ca1e22a2b0044ea7d60706041f1f1, type: 2}
+      fontMaterial: {fileID: 6164246468554565030, guid: 5a0ca1e22a2b0044ea7d60706041f1f1, type: 2}
+    - tag: 16
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 7d592b6ab203dd44787a7238e90b003f, type: 2}
+  - language: "Espa\xF1ol"
+    fonts:
+    - tag: 0
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 7540179027305621351, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+    - tag: 5
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: dd9e899ffd0ea3a4b9b5e5c174750329, type: 2}
+    - tag: 6
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: b0ae9441926d8fd499c019ce62359169, type: 2}
+    - tag: 13
+      fontAsset: {fileID: 11400000, guid: 77052158ad06f434da0440fce9a6cca1, type: 2}
+      fontMaterial: {fileID: 1493943766877947459, guid: 77052158ad06f434da0440fce9a6cca1, type: 2}
+    - tag: 1
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 066d646e3950ce2468613adb7ac7561e, type: 2}
+    - tag: 10
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 8b62e2ac3cc91634285a26ae18725e8e, type: 2}
+    - tag: 11
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 4ca89de6db827d7458566d39a850cd79, type: 2}
+    - tag: 4
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 86eb015e5bc9e7a479c0994eb503ccca, type: 2}
+    - tag: 7
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 5b1cc0b4f8ac5d9428e2d6f5185a1434, type: 2}
+    - tag: 8
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: db6cc337b2294a04d89324ed9d6614bf, type: 2}
+    - tag: 2
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 944d4e7189abde74da49129859a020f2, type: 2}
+    - tag: 14
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 7d500edbd7e7185489e795f82ec2753d, type: 2}
+    - tag: 9
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: c88c404f538b19f4181c80049e6bf123, type: 2}
+    - tag: 15
+      fontAsset: {fileID: 11400000, guid: 5a0ca1e22a2b0044ea7d60706041f1f1, type: 2}
+      fontMaterial: {fileID: 6164246468554565030, guid: 5a0ca1e22a2b0044ea7d60706041f1f1, type: 2}
+    - tag: 16
+      fontAsset: {fileID: 11400000, guid: 89fa17cbf4ac06742ab1586f7058b0be, type: 2}
+      fontMaterial: {fileID: 2100000, guid: 7d592b6ab203dd44787a7238e90b003f, type: 2}

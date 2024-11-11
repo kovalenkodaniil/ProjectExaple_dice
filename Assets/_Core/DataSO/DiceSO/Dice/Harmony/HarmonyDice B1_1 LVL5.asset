@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7ec28587594f9286d479e0c28d6460, type: 3}
+  m_Name: HarmonyDice B1_1 LVL5
+  m_EditorClassIdentifier: 
+  diceName: "\u041C\u0438\u043B\u043E\u0441\u0435\u0440\u0434\u0438\u0435 IV"
+  description: "\u0421\u0431\u0430\u043B\u0430\u043D\u0441\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0439
+    \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442 \u0434\u043B\u044F
+    \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0430\u043D\u0438\u0438 \u0432 \u0437\u0434\u0440\u0430\u0432\u0438\u0438
+    \u0438 \u0442\u0435\u043B\u0430, \u0438 \u0434\u0443\u0445\u0430. \u041A\u0443\u0431
+    \u0434\u043B\u044F \u0442\u0435\u0445, \u043A\u0442\u043E \u043B\u044E\u0431\u0438\u0442
+    \u0431\u044B\u0442\u044C \u0432 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438."
+  id: base_harmony_10
+  levelNumber: 5
+  upgradeCost: 85
+  Edges:
+  - {fileID: 11400000, guid: d9accf62db00b154b8b1761e7c8468d4, type: 2}
+  - {fileID: 11400000, guid: 93a1af85c63c35543aa526ff75aad362, type: 2}
+  - {fileID: 11400000, guid: d166231c4acbbb54580aecf9daadac4f, type: 2}
+  - {fileID: 11400000, guid: 446c7727dc3318742b047bc3f4ff5885, type: 2}
+  - {fileID: 11400000, guid: 446c7727dc3318742b047bc3f4ff5885, type: 2}
+  - {fileID: 11400000, guid: 312a11c0cf1b15140ae049c7152ee3a5, type: 2}
+  Upgrades: []
+  DiceBorderMaterial: {fileID: 2100000, guid: 0b4dd533208846843bae513c8db9938b, type: 2}

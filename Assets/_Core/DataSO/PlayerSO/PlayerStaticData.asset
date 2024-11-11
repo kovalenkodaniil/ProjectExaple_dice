@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bd07c13857c412a826bb6bbd591e101, type: 3}
+  m_Name: PlayerStaticData
+  m_EditorClassIdentifier: 
+  maxHealth: 10
+  startMana: 5
+  startFixation: 1
+  startExpirience: 10
+  startSpells:
+  - {fileID: 11400000, guid: d01cb7bb99fcaff49bdb399bd44d4fbf, type: 2}
+  - {fileID: 11400000, guid: 4c0403d3dad97114eae06ff3e1bfdf00, type: 2}
+  - {fileID: 11400000, guid: a20f64d65c6ea154c8a0a5cc508eaeb5, type: 2}
+  startDices:
+  - {fileID: 11400000, guid: cdd37121acb8b834c987d16e191b7238, type: 2}
+  - {fileID: 11400000, guid: cdd37121acb8b834c987d16e191b7238, type: 2}
+  - {fileID: 11400000, guid: cdd37121acb8b834c987d16e191b7238, type: 2}
+  - {fileID: 11400000, guid: ca5fab0ed4c12c94c9cb6376c0872504, type: 2}
+  - {fileID: 11400000, guid: ca5fab0ed4c12c94c9cb6376c0872504, type: 2}
+  - {fileID: 11400000, guid: ca5fab0ed4c12c94c9cb6376c0872504, type: 2}
+  startAvailableDice:
+  - config: {fileID: 11400000, guid: cdd37121acb8b834c987d16e191b7238, type: 2}
+    quantity: 1
+  - config: {fileID: 11400000, guid: cdd37121acb8b834c987d16e191b7238, type: 2}
+    quantity: 1
+  - config: {fileID: 11400000, guid: cdd37121acb8b834c987d16e191b7238, type: 2}
+    quantity: 1
+  - config: {fileID: 11400000, guid: ca5fab0ed4c12c94c9cb6376c0872504, type: 2}
+    quantity: 1
+  - config: {fileID: 11400000, guid: ca5fab0ed4c12c94c9cb6376c0872504, type: 2}
+    quantity: 1
+  - config: {fileID: 11400000, guid: ca5fab0ed4c12c94c9cb6376c0872504, type: 2}
+    quantity: 1
+  - config: {fileID: 11400000, guid: c3b188ad406408347bd8522701dbe337, type: 2}
+    quantity: 1
+  - config: {fileID: 11400000, guid: d5ca94c216116494b826e70f58ca3389, type: 2}
+    quantity: 1

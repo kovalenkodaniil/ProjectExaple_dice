@@ -1,0 +1,2860 @@
+{
+  "localization": [
+    {
+      "key": "language",
+      "text": "English"
+    },
+    {
+      "key": "loc_load_tip",
+      "text": "Loading"
+    },
+    {
+      "key": "loc_mmenu_button_continue",
+      "text": "Continue"
+    },
+    {
+      "key": "loc_mmenu_button_newgame",
+      "text": "New game"
+    },
+    {
+      "key": "loc_mmenu_button_load",
+      "text": "Load game"
+    },
+    {
+      "key": "loc_mmenu_button_settings",
+      "text": "Settings"
+    },
+    {
+      "key": "loc_mmenu_button_gallery",
+      "text": "Gallery"
+    },
+    {
+      "key": "loc_mmenu_label",
+      "text": "New!"
+    },
+    {
+      "key": "loc_mmenu_head_choose_game",
+      "text": "Choose a game"
+    },
+    {
+      "key": "loc_mmenu_head_chapter",
+      "text": "Chapter"
+    },
+    {
+      "key": "loc_mmenu_loadscreen_button_load",
+      "text": "Load"
+    },
+    {
+      "key": "loc_mmenu_head_startnewgame",
+      "text": "Start new game!"
+    },
+    {
+      "key": "loc_mmenu_body_emptyslot",
+      "text": "Empty slot"
+    },
+    {
+      "key": "loc_mmenu_button_play",
+      "text": "Play"
+    },
+    {
+      "key": "loc_mmenu_head_newgame",
+      "text": "New game"
+    },
+    {
+      "key": "loc_mmenu_body_newgame_tip",
+      "text": "If start new game, the previous autosave will be lost.\nAre you sure?"
+    },
+    {
+      "key": "loc_mmenu_head_newgame_name",
+      "text": "Write your name"
+    },
+    {
+      "key": "loc_mmenu_body_newgame_sure",
+      "text": "Are you sure?"
+    },
+    {
+      "key": "loc_mmenu_button_yes",
+      "text": "Yes"
+    },
+    {
+      "key": "loc_mmenu_button_no",
+      "text": "No"
+    },
+    {
+      "key": "loc_popup_settings_head",
+      "text": "Settings"
+    },
+    {
+      "key": "loc_popup_settings_setting1",
+      "text": "Screen resolution"
+    },
+    {
+      "key": "loc_popup_settings_setting2",
+      "text": "Screen mode"
+    },
+    {
+      "key": "loc_popup_settings_resolution1",
+      "text": "Full-screen"
+    },
+    {
+      "key": "loc_popup_settings_resolution2",
+      "text": "Window mode"
+    },
+    {
+      "key": "loc_popup_settings_setting3",
+      "text": "Language"
+    },
+    {
+      "key": "loc_popup_settings_lang1",
+      "text": "Русский"
+    },
+    {
+      "key": "loc_popup_settings_lang2",
+      "text": "English"
+    },
+    {
+      "key": "loc_popup_settings_lang3",
+      "text": "Français"
+    },
+    {
+      "key": "loc_popup_settings_lang4",
+      "text": "简体中文"
+    },
+    {
+      "key": "loc_popup_settings_lang5",
+      "text": "Español"
+    },
+    {
+      "key": "loc_popup_settings_setting4",
+      "text": "Music"
+    },
+    {
+      "key": "loc_popup_settings_setting5",
+      "text": "Sounds"
+    },
+    {
+      "key": "loc_popup_settings_button",
+      "text": "Accept"
+    },
+    {
+      "key": "loc_gallery_head",
+      "text": "Gallery"
+    },
+    {
+      "key": "loc_gallery_button_scenes",
+      "text": "Sex scenes"
+    },
+    {
+      "key": "loc_gallery_button_cards",
+      "text": "Cards"
+    },
+    {
+      "key": "loc_gallery_button_fights",
+      "text": "Fights"
+    },
+    {
+      "key": "loc_map_cityname",
+      "text": "Saint York"
+    },
+    {
+      "key": "loc_map_location0",
+      "text": "Prologue"
+    },
+    {
+      "key": "loc_map_location1",
+      "text": "Ghetto"
+    },
+    {
+      "key": "loc_map_location2",
+      "text": "Warehouse"
+    },
+    {
+      "key": "loc_map_location3",
+      "text": "Industrial Zone"
+    },
+    {
+      "key": "loc_map_location4",
+      "text": "Old Town"
+    },
+    {
+      "key": "loc_map_location5",
+      "text": "Order Base"
+    },
+    {
+      "key": "loc_map_location6",
+      "text": "Sanctuary of the Order"
+    },
+    {
+      "key": "loc_map_location7",
+      "text": "Catacombs"
+    },
+    {
+      "key": "loc_map_location8",
+      "text": "Underground city"
+    },
+    {
+      "key": "loc_map_location9",
+      "text": "Temple of Magic"
+    },
+    {
+      "key": "loc_popup_quest_head",
+      "text": "Quests"
+    },
+    {
+      "key": "loc_popup_quest_button",
+      "text": "Take quest"
+    },
+    {
+      "key": "loc_heromenu_head_development",
+      "text": "Development"
+    },
+    {
+      "key": "loc_heromenu_button_spell1",
+      "text": "Fireball"
+    },
+    {
+      "key": "loc_heromenu_button_spell2",
+      "text": "Stun"
+    },
+    {
+      "key": "loc_heromenu_button_spell3",
+      "text": "Anger"
+    },
+    {
+      "key": "loc_heromenu_button_spell4",
+      "text": "Bastion"
+    },
+    {
+      "key": "loc_heromenu_button_spell5",
+      "text": "Barrier"
+    },
+    {
+      "key": "loc_heromenu_button_spell6",
+      "text": "Explosion of magic"
+    },
+    {
+      "key": "loc_heromenu_button_spell7",
+      "text": "Skill"
+    },
+    {
+      "key": "loc_heromenu_button_spell8",
+      "text": "Connection"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript1",
+      "text": "The oldest of the classic spells. Transforms magic into the purest fire. \nDeals 3 damage."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript2",
+      "text": "A powerful mental impact on the enemy's consciousness allows you to completely disorient him for a short time. \nCancels the opponent's actions in this turn."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript3",
+      "text": "By harnessing dark magic, it allows you to pour blood both into your eyes and the ground at the feet of the enemy. \nAdds +1 damage to each damage dice in this turn."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript4",
+      "text": "Penetrating through the skin, beneficial magic enhances any protective actions of the caster. \nAdds +1 shield to each shield dice in this turn."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript5",
+      "text": "The old technique without unnecessary tricks is to concentrate mana around the caster, and to create a protective barrier. \nGives 3 protection"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript6",
+      "text": "The ultimate ability of the harshest magicians, which periodically saved their lives at the last moment. \nSpends all mana, and deals 2 damage for each unit"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript7",
+      "text": "The thinnest strings of mana strengthen the wizard's consciousness, sharpening his reflexes. \nGives the player 3 Fixations."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript8",
+      "text": "The top of the creation of the most vindictive sorcerers. The long-awaited karma in the world of unrequited evil. \nAt the end of the turn, the enemy will receive the same amount of damage as the player per turn."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell1",
+      "text": "Deals 3 damage."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell2",
+      "text": "Cancels the opponent's actions in this turn."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell3",
+      "text": "Adds +1 damage to each damage dice in this turn."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell4",
+      "text": "Adds +1 shield to each shield dice in this turn."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell5",
+      "text": "Gives 3 protection"
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell6",
+      "text": "Spends all mana, and deals 2 damage for each unit"
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell7",
+      "text": "Gives the player 3 Fixations."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell8",
+      "text": "At the end of the turn, the enemy will receive the same amount of damage as the player per turn."
+    },
+    {
+      "key": "loc_heromenu_tip_cooldown",
+      "text": "Cooldown"
+    },
+    {
+      "key": "loc_heromenu_tip_mana",
+      "text": "Mana"
+    },
+    {
+      "key": "loc_heromenu_button_choose",
+      "text": "Choose"
+    },
+    {
+      "key": "loc_heromenu_tip_yourspells",
+      "text": "Your spells"
+    },
+    {
+      "key": "loc_heromenu_tooltip_choosespell",
+      "text": "Choose a spell for replacement"
+    },
+    {
+      "key": "loc_heromenu_tip_yourdices",
+      "text": "Your dice"
+    },
+    {
+      "key": "loc_heromenu_tooltip_choosedés",
+      "text": "Choose a dice for replacement"
+    },
+    {
+      "key": "loc_heromenu_button_skills",
+      "text": "Skills"
+    },
+    {
+      "key": "loc_heromenu_button_dices",
+      "text": "Dices"
+    },
+    {
+      "key": "loc_heromenu_button_char",
+      "text": "Character"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1",
+      "text": "Dice Vanguard"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2",
+      "text": "Dice Guard"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3",
+      "text": "Magic dice"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4",
+      "text": "Dice of Harmony"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5",
+      "text": "Dice Inquisitor"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6",
+      "text": "Dice Guarantor"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7",
+      "text": "Dark dice"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8",
+      "text": "Divine dice"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9",
+      "text": "Smith's dice"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10",
+      "text": "Mirror dice"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_1",
+      "text": "Громила"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_2",
+      "text": "Снайпер"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_1_1",
+      "text": "Громила II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_1_2",
+      "text": "Кровь"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_2_1",
+      "text": "Cнайпер II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_2_2",
+      "text": "Скаут"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_1",
+      "text": "Бастион"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_2",
+      "text": "Стена"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_1_1",
+      "text": "Бастион II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_1_2",
+      "text": "Убежище"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_2_1",
+      "text": "Стена II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_2_2",
+      "text": "Шип"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_1",
+      "text": "Светлая магия"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_2",
+      "text": "Темная магия"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_1_1",
+      "text": "Светлая магия II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_1_2",
+      "text": "Чистый"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_2_1",
+      "text": "Темная магия II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_2_2",
+      "text": "Мрак"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_1",
+      "text": "Милосердие"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_2",
+      "text": "Рвение"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_1_1",
+      "text": "Милосердие II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_1_2",
+      "text": "Cвятость"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_2_1",
+      "text": "Рвение II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_2_2",
+      "text": "Фанатик"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_1",
+      "text": "Крестоносец"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_2",
+      "text": "Дознаватель"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_1_1",
+      "text": "Крестоносец II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_1_2",
+      "text": "Ярость"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_2_1",
+      "text": "Дознаватель II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_2_2",
+      "text": "Пламя"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_1",
+      "text": "База"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_2",
+      "text": "Особенный"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_1_1",
+      "text": "База II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_1_2",
+      "text": "Основа"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_2_1",
+      "text": "Особенный II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_2_2",
+      "text": "Уникум"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_1",
+      "text": "Носферату"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_2",
+      "text": "Высший"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_1_1",
+      "text": "Носферату II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_1_2",
+      "text": "Кровожадность"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_2_1",
+      "text": "Высший II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_2_2",
+      "text": "Стрыга"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_1",
+      "text": "Исцеление"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_2",
+      "text": "Клирик"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_1_1",
+      "text": "Исцеление II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_1_2",
+      "text": "Медитация"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_2_1",
+      "text": "Клирик II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_2_2",
+      "text": "Молитва"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_1",
+      "text": "Молот"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_2",
+      "text": "Наковальня"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_1_1",
+      "text": "Молот II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_1_2",
+      "text": "Горн"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_2_1",
+      "text": "Наковальня II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_2_2",
+      "text": "Металл"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_1",
+      "text": "Мечта"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_2",
+      "text": "Ужас"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_1_1",
+      "text": "Мечта II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_1_2",
+      "text": "Желание"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_2_1",
+      "text": "Ужас II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_2_2",
+      "text": "Порок"
+    },
+    {
+      "key": "loc_heromenu_tip_dice_level",
+      "text": "Level"
+    },
+    {
+      "key": "loc_heromenu_tip_dice_quantity",
+      "text": "Quantity"
+    },
+    {
+      "key": "loc_heromenu_tip_dice_faces",
+      "text": "Faces"
+    },
+    {
+      "key": "loc_heromenu_button_upgrade",
+      "text": "Upgrade"
+    },
+    {
+      "key": "loc_heromenu_button_maxlevel",
+      "text": "Max level"
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description1",
+      "text": "The primary weapon of all fighters in this world. \nThe main dice to attack."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description2",
+      "text": "The best friend of all merchants, pilgrims, and those who want to live longer. \nThe main dice for protection."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description3",
+      "text": "If you are no stranger to magical techniques, and you are not devoid of witchcraft abilities, this is an excellent choice for you. \nThe main dice of magic amateurs."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description4",
+      "text": "A balanced tool for maintaining the health of both body and spirit. \nThe dice is for those who like to be safe."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description5",
+      "text": "Few people would dare to attack a fighter with such a stray. Stern, assertive, and convincing. \nA dice for a versatile attack."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description6",
+      "text": "The best companion of those who do not like surprises in their direction. \nThe most reliable and stable dice."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description7",
+      "text": "Few people can find such a toy, and few people have experienced meetings with them. \nA dice for aggressive attack."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description8",
+      "text": "A rare artifact of the best paladins and fighters of light, protecting its owner with divine powers. \nThe most protective dice for the owner."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description9",
+      "text": "This miracle was invented not so much by magicians as by craftsmen who want to transfer their skills to the battlefield. \nThe dés is for those who like to act accurately."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description10",
+      "text": "The maestro of reflection, who discourages any desire to inflict at least some damage on you. \nThe dés of karma is a tooth for a tooth, pain for pain."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description1",
+      "text": "There's nothing here. It's empty!"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description2",
+      "text": "Deals {0} damage."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description3",
+      "text": "Deals {0} damage and heals {0} health."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description4",
+      "text": "Deals {0} damage to the enemy, and {0} damage to the host."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description5",
+      "text": "Gives {0} protection and deals {0} damage to the enemy."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description6",
+      "text": "Gives {0} protection."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description7",
+      "text": "Gives {0} mana."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description8",
+      "text": "Heals {0} health."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description9",
+      "text": "Gives {0} mana and heals {0} health."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description10",
+      "text": "Gives {0} fixations."
+    },
+    {
+      "key": "loc_heromenu_outlookandhealth_head",
+      "text": "Outlook and heath"
+    },
+    {
+      "key": "loc_heromenu_outlookandhealth_body",
+      "text": "More power - more responsibility"
+    },
+    {
+      "key": "loc_heromenu_head_outlook",
+      "text": "Outlook"
+    },
+    {
+      "key": "loc_heromenu_head_health",
+      "text": "Health"
+    },
+    {
+      "key": "loc_heromenu_button_healthmax",
+      "text": "Maximum"
+    },
+    {
+      "key": "loc_heromenu_upgrade_head",
+      "text": "Improvement"
+    },
+    {
+      "key": "loc_heromenu_upgrade_body",
+      "text": "Do you want to improve {diceName} from level {lvl} to level {lvlUp} for {cost} ?"
+    },
+    {
+      "key": "loc_core_tip_enemyaction",
+      "text": "Enemy's actions"
+    },
+    {
+      "key": "loc_core_tip_player",
+      "text": "Me"
+    },
+    {
+      "key": "loc_core_tip_undress",
+      "text": "Undress"
+    },
+    {
+      "key": "loc_core_tooltip_undress",
+      "text": "Combination needed to undress"
+    },
+    {
+      "key": "loc_core_tooltip_attack",
+      "text": "Attack - cause damage"
+    },
+    {
+      "key": "loc_core_tooltip_defence",
+      "text": "Protection - apply shields"
+    },
+    {
+      "key": "loc_core_tooltip_heal",
+      "text": "Treatment - heal health"
+    },
+    {
+      "key": "loc_core_tooltip_attackanddefence",
+      "text": "Attack and Protection - cause damage and applies shields"
+    },
+    {
+      "key": "loc_core_tooltip_strengthening",
+      "text": "Strengthening - causes damage during 2 turns"
+    },
+    {
+      "key": "loc_core_tooltip_shell",
+      "text": "Shell - gets more shields during 2 turns"
+    },
+    {
+      "key": "loc_core_tooltip_invulnerability",
+      "text": "Invulnerability - can't be damaged during the next turn"
+    },
+    {
+      "key": "loc_core_tooltip_protective",
+      "text": "Protective stand - starts every turn with a time shield"
+    },
+    {
+      "key": "loc_core_tooltip_trap",
+      "text": "Trap - blocks rerolling of some dice during the next turn"
+    },
+    {
+      "key": "loc_core_tooltip_magicshield",
+      "text": "Magic shield - doesn't get damaged if there are not enough enough Mana faces on the dice"
+    },
+    {
+      "key": "loc_core_tooltip_spikes",
+      "text": "Spikes - for each player's dice with damage it will cause damage to the player"
+    },
+    {
+      "key": "loc_core_tooltip_vampire",
+      "text": "Vampire' Strike - takes the player's health for itself"
+    },
+    {
+      "key": "loc_core_tooltip_sap",
+      "text": "Stunning - in the next turn, it takes away the ability to fix dice and apply magic"
+    },
+    {
+      "key": "loc_core_tooltip_stun",
+      "text": "The enemy is stunned - stays inactive during this turn"
+    },
+    {
+      "key": "loc_core_tooltip_description_strengthening",
+      "text": "Strengthening  - deals more damage"
+    },
+    {
+      "key": "loc_core_tooltip_description_shell",
+      "text": "Shell - gets more shields"
+    },
+    {
+      "key": "loc_core_defence",
+      "text": "Defence"
+    },
+    {
+      "key": "loc_core_tooltip_description_anger",
+      "text": "Anger - adds +1 damage to each damage dice in this turn"
+    },
+    {
+      "key": "loc_core_tooltip_description_bastion",
+      "text": "Bastion - adds +1 shield to each shield dice in this turn"
+    },
+    {
+      "key": "loc_core_tooltip_description_Communication",
+      "text": "Communication - in this turn, the enemy will receive the same amount of damage as the player"
+    },
+    {
+      "key": "loc_core_tooltip_description_Trap",
+      "text": "Trap - rerolling of some dice is blocked"
+    },
+    {
+      "key": "loc_core_tooltip_description_sap",
+      "text": "Stunning - the ability to fix dice and apply magic is blocked"
+    },
+    {
+      "key": "loc_core_tooltip_description_fixations",
+      "text": "Number of available fixations"
+    },
+    {
+      "key": "loc_core_head_pausePause",
+      "text": "Pause"
+    },
+    {
+      "key": "loc_core_button_menu",
+      "text": "Menu"
+    },
+    {
+      "key": "loc_core_button_backtomap",
+      "text": "Back to map"
+    },
+    {
+      "key": "loc_popup_reward_head_award",
+      "text": "Reward"
+    },
+    {
+      "key": "loc_popup_reward_button_pickup",
+      "text": "Pick up"
+    },
+    {
+      "key": "loc_popup_reward_head_coins",
+      "text": "Coins"
+    },
+    {
+      "key": "loc_popup_reward_body_upgrade",
+      "text": "+1 free upgrade"
+    },
+    {
+      "key": "loc_popup_reward_head_anydice",
+      "text": "Any dice"
+    },
+    {
+      "key": "loc_popup_reward_tip_body_nextfight",
+      "text": "For next fight only"
+    },
+    {
+      "key": "loc_popup_reward_head_HPMana",
+      "text": "Health & Mana"
+    },
+    {
+      "key": "loc_popup_reward_head_DiceCoins",
+      "text": "Dice & Coins"
+    },
+    {
+      "key": "loc_popup_reward_head_SpellCoins",
+      "text": "Spell & Coins"
+    },
+    {
+      "key": "loc_popup_reward_head_fixation",
+      "text": "Fixation"
+    },
+    {
+      "key": "loc_popup_reward_head_fight",
+      "text": "Fight:"
+    },
+    {
+      "key": "loc_popup_reward_button_change",
+      "text": "Change"
+    },
+    {
+      "key": "loc_popup_reward_button_fight",
+      "text": "Fight!"
+    },
+    {
+      "key": "loc_scenes_button_vaginal",
+      "text": "Vaginal"
+    },
+    {
+      "key": "loc_scenes_button_blowjob",
+      "text": "Blowjob"
+    },
+    {
+      "key": "loc_scenes_button_anal",
+      "text": "Anal"
+    },
+    {
+      "key": "loc_scenes_button_titsfuck",
+      "text": "Titsfuck"
+    },
+    {
+      "key": "loc_scenes_button_analandvaginal",
+      "text": "Anal + Vaginal"
+    },
+    {
+      "key": "loc_scenes_button_finish",
+      "text": "Finish"
+    },
+    {
+      "key": "loc_popup_defeat_head",
+      "text": "Defeat"
+    },
+    {
+      "key": "loc_popup_defeat_body_1",
+      "text": "Your health has run out!\nBut the chosen do not die..."
+    },
+    {
+      "key": "loc_popup_defeat_body_2",
+      "text": "You can either return to the map and prepare for the battle, or try again."
+    },
+    {
+      "key": "loc_popup_defeat_button_retry",
+      "text": "Retry"
+    },
+    {
+      "key": "Rebecca",
+      "text": "Rebecca"
+    },
+    {
+      "key": "Alicia",
+      "text": "Alicia"
+    },
+    {
+      "key": "Helena",
+      "text": "Helena"
+    },
+    {
+      "key": "Hilda",
+      "text": "Hilda"
+    },
+    {
+      "key": "Diana",
+      "text": "Diana"
+    },
+    {
+      "key": "Etel",
+      "text": "Etel"
+    },
+    {
+      "key": "Juliana",
+      "text": "Juliana"
+    },
+    {
+      "key": "Jessica",
+      "text": "Jessica"
+    },
+    {
+      "key": "Lilith",
+      "text": "Lilith"
+    },
+    {
+      "key": "Eva",
+      "text": "Eva"
+    },
+    {
+      "key": "Bellona",
+      "text": "Bellona"
+    },
+    {
+      "key": "Ida",
+      "text": "Ida"
+    },
+    {
+      "key": "loc_enemy_name1",
+      "text": "Adept"
+    },
+    {
+      "key": "loc_enemy_name2",
+      "text": "Senior Adept"
+    },
+    {
+      "key": "loc_enemy_name3",
+      "text": "Battle Homunculus"
+    },
+    {
+      "key": "loc_enemy_name4",
+      "text": "Enslaved Enchantress"
+    },
+    {
+      "key": "loc_enemy_name5",
+      "text": "Guardian"
+    },
+    {
+      "key": "loc_enemy_name6",
+      "text": "Ghost"
+    },
+    {
+      "key": "loc_enemy_name7",
+      "text": "Elemental Spirit"
+    },
+    {
+      "key": "loc_enemy_name8",
+      "text": "Dark Goddess"
+    },
+    {
+      "key": "loc_enemy_name9",
+      "text": "Light Goddess"
+    },
+    {
+      "key": "loc_dialogues_button_previous",
+      "text": "Previous"
+    },
+    {
+      "key": "loc_dialogues_button_next",
+      "text": "Next"
+    },
+    {
+      "key": "loc_demoend_header",
+      "text": "To be continued"
+    },
+    {
+      "key": "loc_demoend_body1",
+      "text": "Thank you for playing demo!"
+    },
+    {
+      "key": "loc_demoend_body2",
+      "text": "Add us to your wish list and don't miss the full version!"
+    },
+    {
+      "key": "loc_quest1_name",
+      "text": "Gremlin"
+    },
+    {
+      "key": "loc_quest1_short_descript",
+      "text": "Vile entity is constantly..."
+    },
+    {
+      "key": "loc_quest1_descript",
+      "text": "Vile entity is constantly chasing his henchman along this route. You can take something valuable from him."
+    },
+    {
+      "key": "loc_quest1_desc1",
+      "text": "A gremlin skips along the indicated route, hiding from the eyes of ordinary people. Behind him there is a bag of magical essence, literally pulsing with energy from within. \n\nHe's moving fast, almost at the edge of the possible."
+    },
+    {
+      "key": "loc_quest1_desc1_choice1",
+      "text": "Follow him stealthily."
+    },
+    {
+      "key": "loc_quest1_desc1_choice2",
+      "text": "If you delay, he can escape. Speed up."
+    },
+    {
+      "key": "loc_quest1_desc2",
+      "text": "Gremlin is fast - but you're fast either. He may have noticed you a few seconds ago, but he can't break away. In the end, he is stymied. \n\nHe turns to you, hisses, and releases his claws...He seems to be up to something."
+    },
+    {
+      "key": "loc_quest1_desc2_choice1",
+      "text": "Try to catch him. At least you managed to catch him up in chase!"
+    },
+    {
+      "key": "loc_quest1_desc2_choice2",
+      "text": "Distract him by throwing one of the dice between you. And catch him."
+    },
+    {
+      "key": "loc_quest1_desc3",
+      "text": "You try to move carefully, hiding from him in the shadows of buildings, trying to get lost among the trees of a small park, but it seems that you outsmarted yourself. Still, he's too fast, and even if he didn't notice you, he still disappeared into the distance."
+    },
+    {
+      "key": "loc_quest1_desc3_choice1",
+      "text": "Continue the journey."
+    },
+    {
+      "key": "loc_quest1_desc4",
+      "text": "You lash out at him, but that's all he's been waiting for. At a short distance, this creature still turned out to be faster and more agile - in a moment, and he disappears into one of the windows. It seems useless to pursue him further. \n\nHowever, he dropped something..."
+    },
+    {
+      "key": "loc_quest1_desc4_choice1",
+      "text": "Explore the find"
+    },
+    {
+      "key": "loc_quest1_desc5",
+      "text": "His eyes widen, he squeezes out: \n\n\"Wh-what?! The real Ma...\nAt this moment you catch him. You catch him to let him go, but you keep his bag."
+    },
+    {
+      "key": "loc_quest1_desc5_choice1",
+      "text": "Explore the loot"
+    },
+    {
+      "key": "loc_quest2_name",
+      "text": "Altar"
+    },
+    {
+      "key": "loc_quest2_short_descript",
+      "text": "There's an abandoned buiding..."
+    },
+    {
+      "key": "loc_quest2_descript",
+      "text": "There's an abandoned buiding with an interesting magical aura. See if there's something interesting there."
+    },
+    {
+      "key": "loc_quest2_desc1",
+      "text": "You come to the right place. She seems plain and completely ordinary, but at a certain moment you feel... no, you can't call it emotion or anticipation. \nYou don't even feel it, but you know there's something magical nearby. Something important. Studying the building, you realize that it seems to change its structure and it simply does not work to go through the same path twice. \n\nThe cubes in the pocket are noticeably heated."
+    },
+    {
+      "key": "loc_quest2_desc1_choice1",
+      "text": "Squeeze the dice, exhale and try to find a way to the center of this place."
+    },
+    {
+      "key": "loc_quest2_desc1_choice2",
+      "text": "Close your eyes and give in to the flow. This place will lead me to my goal by itself."
+    },
+    {
+      "key": "loc_quest2_desc2",
+      "text": "It seems that the decision was correct. \nYou go out to a small golden altar depicting a woman with neat horns. In the center of the altar there is a bowl with a red liquid. There is a smell of metal in the air, and the glossy surface of the liquid seems to tremble sometimes. \n\nWhen you turn around, you realize that you can leave. But to return here is not a fact."
+    },
+    {
+      "key": "loc_quest2_desc2_choice1",
+      "text": "Drink from the bowl"
+    },
+    {
+      "key": "loc_quest2_desc2_choice2",
+      "text": "A dubious thicket and a dubious liquid. Leave."
+    },
+    {
+      "key": "loc_quest2_desc3",
+      "text": "Time after time, you find yourself outside the building, eventually losing the entrance to it. It becomes like a completely gray concrete box with no entrance or exit...And luckily you're outside."
+    },
+    {
+      "key": "loc_quest2_desc3_choice1",
+      "text": "Hide before the Order finds the anomaly"
+    },
+    {
+      "key": "loc_quest2_desc4",
+      "text": "You feel how your veins are filled with a new, previously unknown force. It seems that the whole world around has become brighter and clearer. My heart sped up."
+    },
+    {
+      "key": "loc_quest2_desc4_choice1",
+      "text": "Smile and feel this power with your soul."
+    },
+    {
+      "key": "loc_quest3_name",
+      "text": "Graffiti"
+    },
+    {
+      "key": "loc_quest3_short_descript",
+      "text": "In this area..."
+    },
+    {
+      "key": "loc_quest3_descript",
+      "text": "In this area, someone started leaving very strange magical drawings. I think you might be interested in this."
+    },
+    {
+      "key": "loc_quest3_desc1",
+      "text": "Among the gloomy alleys you find a strange graffiti.\n\nA lot of grotesquely drawn figures whose eyes are not even marked. Whoever painted that, but he was definitely not himself - the lines were uneven, periodically something blood-brown was used instead of paint.\n\nAnd the drawing also smells of magic. I just want to touch it. \nBut isn't this another trap?"
+    },
+    {
+      "key": "loc_quest3_desc1_choice1",
+      "text": "Touch"
+    },
+    {
+      "key": "loc_quest3_desc1_choice2",
+      "text": "Step back and study more closely"
+    },
+    {
+      "key": "loc_quest3_desc2",
+      "text": "You touch the graffiti and the figures from it literally disappear from the image, moving into real space. They circle around you, forming a circle. With each of their movements, you can hear your heart pounding in your ears more and more. And a whisper.\n\n\"The chosen one...\"\n\n\"The chosen one!\"\n\n\"THE CHOSEN ONE"
+    },
+    {
+      "key": "loc_quest3_desc2_choice1",
+      "text": "Scream"
+    },
+    {
+      "key": "loc_quest3_desc2_choice2",
+      "text": "Try to escape"
+    },
+    {
+      "key": "loc_quest3_desc3",
+      "text": "You take a few steps back, but the figures literally come off the image and follow you. \n\nThey're getting closer and closer."
+    },
+    {
+      "key": "loc_quest3_desc3_choice1",
+      "text": "Roll the dice and get ready for battle"
+    },
+    {
+      "key": "loc_quest3_desc4",
+      "text": "But you just blink and they disappear. As well as there is no drawing on the wall.\n\nOnly the remnants of a whisper inside the head and...And unexpectedly, but you feel stronger"
+    },
+    {
+      "key": "loc_quest3_desc4_choice1",
+      "text": "Clench your fists and move on."
+    },
+    {
+      "key": "loc_quest3_desc5",
+      "text": "A magical flash immediately spreads from the dice in all directions. The painted people trembled...\n\nAnd they scattered magical energy right on the ground."
+    },
+    {
+      "key": "loc_quest3_desc5_choice1",
+      "text": "Gather energy."
+    },
+    {
+      "key": "loc_quest4_name",
+      "text": "Willpower"
+    },
+    {
+      "key": "loc_quest4_short_descript",
+      "text": "Don't forget to train..."
+    },
+    {
+      "key": "loc_quest4_descript",
+      "text": "Don't forget to train with dice. Without will training, it will be very difficult for you on the way."
+    },
+    {
+      "key": "loc_quest4_desc1",
+      "text": "Yes, you read somewhere that magic is also a will. But then it all seemed fictional.\n\nPerhaps you should take Rebecca's advice and practice in this short respite?\n\nThere are too many dangers ahead to be unprepared for them."
+    },
+    {
+      "key": "loc_quest4_desc1_choice1",
+      "text": "Go ahead"
+    },
+    {
+      "key": "loc_quest4_desc1_choice2",
+      "text": "I'll be back later"
+    },
+    {
+      "key": "loc_quest4_desc2",
+      "text": "You close your eyes and concentrate.\n\nA moment, another, and then there was only silence. And there is no one around, there is only you and your will. You can feel the dice heating up. And even for a brief moment you feel like you are one with them.\n\nBut what do you want to become?"
+    },
+    {
+      "key": "loc_quest4_desc2_choice1",
+      "text": "I want to be strong"
+    },
+    {
+      "key": "loc_quest4_desc2_choice2",
+      "text": "Fortitude is my credo."
+    },
+    {
+      "key": "loc_quest4_desc3",
+      "text": "You can feel the dice yielding to your thoughts. \n\nYour body is filled with their energy and becomes stronger.\n\nEvery breath is easier."
+    },
+    {
+      "key": "loc_quest4_desc3_choice1",
+      "text": "I will crush my enemies."
+    },
+    {
+      "key": "loc_quest4_desc4",
+      "text": "You can feel the dice yielding to your thoughts. \n\nYour mind is filled with their energy and becomes stronger.\n\nYou squeeze them harder in your hand."
+    },
+    {
+      "key": "loc_quest4_desc4_choice1",
+      "text": "I will not give up."
+    },
+    {
+      "key": "loc_quest5_name",
+      "text": "Bird"
+    },
+    {
+      "key": "loc_quest5_short_descript",
+      "text": "You'll laugh, but..."
+    },
+    {
+      "key": "loc_quest5_descript",
+      "text": "You'll laugh, but...Birds on the outskirts of the industrial zone behave strangely. It's like someone is controlling them..."
+    },
+    {
+      "key": "loc_quest5_desc1",
+      "text": "Walking along the edge of the industrial zone, which Helena pointed out, you notice that a bird is sitting on one of the stone fences surrounding the old mansions. \n\nNot a simple bird, because a simple bird does not have a precious ring on its foot."
+    },
+    {
+      "key": "loc_quest5_desc1_choice1",
+      "text": "Try to call the bird"
+    },
+    {
+      "key": "loc_quest5_desc1_choice2",
+      "text": "Try to catch the bird"
+    },
+    {
+      "key": "loc_quest5_desc2",
+      "text": "You gently call the bird and, to your surprise, it flies up to you and even sits on your hand. \n\nIt is a huge black raven and its eyes, like its gaze, are very similar to human ones. \nWhen he flutters up and flies away, the ring seems to slide off of its own accord and end up in your hands."
+    },
+    {
+      "key": "loc_quest5_desc2_choice1",
+      "text": "Take the ring"
+    },
+    {
+      "key": "loc_quest5_desc3",
+      "text": "You try to catch the bird, but your attempts are in vain - it is too fast.\n\nAll you can do is follow her retreating silhouette with your eyes."
+    },
+    {
+      "key": "loc_quest5_desc3_choice1",
+      "text": "Take a breath and leave."
+    },
+    {
+      "key": "loc_quest6_name",
+      "text": "Shy adept"
+    },
+    {
+      "key": "loc_quest6_short_descript",
+      "text": "There's a forgotten stash here..."
+    },
+    {
+      "key": "loc_quest6_descript",
+      "text": "There's a forgotten stash here. Are you interested in the coordinates?"
+    },
+    {
+      "key": "loc_quest6_desc1",
+      "text": "It is pouring rain.\nYou follow the coordinates left behind in search of a hiding place and manage to hide in time when an adept of the Order passes by you. A young guy with shifty eyes and disheveled hair, he is hiding in an alley in the city.\n\nHe is visibly nervous and clearly not looking for a fight."
+    },
+    {
+      "key": "loc_quest6_desc1_choice1",
+      "text": "Stun him. He's here for a reason and may be hiding something."
+    },
+    {
+      "key": "loc_quest6_desc1_choice2",
+      "text": "Try to follow him covertly."
+    },
+    {
+      "key": "loc_quest6_desc2",
+      "text": "You stun him and search him quickly. There were several crystals containing magical essence in his pockets... But you couldn't wait and interrogate him - soon the Order patrol arrived and you had to leave the area."
+    },
+    {
+      "key": "loc_quest6_desc2_choice1",
+      "text": "Break the crystals and get the essence"
+    },
+    {
+      "key": "loc_quest6_desc3",
+      "text": "The guy hides in an alley and comes to a dead end. \n\nThe wet, scuffed bricks are lavishly decorated with a lot of graffiti. He closes his eyes and starts tapping them in a strange rhythm."
+    },
+    {
+      "key": "loc_quest6_desc3_choice1",
+      "text": "The time has come. The hiding place is definitely here!"
+    },
+    {
+      "key": "loc_quest6_desc3_choice2",
+      "text": "Wait for more time"
+    },
+    {
+      "key": "loc_quest6_desc4",
+      "text": "You stun him and search him quickly. There were several crystals containing magical essence in his pockets... But you couldn't wait and interrogate him, just as you couldn't open the cache without his help - soon the patrol of the Order arrived and there simply wasn't enough time."
+    },
+    {
+      "key": "loc_quest6_desc4_choice1",
+      "text": "Break the crystals and get the essence. Better than nothing."
+    },
+    {
+      "key": "loc_quest6_desc5",
+      "text": "You decide to bide your time and for good reason. After two minutes of tapping, the wall shudders and slides apart, revealing a hiding place. \n\nYou use magic and a stream of energy hits the Inquisitor against the wall, stunning him. The contents of the cache are yours now!"
+    },
+    {
+      "key": "loc_quest6_desc5_choice1",
+      "text": "Explore the loot"
+    },
+    {
+      "key": "scene_1_slide_1",
+      "text": "Having inherited my grandfather's old house, I had no idea what was waiting for me. I thought I'd have to sort things out and then put the house up for sale."
+    },
+    {
+      "key": "scene_1_slide_2",
+      "text": "For the first time since my grandfather's death, I entered the house where I spent so much time when I was a child…"
+    },
+    {
+      "key": "scene_1_slide_4",
+      "text": "I walked through the rooms and cheered up - there were few things. But then I remembered that my grandfather put everything superfluous and temporarily unnecessary in the attic."
+    },
+    {
+      "key": "scene_1_slide_5",
+      "text": "I climbed up an old ladder into the attic and sneezed several times in a row. Everything was packed in boxes and bags, and there were some small items on an old table covered with newspapers."
+    },
+    {
+      "key": "scene_1_slide_6",
+      "text": "I came closer and saw that they were playing dice. They looked unusual and were not covered with dust."
+    },
+    {
+      "key": "scene_1_slide_7",
+      "text": "I took them in my hand... and something strange happened. The dice lit up from the inside and became very hot."
+    },
+    {
+      "key": "scene_1_slide_8",
+      "text": "I reflexively dropped them on the newspapers, and they immediately caught fire. What should I do?!"
+    },
+    {
+      "key": "scene_1_slide_10",
+      "text": "There was a loud click, a girl appeared out of nowhere and extinguished the fire, making several passes with her hands."
+    },
+    {
+      "key": "scene_1_slide_11",
+      "text": "Hi, {Name}. I'm Rebecca."
+    },
+    {
+      "key": "scene_1_slide_12",
+      "text": "Where are you from?!"
+    },
+    {
+      "key": "scene_1_slide_13",
+      "text": "It doesn't matter. The important thing is that I am a sorceress."
+    },
+    {
+      "key": "scene_1_slide_14",
+      "text": "And you rule the world."
+    },
+    {
+      "key": "scene_1_slide_15",
+      "text": "You're laughing for nothing. You're a wizard too, by the way."
+    },
+    {
+      "key": "scene_1_slide_16",
+      "text": "But I'm not..."
+    },
+    {
+      "key": "scene_1_slide_17",
+      "text": "Male magic has not existed for a long time. But there is a prophecy that the newly appeared male magician must revive it."
+    },
+    {
+      "key": "scene_1_slide_19",
+      "text": "I'm not going to do this nonsense. It's crazy."
+    },
+    {
+      "key": "scene_1_slide_20",
+      "text": "You have nowhere to go, because the prophecy..."
+    },
+    {
+      "key": "scene_1_slide_21",
+      "text": "It says that sooner or later the first male magician in many years will appear."
+    },
+    {
+      "key": "scene_1_slide_22",
+      "text": "I can't be a magician. This...It's like saying I'm an octopus."
+    },
+    {
+      "key": "scene_1_slide_23",
+      "text": "Just accept it. I can't recommend anything else."
+    },
+    {
+      "key": "scene_1_slide_24",
+      "text": "But if I don't want to follow it? If I just don't?"
+    },
+    {
+      "key": "scene_1_slide_25",
+      "text": "You will be hunted by the Order, and the witches may consider you an enemy."
+    },
+    {
+      "key": "scene_1_slide_26",
+      "text": "Why should I be hunted? What kind of Order is this?"
+    },
+    {
+      "key": "scene_1_slide_27",
+      "text": "The Order wants to eradicate magic as a phenomenon."
+    },
+    {
+      "key": "scene_1_slide_28",
+      "text": "Since you're a magician now, they'll start hunting you, too. As soon as you picked up the dice, a pillar of light appeared above the house."
+    },
+    {
+      "key": "scene_1_slide_29",
+      "text": "Now you'll be at risk too."
+    },
+    {
+      "key": "scene_1_slide_30",
+      "text": "But the prophecy must be fulfilled at all costs. I'll teach you the basics."
+    },
+    {
+      "key": "scene_1_slide_31",
+      "text": "Right now?"
+    },
+    {
+      "key": "scene_1_slide_32",
+      "text": "Yes."
+    },
+    {
+      "key": "scene_1_slide_33",
+      "text": "Why would I do that?"
+    },
+    {
+      "key": "scene_1_slide_34",
+      "text": "Everyone asks themselves the question \"why\", but no one has ever received an answer. Let's get started."
+    },
+    {
+      "key": "scene_1_slide_35",
+      "text": "I got up in the morning, and at lunch it turned out that I am the chosen one..."
+    },
+    {
+      "key": "scene_1_slide_36",
+      "text": "Stop whining. By the way, I almost forgot!"
+    },
+    {
+      "key": "scene_1_slide_37",
+      "text": "What will I have to do?"
+    },
+    {
+      "key": "scene_1_slide_38",
+      "text": "You have to get some people out of the clutches of the Order. Only you can do it."
+    },
+    {
+      "key": "scene_1_slide_39",
+      "text": "Perhaps you'll have to fight with some Adepts."
+    },
+    {
+      "key": "scene_1_slide_40",
+      "text": "I felt weak."
+    },
+    {
+      "key": "scene_1_slide_41",
+      "text": "How can I do it?"
+    },
+    {
+      "key": "scene_1_slide_42",
+      "text": "You will have to get into the territory of the fortified base of the Order, which is located in the industrial zone."
+    },
+    {
+      "key": "scene_1_slide_43",
+      "text": "And a lot more..."
+    },
+    {
+      "key": "scene_1_slide_44",
+      "text": "Let's not waste any time."
+    },
+    {
+      "key": "scene_1_slide_45",
+      "text": "We're going to have a trial fight now. Concentrate."
+    },
+    {
+      "key": "scene_2_slide_1",
+      "text": ""
+    },
+    {
+      "key": "scene_2_slide_2",
+      "text": ""
+    },
+    {
+      "key": "scene_2_slide_3",
+      "text": ""
+    },
+    {
+      "key": "scene_2_slide_4",
+      "text": "Not bad. Let's recuperate."
+    },
+    {
+      "key": "scene_2_choose_1_variant_1",
+      "text": "Is it painful?"
+    },
+    {
+      "key": "scene_2_choose_1_variant_2",
+      "text": "What a twist."
+    },
+    {
+      "key": "scene_slide_4_variant_1",
+      "text": "You'll like it."
+    },
+    {
+      "key": "scene_slide_4_variant_2",
+      "text": "Focus and don't get distracted."
+    },
+    {
+      "key": "scene_2_slide_5",
+      "text": "It's time to teach you spells."
+    },
+    {
+      "key": "scene_2_slide_6",
+      "text": "I will be glad to continue."
+    },
+    {
+      "key": "scene_3_slide_1",
+      "text": "You're not so hopeless now. I didn't expect it, I thought it would be worse."
+    },
+    {
+      "key": "scene_3_slide_2",
+      "text": "All your clothes fell off during the fight. I didn't expect this either."
+    },
+    {
+      "key": "scene_3_slide_3",
+      "text": "Do you like what you see?"
+    },
+    {
+      "key": "scene_3_slide_4",
+      "text": "Very much."
+    },
+    {
+      "key": "scene_3_slide_5",
+      "text": "Then I'll finish the briefing and we'll relax a bit."
+    },
+    {
+      "key": "scene_3_slide_6",
+      "text": "You need to talk to my friend Alicia. She'll bring you up to speed."
+    },
+    {
+      "key": "scene_3_choose_1_variant_1",
+      "text": "How can I find her?"
+    },
+    {
+      "key": "scene_3_choose_1_variant_2",
+      "text": "Can I trust anyone except you?"
+    },
+    {
+      "key": "scene_3_slide_6_variant_1",
+      "text": "Let's talk about that later."
+    },
+    {
+      "key": "scene_3_slide_6_variant_2",
+      "text": "Yes, absolutely. She will never turn you over to the Order."
+    },
+    {
+      "key": "scene_3_slide_7",
+      "text": "I'll explain and show you everything, don't worry."
+    },
+    {
+      "key": "scene_3_slide_8",
+      "text": "Now you can take a breath."
+    },
+    {
+      "key": "scene_3_slide_9",
+      "text": "Do you have a girlfriend?"
+    },
+    {
+      "key": "scene_3_slide_10",
+      "text": "No. Why do you ask?"
+    },
+    {
+      "key": "scene_3_slide_11",
+      "text": "I think you are a great guy..."
+    },
+    {
+      "key": "scene_3_slide_12",
+      "text": "Really? Why?"
+    },
+    {
+      "key": "scene_3_slide_13",
+      "text": "You're a magician now. This changes everything."
+    },
+    {
+      "key": "scene_3_slide_14",
+      "text": "It makes you the one and only."
+    },
+    {
+      "key": "scene_3_slide_15",
+      "text": "I wonder what the first male magician is like in bed?"
+    },
+    {
+      "key": "scene_3_slide_16",
+      "text": "Do you want to find out right now?"
+    },
+    {
+      "key": "scene_3_slide_17",
+      "text": "Yes. And you can find out what it's like to be in bed with a sorceress."
+    },
+    {
+      "key": "scene_3_slide_18",
+      "text": "Sounds great."
+    },
+    {
+      "key": "scene_3_slide_19",
+      "text": "So, undress."
+    },
+    {
+      "key": "scene_4_slide_1",
+      "text": "I met Alicia at the agreed place."
+    },
+    {
+      "key": "scene_4_slide_2",
+      "text": "Let's go. I'll tell you about the city."
+    },
+    {
+      "key": "scene_4_slide_3",
+      "text": "I don't know why Rebecca needs you. As for me I don't really need you."
+    },
+    {
+      "key": "scene_4_slide_4",
+      "text": "And even more so, I don't like you, you're not my type at all."
+    },
+    {
+      "key": "scene_4_choose_1_variant_1",
+      "text": "I'm not happy to meet you either."
+    },
+    {
+      "key": "scene_4_choose_1_variant_2",
+      "text": "Maybe I can make a better impression."
+    },
+    {
+      "key": "scene_4_slide_5",
+      "text": "I'm not sure you have enough magic to fulfill the prophecy."
+    },
+    {
+      "key": "scene_4_choose_2_variant_1",
+      "text": "I see. Check me out."
+    },
+    {
+      "key": "scene_4_choose_2_variant_2",
+      "text": "You're so flimsy...I'll smear you against the wall without any magic."
+    },
+    {
+      "key": "scene_4_slide_5_variant_1",
+      "text": "I have to."
+    },
+    {
+      "key": "scene_4_slide_5_variant_2",
+      "text": "We'll see about that."
+    },
+    {
+      "key": "scene_4_slide_6",
+      "text": "Let's start with studying the city."
+    },
+    {
+      "key": "scene_4_slide_7",
+      "text": "The city has two parts: old and new ones."
+    },
+    {
+      "key": "scene_4_slide_8",
+      "text": "You know that yourself. But did you know that the headquarters of the Order is located in the old part?"
+    },
+    {
+      "key": "scene_4_slide_9",
+      "text": "Now I've found out."
+    },
+    {
+      "key": "scene_4_slide_10",
+      "text": "There are field agents, the main office, and support offices."
+    },
+    {
+      "key": "scene_4_slide_11",
+      "text": "Adepts are everywhere."
+    },
+    {
+      "key": "scene_4_slide_12",
+      "text": "There are mostly residential buildings in the new one. All the official stuff is in the old part."
+    },
+    {
+      "key": "scene_4_slide_13",
+      "text": "The Order is everywhere. They have both uniformed officers and people under the guise of civilians."
+    },
+    {
+      "key": "scene_4_slide_14",
+      "text": "They have observation posts and patrols."
+    },
+    {
+      "key": "scene_4_slide_15",
+      "text": "Specially trained people do not know magic themselves, but they feel its presence perfectly well."
+    },
+    {
+      "key": "scene_4_slide_16",
+      "text": "They can be anywhere."
+    },
+    {
+      "key": "scene_4_slide_17",
+      "text": "You should always be on your guard. Although it's easier for men."
+    },
+    {
+      "key": "scene_4_slide_18",
+      "text": "There's a man standing over there, staring at us. Could it be an agent of the Order?"
+    },
+    {
+      "key": "scene_4_slide_19",
+      "text": "I suppose, yes."
+    },
+    {
+      "key": "scene_4_slide_20",
+      "text": "We have to go."
+    },
+    {
+      "key": "scene_4_slide_21",
+      "text": "He follows us... Oh, no!"
+    },
+    {
+      "key": "scene_4_slide_22",
+      "text": "People like him offer to go with them, and then the sorceress disappears."
+    },
+    {
+      "key": "scene_4_slide_23",
+      "text": "I'll stop him."
+    },
+    {
+      "key": "scene_4_choose_3_variant_1",
+      "text": "I hope he doesn't get hurt too much, otherwise my conscience will prick at me."
+    },
+    {
+      "key": "scene_4_choose_3_variant_2",
+      "text": "I'll tear him to pieces!"
+    },
+    {
+      "key": "scene_5_slide_1",
+      "text": "I thought you were weak."
+    },
+    {
+      "key": "scene_5_slide_2",
+      "text": "You were wrong. Were you scared?"
+    },
+    {
+      "key": "scene_5_slide_3",
+      "text": "I was terribly scared. I thought it was over."
+    },
+    {
+      "key": "scene_5_slide_4",
+      "text": "So, where were we?"
+    },
+    {
+      "key": "scene_5_slide_5",
+      "text": "We stopped at how dangerous the Order is, but you've already figured that out for yourself."
+    },
+    {
+      "key": "scene_5_slide_6",
+      "text": "According to Rebecca, your ultimate goal is to restore male magic. To do this, you will need to find Demiurges."
+    },
+    {
+      "key": "scene_5_slide_7",
+      "text": "How will I know where they are?"
+    },
+    {
+      "key": "scene_5_slide_8",
+      "text": "This is more difficult. You'll have to find out from the other witches."
+    },
+    {
+      "key": "scene_5_slide_9",
+      "text": "You make it sound like there's a catch here."
+    },
+    {
+      "key": "scene_5_slide_10",
+      "text": "They are in the dungeons of the Order."
+    },
+    {
+      "key": "scene_5_slide_11",
+      "text": "If you release them, they will share information with you."
+    },
+    {
+      "key": "scene_5_slide_12",
+      "text": "I'll mark a shelter on the map where you can wait out the chase."
+    },
+    {
+      "key": "scene_5_slide_13",
+      "text": "Oh... Let's imagine I sneak into the base. What's next?"
+    },
+    {
+      "key": "scene_5_choose_1_variant_1",
+      "text": "Just liberate the girls?"
+    },
+    {
+      "key": "scene_5_choose_1_variant_2",
+      "text": "Or kill the Adepts at the same time?"
+    },
+    {
+      "key": "scene_5_slide_14",
+      "text": "You're a hero. Heroes can do anything. Seriously, just free the witches."
+    },
+    {
+      "key": "scene_5_slide_15",
+      "text": "I'm a beginning hero, I need information and details on what to expect at the base."
+    },
+    {
+      "key": "scene_5_slide_16",
+      "text": "The first factor that will make the task easier is slow security."
+    },
+    {
+      "key": "scene_5_slide_17",
+      "text": "There can't be slow guards in a place like this."
+    },
+    {
+      "key": "scene_5_slide_18",
+      "text": "They are very strong, but they move slowly because they are hampered by equipment."
+    },
+    {
+      "key": "scene_5_slide_19",
+      "text": "And the second factor?"
+    },
+    {
+      "key": "scene_5_slide_20",
+      "text": "There's a secret way. But you owe me a kiss for that."
+    },
+    {
+      "key": "scene_5_slide_21",
+      "text": "That's it? I thought I owed more."
+    },
+    {
+      "key": "scene_5_slide_22",
+      "text": "We're not going to do this in the city center, are we?"
+    },
+    {
+      "key": "scene_5_slide_23",
+      "text": "I'm ready to do it with you anywhere."
+    },
+    {
+      "key": "scene_5_slide_24",
+      "text": "I guess I see another Adept. I'm scared..."
+    },
+    {
+      "key": "scene_5_slide_25",
+      "text": "He doesn't understand which of us is feeling the magic from, but he wants to find out."
+    },
+    {
+      "key": "scene_5_slide_26",
+      "text": "We need to hide!"
+    },
+    {
+      "key": "scene_5_slide_27",
+      "text": "No time. He's already on his way to us."
+    },
+    {
+      "key": "scene_5_slide_28",
+      "text": "You hide, and I'll deal with them."
+    },
+    {
+      "key": "scene_5_slide_29",
+      "text": "Be careful! They are ready for anything!"
+    },
+    {
+      "key": "scene_5_slide_30",
+      "text": "Me too!"
+    },
+    {
+      "key": "scene_5_slide_31",
+      "text": "There was nowhere to retreat."
+    },
+    {
+      "key": "scene_6_slide_1",
+      "text": "Alicia! Where are you?"
+    },
+    {
+      "key": "scene_6_slide_2",
+      "text": "I was hiding behind those boxes over there and I was really worried about you."
+    },
+    {
+      "key": "scene_6_slide_3",
+      "text": "Thank you, my hero."
+    },
+    {
+      "key": "scene_6_slide_4",
+      "text": "I was very pleased. Maybe it's not so bad to be the chosen one?"
+    },
+    {
+      "key": "scene_6_slide_5",
+      "text": "Hold your wallet."
+    },
+    {
+      "key": "scene_6_slide_6",
+      "text": "What kind of news is this? Did you steal it from me?"
+    },
+    {
+      "key": "scene_6_slide_7",
+      "text": "Just a hint that you shouldn't trust anyone."
+    },
+    {
+      "key": "scene_6_slide_8",
+      "text": "What about you?"
+    },
+    {
+      "key": "scene_6_slide_9",
+      "text": "Especially for me. Okay, let's get back to the issue of the Order's base."
+    },
+    {
+      "key": "scene_6_slide_10",
+      "text": "There are patrols there, and they have a tight schedule. I'll give it to you, and you can sneak into the shift."
+    },
+    {
+      "key": "scene_6_slide_11",
+      "text": "Alicia was adding more and more new aspects, and my head was spinning from the abundance of information."
+    },
+    {
+      "key": "scene_6_slide_12",
+      "text": "Shifts, niches in the walls, blind spots..."
+    },
+    {
+      "key": "scene_6_slide_13",
+      "text": "Wait a minute, what should I do if I get caught?"
+    },
+    {
+      "key": "scene_6_slide_14",
+      "text": "This is highly undesirable. Your future will be sad."
+    },
+    {
+      "key": "scene_6_slide_15",
+      "text": "If I have to fulfill the prophecy, I can't die."
+    },
+    {
+      "key": "scene_6_slide_16",
+      "text": "Life presents various surprises."
+    },
+    {
+      "key": "scene_6_slide_17",
+      "text": "You have to find a girl who will provide further information."
+    },
+    {
+      "key": "scene_6_slide_18",
+      "text": "Her name is Helena. She...She easily trusts people. That's how she was captured."
+    },
+    {
+      "key": "scene_6_slide_19",
+      "text": "It was a bad idea to leave her unattended once. We have to save her."
+    },
+    {
+      "key": "scene_6_slide_20",
+      "text": "Focus all your efforts on this, not on empty excitement."
+    },
+    {
+      "key": "scene_6_slide_21",
+      "text": "What should I do if I run into the guards?"
+    },
+    {
+      "key": "scene_6_choose_1_variant_1",
+      "text": "Maybe I can sneak past them?"
+    },
+    {
+      "key": "scene_6_choose_1_variant_2",
+      "text": "I'm charming. Can they be fooled?"
+    },
+    {
+      "key": "scene_6_slide_21_variant_1",
+      "text": "There are a lot of cameras there. Someone will notice. You can't do without a fight."
+    },
+    {
+      "key": "scene_6_slide_21_variant_2",
+      "text": "They are absolute fanatics for the most part. It is unlikely that you will be able to do without a fight."
+    },
+    {
+      "key": "scene_6_slide_22",
+      "text": "I think I've told you everything you need to know. Let's move on to the debts."
+    },
+    {
+      "key": "scene_6_slide_23",
+      "text": "Yes, yes, I owed something..."
+    },
+    {
+      "key": "scene_6_slide_24",
+      "text": "More than a kiss."
+    },
+    {
+      "key": "scene_6_slide_25",
+      "text": "Let's go. There's a door to an abandoned storage room."
+    },
+    {
+      "key": "scene_6_slide_26",
+      "text": "I promise we'll have a good time."
+    },
+    {
+      "key": "scene_6_slide_27",
+      "text": "If you're inviting me..."
+    },
+    {
+      "key": "scene_6_slide_28",
+      "text": "But don't count on much this time. I want to tease you."
+    },
+    {
+      "key": "scene_6_slide_29",
+      "text": "Okay, let's prolong the pleasure."
+    },
+    {
+      "key": "scene_6_slide_30",
+      "text": "You are so nice..."
+    },
+    {
+      "key": "scene_6_choose_2_variant_1",
+      "text": "Isn't it dangerous here?"
+    },
+    {
+      "key": "scene_6_choose_2_variant_2",
+      "text": "I don't want to delay...I want you here and now."
+    },
+    {
+      "key": "scene_6_slide_30_variant_1",
+      "text": "Nowhere without risk...The chosen one."
+    },
+    {
+      "key": "scene_6_slide_30_variant_2",
+      "text": "It's still early. Continue to be a hero."
+    },
+    {
+      "key": "scene_7_slide_1",
+      "text": "We haven't done everything yet."
+    },
+    {
+      "key": "scene_7_slide_2",
+      "text": "She got dressed and we left the room."
+    },
+    {
+      "key": "scene_7_slide_3",
+      "text": "Another Adept..."
+    },
+    {
+      "key": "scene_7_slide_4",
+      "text": "I'm fed up with them. What a day..."
+    },
+    {
+      "key": "scene_7_slide_5",
+      "text": "I'm starting to get used to it."
+    },
+    {
+      "key": "scene_7_slide_6",
+      "text": "I'm not sure you can get used to it."
+    },
+    {
+      "key": "scene_7_slide_7",
+      "text": "I have no choice. At least this way I'll be calmer."
+    },
+    {
+      "key": "scene_7_slide_8",
+      "text": "Hide for now."
+    },
+    {
+      "key": "scene_7_slide_9",
+      "text": "The main thing now is to fight back and stay alive."
+    },
+    {
+      "key": "scene_8_slide_1",
+      "text": "The girl was breathing heavily. But her look didn't show the losing side..."
+    },
+    {
+      "key": "scene_8_slide_2",
+      "text": "I'll see you again... I like young boys like you."
+    },
+    {
+      "key": "scene_8_slide_3",
+      "text": "She licked her lips erotically and slowly left."
+    },
+    {
+      "key": "scene_8_slide_4",
+      "text": "I waited until she was out of sight and shouted:"
+    },
+    {
+      "key": "scene_8_slide_5",
+      "text": "Come out, Alicia!"
+    },
+    {
+      "key": "scene_8_slide_6",
+      "text": "I recognized her! It's Hilda!"
+    },
+    {
+      "key": "scene_8_slide_7",
+      "text": "Do you know each other?"
+    },
+    {
+      "key": "scene_8_slide_8",
+      "text": "She is known among the Adepts. Responsible for the prisoners."
+    },
+    {
+      "key": "scene_8_slide_9",
+      "text": "She is in charge of all the arrested witches."
+    },
+    {
+      "key": "scene_8_slide_10",
+      "text": "Yes, yes, I remember you talking about it."
+    },
+    {
+      "key": "scene_8_slide_11",
+      "text": "Yes. The witches are being held captive without trial."
+    },
+    {
+      "key": "scene_8_slide_12",
+      "text": "She has the right to do whatever she wants with them. But Adepts cannot put an ordinary person on a finger."
+    },
+    {
+      "key": "scene_8_slide_13",
+      "text": "Why?"
+    },
+    {
+      "key": "scene_8_slide_14",
+      "text": "The ideology of their Order is to protect people from us, I mean, magicians. In fact, the goals are, of course, different. But ordinary Adepts consider themselves good."
+    },
+    {
+      "key": "scene_8_slide_15",
+      "text": "Hilda is a typical Adept and strictly follows all the laws."
+    },
+    {
+      "key": "scene_8_slide_16",
+      "text": "I would not like to be her prisoner..."
+    },
+    {
+      "key": "scene_8_slide_17",
+      "text": "You still have to visit this prison and get Helena out of there."
+    },
+    {
+      "key": "scene_8_slide_18",
+      "text": "What information can I get from her?"
+    },
+    {
+      "key": "scene_8_slide_19",
+      "text": "The maximum is where the most powerful creatures are located."
+    },
+    {
+      "key": "scene_8_slide_20",
+      "text": "At least she overheard some of the Order's plans and will be able to tell you about it."
+    },
+    {
+      "key": "scene_8_slide_21",
+      "text": "By the way, how do I recognize her? What does she look like?"
+    },
+    {
+      "key": "scene_8_slide_22",
+      "text": "A tall, thin girl with dark hair."
+    },
+    {
+      "key": "scene_8_slide_23",
+      "text": "I told you about the security, about the peculiarities of the territory, too..."
+    },
+    {
+      "key": "scene_8_slide_24",
+      "text": "But it's time to finish what we started..."
+    },
+    {
+      "key": "scene_8_slide_25",
+      "text": "Where were we?"
+    },
+    {
+      "key": "scene_8_slide_26",
+      "text": "We were at how hot you are."
+    },
+    {
+      "key": "scene_8_slide_27",
+      "text": "You're so seductive..."
+    },
+    {
+      "key": "scene_8_slide_28",
+      "text": "Let's not delay."
+    },
+    {
+      "key": "scene_8_slide_29",
+      "text": "Do you want to feel me inside?"
+    },
+    {
+      "key": "scene_8_slide_30",
+      "text": "I'm yours."
+    },
+    {
+      "key": "scene_9_slide_1",
+      "text": "Following Alicia's instructions, I entered the place where the prisoners were kept."
+    },
+    {
+      "key": "scene_9_slide_2",
+      "text": "It was hard to suppress the clammy fear."
+    },
+    {
+      "key": "scene_9_slide_3",
+      "text": "I remembered that I needed to find Helena, and I also knew what she looks like."
+    },
+    {
+      "key": "scene_9_slide_4",
+      "text": "Helena was found in some kind of solitary confinement. The door was very secure."
+    },
+    {
+      "key": "scene_9_slide_5",
+      "text": "Helena!"
+    },
+    {
+      "key": "scene_9_slide_6",
+      "text": "I'm gonna get you out of here."
+    },
+    {
+      "key": "scene_9_slide_7",
+      "text": "I've waited! Finally!"
+    },
+    {
+      "key": "scene_9_slide_8",
+      "text": "But... You're doing this for a reason. Why do you need me?"
+    },
+    {
+      "key": "scene_9_choose_1_variant_1",
+      "text": "Because innocent people shouldn't be locked up."
+    },
+    {
+      "key": "scene_9_choose_1_variant_2",
+      "text": "I want information. But you'll owe me something else, too."
+    },
+    {
+      "key": "scene_9_slide_8_variant_1",
+      "text": "You are a real hero! But...How did you know where I was?"
+    },
+    {
+      "key": "scene_9_slide_8_variant_2",
+      "text": "Of course, just liberate me! But...How did you know where I was?"
+    },
+    {
+      "key": "scene_9_slide_9",
+      "text": "Alicia..."
+    },
+    {
+      "key": "scene_9_slide_10",
+      "text": "So she told it? Then it's clear."
+    },
+    {
+      "key": "scene_9_slide_11",
+      "text": "I somehow picked the heavy lock and opened the door. It creaked softly."
+    },
+    {
+      "key": "scene_9_slide_12",
+      "text": "Helena and I froze in horror. But no one seemed to hear the creaking."
+    },
+    {
+      "key": "scene_9_slide_13",
+      "text": "Let's go faster."
+    },
+    {
+      "key": "scene_9_slide_14",
+      "text": "My heart was pounding hard."
+    },
+    {
+      "key": "scene_9_slide_15",
+      "text": "I took Helena's hand and we ran to the exit."
+    },
+    {
+      "key": "scene_9_slide_16",
+      "text": "But we weren't lucky."
+    },
+    {
+      "key": "scene_9_slide_17",
+      "text": "One of the guards stood in the way."
+    },
+    {
+      "key": "scene_9_slide_18",
+      "text": "He's a monster... He will kill us."
+    },
+    {
+      "key": "scene_9_slide_19",
+      "text": "Don't worry. I have some experience."
+    },
+    {
+      "key": "scene_9_slide_20",
+      "text": "But he's still very dangerous! Don't think it's going to be easy!"
+    },
+    {
+      "key": "scene_9_slide_21",
+      "text": "I'll deal with him now."
+    },
+    {
+      "key": "scene_10_slide_1",
+      "text": "You're incredible!"
+    },
+    {
+      "key": "scene_10_slide_2",
+      "text": "Helena was delighted."
+    },
+    {
+      "key": "scene_10_slide_3",
+      "text": "You've done away with this monster! I owe you a favor!"
+    },
+    {
+      "key": "scene_10_slide_4",
+      "text": "You tell me what to do next, and we're even."
+    },
+    {
+      "key": "scene_10_slide_5",
+      "text": "Anything you want! I never thought that I would get out of here!"
+    },
+    {
+      "key": "scene_10_slide_6",
+      "text": "I'm the chosen one. Saving you is just a part of what I can do."
+    },
+    {
+      "key": "scene_10_slide_7",
+      "text": "Helena stopped. Me too."
+    },
+    {
+      "key": "scene_10_slide_8",
+      "text": "What do you mean?"
+    },
+    {
+      "key": "scene_10_slide_9",
+      "text": "The male magician. And my main tool is dice."
+    },
+    {
+      "key": "scene_10_slide_10",
+      "text": "There have been no male magicians for many years. How did it happen that you...?"
+    },
+    {
+      "key": "scene_10_slide_11",
+      "text": "A prophecy was made that a chosen one would appear, capable of reviving male magic."
+    },
+    {
+      "key": "scene_10_slide_12",
+      "text": "It just so happens that it's me."
+    },
+    {
+      "key": "scene_10_slide_13",
+      "text": "That's amazing... No, that's not possible... But if you say so..."
+    },
+    {
+      "key": "scene_10_slide_14",
+      "text": "I still haven't got used to the new role myself."
+    },
+    {
+      "key": "scene_10_slide_15",
+      "text": "This whole situation is new to me."
+    },
+    {
+      "key": "scene_10_slide_16",
+      "text": "This is also the first time I've heard about dice as a magic tool."
+    },
+    {
+      "key": "scene_10_slide_17",
+      "text": "You should know how surprised I was because of that."
+    },
+    {
+      "key": "scene_10_slide_18",
+      "text": "I thought I was crazy."
+    },
+    {
+      "key": "scene_10_slide_19",
+      "text": "You are unique. A savior, and a magician, and just a cool guy."
+    },
+    {
+      "key": "scene_11_slide_1",
+      "text": "When we get out..."
+    },
+    {
+      "key": "scene_11_slide_2",
+      "text": "Point taken."
+    },
+    {
+      "key": "scene_11_slide_3",
+      "text": "What can I count on?"
+    },
+    {
+      "key": "scene_11_slide_4",
+      "text": "Whatever you want. I'm ready for anything."
+    },
+    {
+      "key": "scene_11_slide_5",
+      "text": "I really like when a beautiful girl is ready for anything."
+    },
+    {
+      "key": "scene_11_slide_6",
+      "text": "You'll definitely like it."
+    },
+    {
+      "key": "scene_11_slide_7",
+      "text": "Are you so sure of your words? What if I don't like?"
+    },
+    {
+      "key": "scene_11_slide_8",
+      "text": "Don't forget that I'm a sorceress."
+    },
+    {
+      "key": "scene_11_slide_9",
+      "text": "It excites me when such a handsome man rescues me from captivity."
+    },
+    {
+      "key": "scene_11_slide_10",
+      "text": "It's a good idea to save you more often."
+    },
+    {
+      "key": "scene_11_slide_11",
+      "text": "If you do it personally, I'll be happy."
+    },
+    {
+      "key": "scene_11_slide_12",
+      "text": "I will definitely take it into account for the future."
+    },
+    {
+      "key": "scene_11_slide_13",
+      "text": "Who flashed by there? I thought I heard..."
+    },
+    {
+      "key": "scene_11_slide_14",
+      "text": "I don't know, I need to look around."
+    },
+    {
+      "key": "scene_11_slide_15",
+      "text": "My intuition was right."
+    },
+    {
+      "key": "scene_11_slide_16",
+      "text": "We saw another guard who was baring his teeth in our direction."
+    },
+    {
+      "key": "scene_11_slide_17",
+      "text": "Where do they come from?.. I don't have time to beat."
+    },
+    {
+      "key": "scene_12_slide_1",
+      "text": "Helena was very scared."
+    },
+    {
+      "key": "scene_12_slide_2",
+      "text": "I do not know if we get out of here or not... What did you want to know?"
+    },
+    {
+      "key": "scene_12_slide_3",
+      "text": "How to find the most powerful crea..."
+    },
+    {
+      "key": "scene_12_slide_4",
+      "text": "Don't go on, I get it. Personally, I do not know, but I know a girl who can help you with this."
+    },
+    {
+      "key": "scene_12_slide_5",
+      "text": "I hope she's not a prisoner."
+    },
+    {
+      "key": "scene_12_slide_6",
+      "text": "You're hoping in vain... Her name is Etel. And so she must have this information."
+    },
+    {
+      "key": "scene_12_slide_7",
+      "text": "She's a dryad. The Supreme Adept keeps her with him."
+    },
+    {
+      "key": "scene_12_slide_8",
+      "text": "As far as I know, Etel is in a cage almost in his private quarters."
+    },
+    {
+      "key": "scene_12_slide_9",
+      "text": "That means, you will have to fight with the Supreme?"
+    },
+    {
+      "key": "scene_12_slide_10",
+      "text": "Yes. If we release her, she will tell us what we need."
+    },
+    {
+      "key": "scene_12_slide_11",
+      "text": "She knows how to get to the most powerful creatures in the world of magic..."
+    },
+    {
+      "key": "scene_12_slide_12",
+      "text": "We'll have to go into hell again."
+    },
+    {
+      "key": "scene_12_slide_13",
+      "text": "I know where in the industrial zone the Supreme is located. I can take you there."
+    },
+    {
+      "key": "scene_12_slide_14",
+      "text": "Okay, let's go there together, but later."
+    },
+    {
+      "key": "scene_12_slide_15",
+      "text": "We managed to get unnoticed to the shelter that Alicia had indicated earlier."
+    },
+    {
+      "key": "scene_12_slide_16",
+      "text": "We had to sit out for a while and not go outside."
+    },
+    {
+      "key": "scene_12_slide_17",
+      "text": "Helena was cheerfully settling into a new place."
+    },
+    {
+      "key": "scene_12_slide_18",
+      "text": "After the prison cell, everything will seem luxurious to her for another couple of months."
+    },
+    {
+      "key": "scene_12_slide_19",
+      "text": "I was filled with pride that I was able to save a beautiful girl."
+    },
+    {
+      "key": "scene_12_slide_20",
+      "text": "You promised to thank me."
+    },
+    {
+      "key": "scene_12_slide_21",
+      "text": "Will you be my bad girl?"
+    },
+    {
+      "key": "scene_12_slide_22",
+      "text": "I'll do whatever you want."
+    },
+    {
+      "key": "scene_12_slide_23",
+      "text": "I want you to undress."
+    },
+    {
+      "key": "scene_12_slide_24",
+      "text": "Helena's gaze expressed undisguised desire."
+    },
+    {
+      "key": "scene_13_slide_1",
+      "text": "You are very beautiful."
+    },
+    {
+      "key": "scene_13_slide_2",
+      "text": "I want to see you all."
+    },
+    {
+      "key": "scene_13_slide_3",
+      "text": "I'm going to take care of you today."
+    },
+    {
+      "key": "scene_13_slide_4",
+      "text": "But later."
+    },
+    {
+      "key": "scene_13_slide_5",
+      "text": "Why?"
+    },
+    {
+      "key": "scene_13_slide_6",
+      "text": "I feel some kind of danger approaching. The shelter can become a trap. I want to prevent the risk."
+    },
+    {
+      "key": "scene_13_slide_7",
+      "text": "Sure!"
+    },
+    {
+      "key": "scene_13_slide_8",
+      "text": "I'll be back soon."
+    },
+    {
+      "key": "scene_13_slide_9",
+      "text": "See you later."
+    },
+    {
+      "key": "scene_14_slide_1",
+      "text": "After walking quite a bit, I felt that the danger was very close."
+    },
+    {
+      "key": "scene_14_slide_2",
+      "text": "A few seconds later, someone knocked me down."
+    },
+    {
+      "key": "scene_14_slide_3",
+      "text": "Ah!"
+    },
+    {
+      "key": "scene_14_slide_4",
+      "text": "You again?"
+    },
+    {
+      "key": "scene_14_slide_5",
+      "text": "I'm fed up with you!"
+    },
+    {
+      "key": "scene_14_slide_6",
+      "text": "And I'm fed up too. I hate such coincidences."
+    },
+    {
+      "key": "scene_14_slide_7",
+      "text": "It's not a coincidence."
+    },
+    {
+      "key": "scene_14_choose_1_variant_1",
+      "text": "It's not too late to pretend that we didn't notice each other."
+    },
+    {
+      "key": "scene_14_choose_1_variant_2",
+      "text": "Stop following me around! Leave while you're alive!"
+    },
+    {
+      "key": "scene_14_slide_8",
+      "text": "I guess, you're tired of being beaten."
+    },
+    {
+      "key": "scene_14_slide_9",
+      "text": "We'll have to figure out who's stronger."
+    },
+    {
+      "key": "scene_14_slide_10",
+      "text": "Let's do it right now."
+    },
+    {
+      "key": "scene_15_slide_1",
+      "text": "What's your name?"
+    },
+    {
+      "key": "scene_15_choose_1_variant_1",
+      "text": "{Name}."
+    },
+    {
+      "key": "scene_15_choose_1_variant_2",
+      "text": "That's none of your business."
+    },
+    {
+      "key": "scene_15_slide_2",
+      "text": "Have they told you about me?"
+    },
+    {
+      "key": "scene_15_slide_3",
+      "text": "Yes, you are Hilda and you hold a prominent place in the Order."
+    },
+    {
+      "key": "scene_15_slide_4",
+      "text": "We have already figured out who is stronger."
+    },
+    {
+      "key": "scene_15_slide_5",
+      "text": "Now only one person will leave here."
+    },
+    {
+      "key": "scene_15_slide_6",
+      "text": "I suggest we leave and forget."
+    },
+    {
+      "key": "scene_15_slide_7",
+      "text": "No. We must continue to the end."
+    },
+    {
+      "key": "scene_15_slide_8",
+      "text": "It's the only way to keep the balance."
+    },
+    {
+      "key": "scene_15_slide_9",
+      "text": "If you kill me, you'll have to justify killing an ordinary citizen. No one will believe that I am a male magician."
+    },
+    {
+      "key": "scene_15_slide_10",
+      "text": "My status is too high. I can get out of any situation."
+    },
+    {
+      "key": "scene_15_slide_11",
+      "text": "But if you kill me, how will you justify yourself?"
+    },
+    {
+      "key": "scene_15_slide_12",
+      "text": "No one will suspect me. That's all."
+    },
+    {
+      "key": "scene_15_slide_13",
+      "text": "You overestimate yourself."
+    },
+    {
+      "key": "scene_15_slide_14",
+      "text": "You do the same. You have no experience, no reputation, but a lot of audacity."
+    },
+    {
+      "key": "scene_15_slide_15",
+      "text": "Audacity is the second happiness."
+    },
+    {
+      "key": "scene_15_slide_16",
+      "text": "I like arrogant young guys. They try very hard in bed."
+    },
+    {
+      "key": "scene_15_slide_17",
+      "text": "What about me?"
+    },
+    {
+      "key": "scene_15_slide_18",
+      "text": "Very arrogant, and that's why I want to sleep with you."
+    },
+    {
+      "key": "scene_15_slide_19",
+      "text": "Is my opinion taken into account?"
+    },
+    {
+      "key": "scene_15_slide_20",
+      "text": "There will be a male magician in my collection."
+    },
+    {
+      "key": "scene_15_slide_21",
+      "text": "Of course, no."
+    },
+    {
+      "key": "scene_15_slide_22",
+      "text": "If so?"
+    },
+    {
+      "key": "scene_16_slide_1",
+      "text": "Now get out of here while you're alive."
+    },
+    {
+      "key": "scene_16_slide_2",
+      "text": "You too."
+    },
+    {
+      "key": "scene_16_slide_3",
+      "text": "We parted without letting each other out of our sight."
+    },
+    {
+      "key": "scene_16_slide_4",
+      "text": "I decided not to look for adventures anymore and returned home."
+    },
+    {
+      "key": "scene_16_slide_5",
+      "text": "It's good to have a pretty woman waiting at home, ready for anything."
+    },
+    {
+      "key": "scene_16_slide_6",
+      "text": "I walked and dreamed how Helena would meet me."
+    },
+    {
+      "key": "scene_16_slide_7",
+      "text": "I entered the house. Finally, I could relax."
+    },
+    {
+      "key": "scene_16_slide_8",
+      "text": "What happened?"
+    },
+    {
+      "key": "scene_16_slide_9",
+      "text": "Hilda tracked me down. She had to step back."
+    },
+    {
+      "key": "scene_16_slide_10",
+      "text": "What? Were you able to defeat her?!"
+    },
+    {
+      "key": "scene_16_slide_11",
+      "text": "Yes."
+    },
+    {
+      "key": "scene_16_slide_12",
+      "text": "Incredible!"
+    },
+    {
+      "key": "scene_16_slide_13",
+      "text": "I'll be at home now."
+    },
+    {
+      "key": "scene_16_slide_14",
+      "text": "We'll be all alone. We shouldn't be bored."
+    },
+    {
+      "key": "scene_16_slide_15",
+      "text": "What are we going to do?"
+    },
+    {
+      "key": "scene_16_slide_16",
+      "text": "What would you like? I'll do everything."
+    },
+    {
+      "key": "scene_16_slide_17",
+      "text": "And if I want anal sex?"
+    },
+    {
+      "key": "scene_16_slide_18",
+      "text": "I promised you."
+    },
+    {
+      "key": "scene_16_slide_19",
+      "text": "Yes, promises need to be kept."
+    },
+    {
+      "key": "scene_16_slide_20",
+      "text": "I can do a lot of things, just ask."
+    }
+  ]
+}

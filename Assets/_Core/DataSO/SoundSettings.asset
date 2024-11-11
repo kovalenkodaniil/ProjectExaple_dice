@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a55c042d83948f0b1a6078a34775e21, type: 3}
+  m_Name: SoundSettings
+  m_EditorClassIdentifier: 
+  mainTheme: {fileID: 8300000, guid: cf931c7ebf59e7c48815f5bc33f84712, type: 3}
+  battleTheme: {fileID: 8300000, guid: f8c6f175ab9be684db9347719ec98627, type: 3}
+  winTheme: {fileID: 8300000, guid: 1c1645a4134e9ee4090f8cc494d7b928, type: 3}
+  LoseTheme: {fileID: 8300000, guid: f0ab961f862af4444b45895dcd4d4c6e, type: 3}
+  ButtonClick: {fileID: 8300000, guid: 00a60596bb73a10469ada0bb5a46e4e6, type: 3}
+  RewardSound: {fileID: 8300000, guid: 244d93c704a340f48a60ca1f0de45cce, type: 3}
+  BuySound: {fileID: 8300000, guid: 0c42a9f5ef14e3044b318eff64e1147b, type: 3}
+  DiceRollSound: {fileID: 8300000, guid: 9264501dddf19004782494875a391939, type: 3}
+  DiceLock: {fileID: 8300000, guid: 46b0f9f687fe6794aa477065b9cf5074, type: 3}
+  HitSound: {fileID: 8300000, guid: 70c42c625a71b5c429d580d93c374834, type: 3}
+  FireBallSound: {fileID: 8300000, guid: 5851eaf9ed0647f49949c3a57430cd1a, type: 3}
+  BarrierSound: {fileID: 8300000, guid: 172190864437e2448952fa99f31214e0, type: 3}
+  FurySound: {fileID: 8300000, guid: 50494a5006c83a84eb70c9847a39f455, type: 3}

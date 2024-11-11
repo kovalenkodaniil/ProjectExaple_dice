@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940a1e0db7ad4aca9af1e846dcfcf195, type: 3}
+  m_Name: Skill 1
+  m_EditorClassIdentifier: 
+  edgeIcon: {fileID: 21300000, guid: 3228a8a2913640945998bb2b28c897f1, type: 3}
+  edgeDescription: "\u0414\u0430\u0451\u0442 {0} \u0417\u0430\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u0438\u0439"
+  edgeType: 8
+  _effects:
+  - _effectType: 6
+    _value: 1

@@ -1,0 +1,2860 @@
+{
+  "localization": [
+    {
+      "key": "language",
+      "text": "Français"
+    },
+    {
+      "key": "loc_load_tip",
+      "text": "Téléchargement..."
+    },
+    {
+      "key": "loc_mmenu_button_continue",
+      "text": "Continuer"
+    },
+    {
+      "key": "loc_mmenu_button_newgame",
+      "text": "Nouveau jeu"
+    },
+    {
+      "key": "loc_mmenu_button_load",
+      "text": "Télécharger le jeu"
+    },
+    {
+      "key": "loc_mmenu_button_settings",
+      "text": "Réglages"
+    },
+    {
+      "key": "loc_mmenu_button_gallery",
+      "text": "Gallerie"
+    },
+    {
+      "key": "loc_mmenu_label",
+      "text": "Nouveau"
+    },
+    {
+      "key": "loc_mmenu_head_choose_game",
+      "text": "Choisissez le jeu"
+    },
+    {
+      "key": "loc_mmenu_head_chapter",
+      "text": "Chapitre"
+    },
+    {
+      "key": "loc_mmenu_loadscreen_button_load",
+      "text": "Télécharger"
+    },
+    {
+      "key": "loc_mmenu_head_startnewgame",
+      "text": "Commencez un nouveau jeu!"
+    },
+    {
+      "key": "loc_mmenu_body_emptyslot",
+      "text": "Slot vide"
+    },
+    {
+      "key": "loc_mmenu_button_play",
+      "text": "Jouer"
+    },
+    {
+      "key": "loc_mmenu_head_newgame",
+      "text": "Nouveau jeu"
+    },
+    {
+      "key": "loc_mmenu_body_newgame_tip",
+      "text": "Si vous commencez une nouvelle partie, la sauvegarde automatique précédente sera perdue.\nÊtes-vous sûr?"
+    },
+    {
+      "key": "loc_mmenu_head_newgame_name",
+      "text": "Ecrivez votre nom"
+    },
+    {
+      "key": "loc_mmenu_body_newgame_sure",
+      "text": "Êtes-vous sûr?"
+    },
+    {
+      "key": "loc_mmenu_button_yes",
+      "text": "Oui"
+    },
+    {
+      "key": "loc_mmenu_button_no",
+      "text": "Non"
+    },
+    {
+      "key": "loc_popup_settings_head",
+      "text": "Réglages"
+    },
+    {
+      "key": "loc_popup_settings_setting1",
+      "text": "Résolution d'écran"
+    },
+    {
+      "key": "loc_popup_settings_setting2",
+      "text": "Mode écran"
+    },
+    {
+      "key": "loc_popup_settings_resolution1",
+      "text": "Plein écran"
+    },
+    {
+      "key": "loc_popup_settings_resolution2",
+      "text": "Par la fenêtre"
+    },
+    {
+      "key": "loc_popup_settings_setting3",
+      "text": "Langue"
+    },
+    {
+      "key": "loc_popup_settings_lang1",
+      "text": "Русский"
+    },
+    {
+      "key": "loc_popup_settings_lang2",
+      "text": "English"
+    },
+    {
+      "key": "loc_popup_settings_lang3",
+      "text": "Français"
+    },
+    {
+      "key": "loc_popup_settings_lang4",
+      "text": "简体中文"
+    },
+    {
+      "key": "loc_popup_settings_lang5",
+      "text": "Español"
+    },
+    {
+      "key": "loc_popup_settings_setting4",
+      "text": "Musique"
+    },
+    {
+      "key": "loc_popup_settings_setting5",
+      "text": "Son"
+    },
+    {
+      "key": "loc_popup_settings_button",
+      "text": "Accepter"
+    },
+    {
+      "key": "loc_gallery_head",
+      "text": "Gallerie"
+    },
+    {
+      "key": "loc_gallery_button_scenes",
+      "text": "Sex scènes"
+    },
+    {
+      "key": "loc_gallery_button_cards",
+      "text": "Cartes"
+    },
+    {
+      "key": "loc_gallery_button_fights",
+      "text": "Batailles"
+    },
+    {
+      "key": "loc_map_cityname",
+      "text": "Saint York"
+    },
+    {
+      "key": "loc_map_location0",
+      "text": "Prologue"
+    },
+    {
+      "key": "loc_map_location1",
+      "text": "Ghetto"
+    },
+    {
+      "key": "loc_map_location2",
+      "text": "Entrepôt"
+    },
+    {
+      "key": "loc_map_location3",
+      "text": "Zone industrielle"
+    },
+    {
+      "key": "loc_map_location4",
+      "text": "Quartier des lanternes bleues"
+    },
+    {
+      "key": "loc_map_location5",
+      "text": "Base de l'ordre"
+    },
+    {
+      "key": "loc_map_location6",
+      "text": "Sanctuaire de l'ordre"
+    },
+    {
+      "key": "loc_map_location7",
+      "text": "Catacombes"
+    },
+    {
+      "key": "loc_map_location8",
+      "text": "Ville souterraine"
+    },
+    {
+      "key": "loc_map_location9",
+      "text": "Temple de la magie"
+    },
+    {
+      "key": "loc_popup_quest_head",
+      "text": "Missions"
+    },
+    {
+      "key": "loc_popup_quest_button",
+      "text": "Prendre la mission"
+    },
+    {
+      "key": "loc_heromenu_head_development",
+      "text": "Développement"
+    },
+    {
+      "key": "loc_heromenu_button_spell1",
+      "text": "Boule de feu"
+    },
+    {
+      "key": "loc_heromenu_button_spell2",
+      "text": "Abassourdissement"
+    },
+    {
+      "key": "loc_heromenu_button_spell3",
+      "text": "Colère"
+    },
+    {
+      "key": "loc_heromenu_button_spell4",
+      "text": "Bastion"
+    },
+    {
+      "key": "loc_heromenu_button_spell5",
+      "text": "Barrière"
+    },
+    {
+      "key": "loc_heromenu_button_spell6",
+      "text": "Explosion de magie"
+    },
+    {
+      "key": "loc_heromenu_button_spell7",
+      "text": "Habileté"
+    },
+    {
+      "key": "loc_heromenu_button_spell8",
+      "text": "Connection"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript1",
+      "text": "Le plus ancien des sorts classiques. Transforme la magie en feu pur. \nInflige 3 dégâts"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript2",
+      "text": "Un puissant effet mental sur la conscience de l'ennemi vous permet de le désorienter complètement pendant une courte période. \nAnnule les actions de l'adversaire dans ce tour."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript3",
+      "text": "En maîtrisant la magie noire, vous permet de verser du sang sur vos yeux, et sur la terre aux pieds de l'ennemi. \nAjoute + 1 dégâts à chaque dés de dégâts dans ce tour."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript4",
+      "text": "En traversant la peau, la magie bénéfique renforce toutes les actions protectrices du lanceur. \nAjoute + 1 bouclier à chaque dé avec un bouclier dans ce tour."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript5",
+      "text": "La vieille technique sans astuces inutiles - concentre mana autour du lanceur, créant une barrière protective. \nDonne 3 protections."
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript6",
+      "text": "La capacité ultime des mages les plus durs, sauvant périodiquement leur vie au dernier moment. \nDépense tout le mana et inflige 2 dégâts par unité"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript7",
+      "text": "Les plus subtiles cordes de mana renforcent l'esprit du magicien, augmentant ses réflexes. \nDonne au joueur 3 Fixations"
+    },
+    {
+      "key": "loc_heromenu_descript_spelldescript8",
+      "text": "Le sommet de la création des sorciers les plus vengeurs. Le Karma tant attendu dans le monde du mal non partagé. \nÀ la fin d'un tour, l'ennemi prend autant de dégâts que le joueur par tour."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell1",
+      "text": "Inflige 3 dégâts"
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell2",
+      "text": "Annule les actions de l'adversaire dans ce tour."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell3",
+      "text": "Ajoute + 1 dégâts à chaque dés de dégâts dans ce tour."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell4",
+      "text": "Ajoute + 1 bouclier à chaque dé avec un bouclier dans ce tour."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell5",
+      "text": "Donne 3 protections."
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell6",
+      "text": "Dépense tout le mana et inflige 2 dégâts par unité"
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell7",
+      "text": "Donne au joueur 3 Fixations"
+    },
+    {
+      "key": "loc_heromenu_tooltip_spell8",
+      "text": "À la fin d'un tour, l'ennemi prend autant de dégâts que le joueur par tour."
+    },
+    {
+      "key": "loc_heromenu_tip_cooldown",
+      "text": "Recul"
+    },
+    {
+      "key": "loc_heromenu_tip_mana",
+      "text": "Mana"
+    },
+    {
+      "key": "loc_heromenu_button_choose",
+      "text": "Choisir"
+    },
+    {
+      "key": "loc_heromenu_tip_yourspells",
+      "text": "Vos sorts"
+    },
+    {
+      "key": "loc_heromenu_tooltip_choosespell",
+      "text": "Choisissez un sort à remplacer"
+    },
+    {
+      "key": "loc_heromenu_tip_yourdices",
+      "text": "Vos dés"
+    },
+    {
+      "key": "loc_heromenu_tooltip_choosedés",
+      "text": "Sélectionnez le dés à remplacer"
+    },
+    {
+      "key": "loc_heromenu_button_skills",
+      "text": "Compétences"
+    },
+    {
+      "key": "loc_heromenu_button_dices",
+      "text": "Dés"
+    },
+    {
+      "key": "loc_heromenu_button_char",
+      "text": "Personnage"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1",
+      "text": "Dés Vanguard"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2",
+      "text": "Dés Gardien"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3",
+      "text": "Dés magique"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4",
+      "text": "Dés D'Harmonie"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5",
+      "text": "Dés Inquisiteur"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6",
+      "text": "Dés Garant"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7",
+      "text": "Dés obscur"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8",
+      "text": "Dés divin"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9",
+      "text": "Dés Du Forgeron"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10",
+      "text": "Dés De Miroir"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_1",
+      "text": "Громила"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_2",
+      "text": "Снайпер"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_1_1",
+      "text": "Громила II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_1_2",
+      "text": "Кровь"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_2_1",
+      "text": "Cнайпер II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename1_2_2",
+      "text": "Скаут"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_1",
+      "text": "Бастион"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_2",
+      "text": "Стена"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_1_1",
+      "text": "Бастион II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_1_2",
+      "text": "Убежище"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_2_1",
+      "text": "Стена II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename2_2_2",
+      "text": "Шип"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_1",
+      "text": "Светлая магия"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_2",
+      "text": "Темная магия"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_1_1",
+      "text": "Светлая магия II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_1_2",
+      "text": "Чистый"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_2_1",
+      "text": "Темная магия II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename3_2_2",
+      "text": "Мрак"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_1",
+      "text": "Милосердие"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_2",
+      "text": "Рвение"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_1_1",
+      "text": "Милосердие II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_1_2",
+      "text": "Cвятость"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_2_1",
+      "text": "Рвение II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename4_2_2",
+      "text": "Фанатик"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_1",
+      "text": "Крестоносец"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_2",
+      "text": "Дознаватель"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_1_1",
+      "text": "Крестоносец II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_1_2",
+      "text": "Ярость"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_2_1",
+      "text": "Дознаватель II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename5_2_2",
+      "text": "Пламя"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_1",
+      "text": "База"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_2",
+      "text": "Особенный"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_1_1",
+      "text": "База II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_1_2",
+      "text": "Основа"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_2_1",
+      "text": "Особенный II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename6_2_2",
+      "text": "Уникум"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_1",
+      "text": "Носферату"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_2",
+      "text": "Высший"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_1_1",
+      "text": "Носферату II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_1_2",
+      "text": "Кровожадность"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_2_1",
+      "text": "Высший II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename7_2_2",
+      "text": "Стрыга"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_1",
+      "text": "Исцеление"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_2",
+      "text": "Клирик"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_1_1",
+      "text": "Исцеление II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_1_2",
+      "text": "Медитация"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_2_1",
+      "text": "Клирик II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename8_2_2",
+      "text": "Молитва"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_1",
+      "text": "Молот"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_2",
+      "text": "Наковальня"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_1_1",
+      "text": "Молот II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_1_2",
+      "text": "Горн"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_2_1",
+      "text": "Наковальня II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename9_2_2",
+      "text": "Металл"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_1",
+      "text": "Мечта"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_2",
+      "text": "Ужас"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_1_1",
+      "text": "Мечта II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_1_2",
+      "text": "Желание"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_2_1",
+      "text": "Ужас II"
+    },
+    {
+      "key": "loc_heromenu_cubename_dicename10_2_2",
+      "text": "Порок"
+    },
+    {
+      "key": "loc_heromenu_tip_dice_level",
+      "text": "Niveau"
+    },
+    {
+      "key": "loc_heromenu_tip_dice_quantity",
+      "text": "Quantité"
+    },
+    {
+      "key": "loc_heromenu_tip_dice_faces",
+      "text": "Faces"
+    },
+    {
+      "key": "loc_heromenu_button_upgrade",
+      "text": "Améliorer"
+    },
+    {
+      "key": "loc_heromenu_button_maxlevel",
+      "text": "Niveau max."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description1",
+      "text": "La première arme de tous les combattants de ce monde. Dés principal pour l'attaque."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description2",
+      "text": "Le meilleur ami de tous les commerçants, pèlerins, et juste ceux qui veulent vivre plus longtemps. Dés principal pour la protection."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description3",
+      "text": "Si vous n'êtes pas étranger aux techniques magiques et que vous n'êtes pas dépourvu de capacités de sorcellerie, c'est un excellent choix pour vous. Le dés principal des amoureux de la magie."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description4",
+      "text": "Un outil équilibré pour maintenir la santé du corps et de l'esprit. Dés pour ceux qui aiment être en sécurité."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description5",
+      "text": "Peu de gens osent attaquer un combattant avec un tel gadget. Sévère, énergique, et convaincant. Dés pour une attaque souple."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description6",
+      "text": "Le meilleur compagnon de ceux qui n'aiment pas les surprises de leur côté.\nLe dés le plus fiable et le plus stable."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description7",
+      "text": "Peu de gens peuvent rencontrer un tel jouet, et peu de gens ont survécu à leur rencontre.\ndés pour une attaque agressive."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description8",
+      "text": "Un artefact rare des meilleurs paladins et combattants de la lumière, protégeant son propriétaire avec des pouvoirs divins.\nLe dés le plus protecteur du propriétaire."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description9",
+      "text": "Ce miracle n'a pas été inventé par des magiciens mais des artisans de leur métier qui veulent transférer leurs compétences sur le champ de bataille.\nLe dés est pour ceux qui aiment agir avec précision."
+    },
+    {
+      "key": "loc_heromenu_descript_dice_description10",
+      "text": "Maestro de réflexion, repoussant tout désir de vous infliger au moins quelques dégâts.\nKarma dés - dent pour dent, douleur pour douleur."
+    },
+    {
+      "key": "loc_heromenu_descript_face_description1",
+      "text": "Il n'y rien. Vide!"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description2",
+      "text": "Inflige {0} dégâts"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description3",
+      "text": "Inflige {0} dégâts et guérit {0} points de vie"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description4",
+      "text": "Inflige {0} dégâts à l'ennemi et {0} dégâts au maître"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description5",
+      "text": "Protège {0} et inflige {0} dégâts à l'ennemi"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description6",
+      "text": "Donne {0} protection"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description7",
+      "text": "Donne {0} mana"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description8",
+      "text": "Guérit {0} santé"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description9",
+      "text": "Donne {0} mana et guérit {0} santé"
+    },
+    {
+      "key": "loc_heromenu_descript_face_description10",
+      "text": "Donne {0} Fixations"
+    },
+    {
+      "key": "loc_heromenu_outlookandhealth_head",
+      "text": "Vision du monde et santé"
+    },
+    {
+      "key": "loc_heromenu_outlookandhealth_body",
+      "text": "Plus de force - plus de responsabilité"
+    },
+    {
+      "key": "loc_heromenu_head_outlook",
+      "text": "Vision du monde"
+    },
+    {
+      "key": "loc_heromenu_head_health",
+      "text": "Santé"
+    },
+    {
+      "key": "loc_heromenu_button_healthmax",
+      "text": "Maximum"
+    },
+    {
+      "key": "loc_heromenu_upgrade_head",
+      "text": "Amélioration"
+    },
+    {
+      "key": "loc_heromenu_upgrade_body",
+      "text": "Voulez-vous améliorer {diceName} du niveau {lvl} au niveau {lvlUp} derrière {cost} ?"
+    },
+    {
+      "key": "loc_core_tip_enemyaction",
+      "text": "Actions de l'ennemi"
+    },
+    {
+      "key": "loc_core_tip_player",
+      "text": "Moi"
+    },
+    {
+      "key": "loc_core_tip_undress",
+      "text": "Déshabiller"
+    },
+    {
+      "key": "loc_core_tooltip_undress",
+      "text": "Combinaison nécessaire pour déshabiller"
+    },
+    {
+      "key": "loc_core_tooltip_attack",
+      "text": "Attaque - inflige des dégâts"
+    },
+    {
+      "key": "loc_core_tooltip_defence",
+      "text": "Protection-superpose des boucliers"
+    },
+    {
+      "key": "loc_core_tooltip_heal",
+      "text": "Traitement-guérit la santé"
+    },
+    {
+      "key": "loc_core_tooltip_attackanddefence",
+      "text": "Attaque et Défense-inflige des dégâts et applique des boucliers"
+    },
+    {
+      "key": "loc_core_tooltip_strengthening",
+      "text": "Renforcement - inflige plus de dégâts pendant 2 coups"
+    },
+    {
+      "key": "loc_core_tooltip_shell",
+      "text": "Carapace-gagne plus de boucliers en 2 coups"
+    },
+    {
+      "key": "loc_core_tooltip_invulnerability",
+      "text": "Invulnérabilité - ne peut pas subir de dégâts au tour suivant"
+    },
+    {
+      "key": "loc_core_tooltip_protective",
+      "text": "Position défensive - chaque tour commence avec un bouclier temporaire"
+    },
+    {
+      "key": "loc_core_tooltip_trap",
+      "text": "Piège - bloque le relancement de certains dés au prochain tour"
+    },
+    {
+      "key": "loc_core_tooltip_magicshield",
+      "text": "Bouclier magique - ne prendra pas de dégâts s'il n'y a pas assez de faces de Mana sur les dés"
+    },
+    {
+      "key": "loc_core_tooltip_spikes",
+      "text": "Pointes - pour chaque dés du joueur avec des dégâts infligera des dégâts au joueur"
+    },
+    {
+      "key": "loc_core_tooltip_vampire",
+      "text": "Coup de vampire-prend la santé du joueur lui-même"
+    },
+    {
+      "key": "loc_core_tooltip_sap",
+      "text": "Abassourdissement - le tour suivant enlève la possibilité de fixer les dés et d'appliquer la magie"
+    },
+    {
+      "key": "loc_core_tooltip_stun",
+      "text": "L'ennemi est abassourdi - inactif dans ce tour"
+    },
+    {
+      "key": "loc_core_tooltip_description_strengthening",
+      "text": "Renforcement - inflige plus de dégâts"
+    },
+    {
+      "key": "loc_core_tooltip_description_shell",
+      "text": "Carapace-obtient plus de boucliers"
+    },
+    {
+      "key": "loc_core_defence",
+      "text": "Protection"
+    },
+    {
+      "key": "loc_core_tooltip_description_anger",
+      "text": "Colère - ajoute + 1 dégât à chaque dés de dégâts dans ce tour"
+    },
+    {
+      "key": "loc_core_tooltip_description_bastion",
+      "text": "Bastion-ajoute + 1 bouclier à chaque dés avec un bouclier dans ce tour"
+    },
+    {
+      "key": "loc_core_tooltip_description_Communication",
+      "text": "Communication - dans ce tour, l'ennemi prendra autant de dégâts que le joueur"
+    },
+    {
+      "key": "loc_core_tooltip_description_Trap",
+      "text": "Piège - relancement des certains dés est bloqué"
+    },
+    {
+      "key": "loc_core_tooltip_description_sap",
+      "text": "Abassourdissement - la possibilité de fixer les dés et d'appliquer la magie est bloquée"
+    },
+    {
+      "key": "loc_core_tooltip_description_fixations",
+      "text": "Nombre de fixations disponibles"
+    },
+    {
+      "key": "loc_core_head_pausePause",
+      "text": "Pause"
+    },
+    {
+      "key": "loc_core_button_menu",
+      "text": "Menu"
+    },
+    {
+      "key": "loc_core_button_backtomap",
+      "text": "Retour sur la carte"
+    },
+    {
+      "key": "loc_popup_reward_head_award",
+      "text": "Récompense"
+    },
+    {
+      "key": "loc_popup_reward_button_pickup",
+      "text": "Prendre"
+    },
+    {
+      "key": "loc_popup_reward_head_coins",
+      "text": "Monnaie"
+    },
+    {
+      "key": "loc_popup_reward_body_upgrade",
+      "text": "+1 amélioration"
+    },
+    {
+      "key": "loc_popup_reward_head_anydice",
+      "text": "N'importe quel dés"
+    },
+    {
+      "key": "loc_popup_reward_tip_body_nextfight",
+      "text": "Juste pour la bataille suivante"
+    },
+    {
+      "key": "loc_popup_reward_head_HPMana",
+      "text": "Santé & Mana"
+    },
+    {
+      "key": "loc_popup_reward_head_DiceCoins",
+      "text": "Dés & Monnaie"
+    },
+    {
+      "key": "loc_popup_reward_head_SpellCoins",
+      "text": "Incantation & Monnaie"
+    },
+    {
+      "key": "loc_popup_reward_head_fixation",
+      "text": "Fixation"
+    },
+    {
+      "key": "loc_popup_reward_head_fight",
+      "text": "Combat:"
+    },
+    {
+      "key": "loc_popup_reward_button_change",
+      "text": "Changer"
+    },
+    {
+      "key": "loc_popup_reward_button_fight",
+      "text": "Au combat!"
+    },
+    {
+      "key": "loc_scenes_button_vaginal",
+      "text": "Vaginal"
+    },
+    {
+      "key": "loc_scenes_button_blowjob",
+      "text": "Pipe"
+    },
+    {
+      "key": "loc_scenes_button_anal",
+      "text": "Anal"
+    },
+    {
+      "key": "loc_scenes_button_titsfuck",
+      "text": "Titsfuck"
+    },
+    {
+      "key": "loc_scenes_button_analandvaginal",
+      "text": "Anal + Vaginal"
+    },
+    {
+      "key": "loc_scenes_button_finish",
+      "text": "Fin"
+    },
+    {
+      "key": "loc_popup_defeat_head",
+      "text": "Défaite"
+    },
+    {
+      "key": "loc_popup_defeat_body_1",
+      "text": "Votre santé est à court! Mais les élus ne meurent pas..."
+    },
+    {
+      "key": "loc_popup_defeat_body_2",
+      "text": "Vous pouvez revenir à la préparation de la bataille, ou essayer à nouveau."
+    },
+    {
+      "key": "loc_popup_defeat_button_retry",
+      "text": "De nouveau"
+    },
+    {
+      "key": "Rebecca",
+      "text": "Rebecca"
+    },
+    {
+      "key": "Alicia",
+      "text": "Alicia"
+    },
+    {
+      "key": "Helena",
+      "text": "Hélène"
+    },
+    {
+      "key": "Hilda",
+      "text": "Hilda"
+    },
+    {
+      "key": "Diana",
+      "text": "Diana"
+    },
+    {
+      "key": "Etel",
+      "text": "Etel"
+    },
+    {
+      "key": "Juliana",
+      "text": "Juliana"
+    },
+    {
+      "key": "Jessica",
+      "text": "Jessica"
+    },
+    {
+      "key": "Lilith",
+      "text": "Lilith"
+    },
+    {
+      "key": "Eva",
+      "text": "Eva"
+    },
+    {
+      "key": "Bellona",
+      "text": "Bellona"
+    },
+    {
+      "key": "Ida",
+      "text": "Ida"
+    },
+    {
+      "key": "loc_enemy_name1",
+      "text": "Adepte"
+    },
+    {
+      "key": "loc_enemy_name2",
+      "text": "L'Adepte principal"
+    },
+    {
+      "key": "loc_enemy_name3",
+      "text": "Homoncule de combat"
+    },
+    {
+      "key": "loc_enemy_name4",
+      "text": "La sorcière asservie"
+    },
+    {
+      "key": "loc_enemy_name5",
+      "text": "Guardien"
+    },
+    {
+      "key": "loc_enemy_name6",
+      "text": "Fantôme"
+    },
+    {
+      "key": "loc_enemy_name7",
+      "text": "L'esprit des éléments"
+    },
+    {
+      "key": "loc_enemy_name8",
+      "text": "Déesse noire"
+    },
+    {
+      "key": "loc_enemy_name9",
+      "text": "Déesse de la lumière"
+    },
+    {
+      "key": "loc_dialogues_button_previous",
+      "text": "En arrière"
+    },
+    {
+      "key": "loc_dialogues_button_next",
+      "text": "En avant"
+    },
+    {
+      "key": "loc_demoend_header",
+      "text": "To be continued"
+    },
+    {
+      "key": "loc_demoend_body1",
+      "text": "Thank you for playing demo!"
+    },
+    {
+      "key": "loc_demoend_body2",
+      "text": "Add us to your wish list and don't miss the full version!"
+    },
+    {
+      "key": "loc_quest1_name",
+      "text": "Gremlin"
+    },
+    {
+      "key": "loc_quest1_short_descript",
+      "text": "Une entité ignoble..."
+    },
+    {
+      "key": "loc_quest1_descript",
+      "text": "Une entité ignoble poursuit constamment son homme de main le long de cette route. Vous pouvez lui prendre quelque chose de précieux."
+    },
+    {
+      "key": "loc_quest1_desc1",
+      "text": "Gremlin saute sur la route indiquée, se cachant des yeux des gens ordinaires. Derrière lui se trouve un sac d'essence magique, littéralement pulsant de l'énergie de l'intérieur. \n\nIl se déplace rapidement, presque au bord du possible."
+    },
+    {
+      "key": "loc_quest1_desc1_choice1",
+      "text": "Suivre furtivement."
+    },
+    {
+      "key": "loc_quest1_desc1_choice2",
+      "text": "Si vous tardez, il peut s'échapper. Accélérer"
+    },
+    {
+      "key": "loc_quest1_desc2",
+      "text": "Gremlin est rapide - mais vous êtes rapide aussi. Il vous a peut-être remarqué il y a quelques secondes, mais il ne peut pas se détacher. À la fin, il est bloqué. \n\nIl se tourne vers vous, siffle et relâche ses griffes...Il semble préparer quelque chose."
+    },
+    {
+      "key": "loc_quest1_desc2_choice1",
+      "text": "Essayer de l'attraper. Au moins vous avez réussi à le rattraper dans chase!"
+    },
+    {
+      "key": "loc_quest1_desc2_choice2",
+      "text": "Distrayez-le en jetant l'un des dés entre vous. Et attrapez-le."
+    },
+    {
+      "key": "loc_quest1_desc3",
+      "text": "Vous essayez de vous déplacer prudemment, en vous cachant de lui dans l'ombre des bâtiments, en essayant de vous perdre parmi les arbres d'un petit parc, mais il semble que vous vous soyez déjoué. Pourtant, il est trop rapide, et même s'il ne vous a pas remarqué, il a quand même disparu au loin."
+    },
+    {
+      "key": "loc_quest1_desc3_choice1",
+      "text": "Continuer le voyage."
+    },
+    {
+      "key": "loc_quest1_desc4",
+      "text": "Vous vous en prenez à lui, mais c'est tout ce qu'il attendait. À une courte distance, cette créature s'est encore avérée plus rapide et plus agile - en un instant, et il disparaît dans l'une des fenêtres. Il semble inutile de le poursuivre plus loin. \n\nCependant, il a laissé tomber quelque chose..."
+    },
+    {
+      "key": "loc_quest1_desc4_choice1",
+      "text": "Explorer la trouvaille"
+    },
+    {
+      "key": "loc_quest1_desc5",
+      "text": "Ses yeux s'écarquillent, il serre: \n\n\"Quoi-quoi?! Le réel Ma...\"\nEt à ce moment-là, vous l'attrapez. Vous l'attrapez pour le laisser partir, mais vous gardez son sac."
+    },
+    {
+      "key": "loc_quest1_desc5_choice1",
+      "text": "Explorer le butin"
+    },
+    {
+      "key": "loc_quest2_name",
+      "text": "Autel"
+    },
+    {
+      "key": "loc_quest2_short_descript",
+      "text": "Il y a un bâtiment abandonné..."
+    },
+    {
+      "key": "loc_quest2_descript",
+      "text": "Il y a un bâtiment abandonné avec une aura magique intéressante. Il faut voir s'il y a quelque chose d'intéressant là-bas."
+    },
+    {
+      "key": "loc_quest2_desc1",
+      "text": "Vous êtes au bon endroit. Elle semble simple et tout à fait ordinaire, mais à un certain moment, vous vous sentez... non, vous ne pouvez pas appeler ça de l'émotion ou de l'anticipation. \nVous ne le sentez même pas, mais vous savez qu'il y a quelque chose de magique à proximité. Quelque chose d'important. En étudiant le bâtiment, vous vous rendez compte qu'il semble changer de structure et que cela ne fonctionne tout simplement pas de suivre deux fois le même chemin. \n\nLes dés dans la poche sont sensiblement chauffés."
+    },
+    {
+      "key": "loc_quest2_desc1_choice1",
+      "text": "Presser les dés, expirer et essayer de trouver un chemin vers le centre de cet endroit."
+    },
+    {
+      "key": "loc_quest2_desc1_choice2",
+      "text": "Fermer les yeux et céder au flux. Cet endroit me mènera à mon but par lui-même."
+    },
+    {
+      "key": "loc_quest2_desc2",
+      "text": "Il semble que la décision était correcte. \nVous sortez vers un petit autel doré représentant une femme aux cornes soignées. Au centre de l'autel il y a un bol avec un liquide rouge. Il y a une odeur de métal dans l'air et la surface brillante du liquide semble parfois trembler. \n\nLorsque vous vous retournez, vous réalisez que vous pouvez partir. Mais revenir ici n'est pas un fait."
+    },
+    {
+      "key": "loc_quest2_desc2_choice1",
+      "text": "Boire dans le bol"
+    },
+    {
+      "key": "loc_quest2_desc2_choice2",
+      "text": "Un fourré douteux et un liquide douteux. Sortir."
+    },
+    {
+      "key": "loc_quest2_desc3",
+      "text": "À maintes reprises, vous vous retrouvez à l'extérieur du bâtiment, finissant par en perdre l'entrée. Cela devient comme une boîte en béton complètement grise sans entrée ni sortie...Et heureusement vous êtes dehors."
+    },
+    {
+      "key": "loc_quest2_desc3_choice1",
+      "text": "Se cacher avant que l'Ordre ne trouve l'anomalie"
+    },
+    {
+      "key": "loc_quest2_desc4",
+      "text": "Vous sentez à quel point vos veines sont remplies d'une nouvelle force inconnue auparavant. Il semble que le monde entier autour de vous soit devenu plus lumineux et plus clair. Le cœur s'est accéléré."
+    },
+    {
+      "key": "loc_quest2_desc4_choice1",
+      "text": "Sourire et ressentir ce pouvoir avec votre âme."
+    },
+    {
+      "key": "loc_quest3_name",
+      "text": "Graffitis"
+    },
+    {
+      "key": "loc_quest3_short_descript",
+      "text": "Dans cette zone..."
+    },
+    {
+      "key": "loc_quest3_descript",
+      "text": "Dans cette zone, quelqu'un a commencé à laisser des dessins magiques très étranges. Je pense que cela pourrait t'intéresser."
+    },
+    {
+      "key": "loc_quest3_desc1",
+      "text": "Parmi les ruelles sombres, vous trouvez un étrange graffiti.\n\nBeaucoup de personnages grotesquement dessinés dont les yeux ne sont même pas marqués. Quiconque a peint cela, mais il n'était certainement pas lui - même les lignes étaient inégales, périodiquement quelque chose de brun sanglant était utilisé à la place de la peinture.\n\nEt le dessin sent aussi la magie. Je veux juste le toucher. \nMais n'est-ce pas un autre piège?"
+    },
+    {
+      "key": "loc_quest3_desc1_choice1",
+      "text": "Toucher"
+    },
+    {
+      "key": "loc_quest3_desc1_choice2",
+      "text": "Reculer et étudier de plus près"
+    },
+    {
+      "key": "loc_quest3_desc2",
+      "text": "Vous touchez le graffiti et ses figures disparaissent littéralement de l'image, se déplaçant dans l'espace réel. Ils tournent autour de vous, formant un cercle. À chacun de leurs mouvements, vous pouvez entendre votre cœur battre de plus en plus fort dans vos oreilles. Et un murmure.\n\n\"L'élu...\"\n\n\"L'élu!\"\n\n\"L'ÉLU\""
+    },
+    {
+      "key": "loc_quest3_desc2_choice1",
+      "text": "Crier"
+    },
+    {
+      "key": "loc_quest3_desc2_choice2",
+      "text": "Essayer de vous échapper"
+    },
+    {
+      "key": "loc_quest3_desc3",
+      "text": "Vous reculez de quelques pas, mais les personnages se détachent littéralement de l'image et vous suivent.\n\nElles se rapprochent de plus en plus."
+    },
+    {
+      "key": "loc_quest3_desc3_choice1",
+      "text": "Lancez les dés et préparez-vous au combat"
+    },
+    {
+      "key": "loc_quest3_desc4",
+      "text": "Mais vous clignez des yeux et ils disparaissent. De même qu'il n'y a pas de dessin sur le mur."
+    },
+    {
+      "key": "loc_quest3_desc4_choice1",
+      "text": "Serrer les poings et avancer."
+    },
+    {
+      "key": "loc_quest3_desc5",
+      "text": "Un éclair magique se propage immédiatement des dés dans toutes les directions. Les gens peints tremblaient...\n\nEt ils ont dispersé de l'énergie magique directement sur le sol."
+    },
+    {
+      "key": "loc_quest3_desc5_choice1",
+      "text": "Rassembler de l'énergie."
+    },
+    {
+      "key": "loc_quest4_name",
+      "text": "Volonté"
+    },
+    {
+      "key": "loc_quest4_short_descript",
+      "text": "N'oublie pas de t'entraîner..."
+    },
+    {
+      "key": "loc_quest4_descript",
+      "text": "N'oublie pas de t'entraîner avec des dés. Sans entraînement de la volonté, ce sera très difficile pour toi en chemin."
+    },
+    {
+      "key": "loc_quest4_desc1",
+      "text": "Oui, vous avez lu quelque part que la magie est aussi une volonté. Mais ensuite, tout semblait fictif.\n\nPeut-être devriez-vous suivre les conseils et la pratique de Rebecca pendant ce court répit?\n\nIl y a trop de dangers à venir pour ne pas y être préparé."
+    },
+    {
+      "key": "loc_quest4_desc1_choice1",
+      "text": "J'y vais"
+    },
+    {
+      "key": "loc_quest4_desc1_choice2",
+      "text": "Je reviendrai plus tard"
+    },
+    {
+      "key": "loc_quest4_desc2",
+      "text": "Vous fermez les yeux et vous vous concentrez.\n\nUn moment, un autre, et puis il n'y avait que le silence. Et il n'y a personne autour, il n'y a que vous et votre volonté. Vous pouvez sentir les dés chauffer. Et même pour un bref instant, vous avez l'impression de ne faire qu'un avec eux.\n\nMais que voulez-vous devenir?"
+    },
+    {
+      "key": "loc_quest4_desc2_choice1",
+      "text": "Je veux être fort"
+    },
+    {
+      "key": "loc_quest4_desc2_choice2",
+      "text": "Le courage est mon credo."
+    },
+    {
+      "key": "loc_quest4_desc3",
+      "text": "Vous pouvez sentir les dés céder à vos pensées. \n\nVotre corps est rempli de leur énergie et devient plus fort.\n\nChaque respiration est plus facile."
+    },
+    {
+      "key": "loc_quest4_desc3_choice1",
+      "text": "J'écraserai mes ennemis."
+    },
+    {
+      "key": "loc_quest4_desc4",
+      "text": "Vous pouvez sentir les dés céder à vos pensées. \n\nVotre esprit est rempli de leur énergie et devient plus fort.\n\nVous les serrez plus fort dans votre main."
+    },
+    {
+      "key": "loc_quest4_desc4_choice1",
+      "text": "Je n'abandonnerai pas."
+    },
+    {
+      "key": "loc_quest5_name",
+      "text": "Oiseau"
+    },
+    {
+      "key": "loc_quest5_short_descript",
+      "text": "Tu vas rire, mais..."
+    },
+    {
+      "key": "loc_quest5_descript",
+      "text": "Tu vas rire, mais...Les oiseaux à la périphérie de la zone industrielle se comportent étrangement. C'est comme si quelqu'un les contrôlait..."
+    },
+    {
+      "key": "loc_quest5_desc1",
+      "text": "En longeant la zone industrielle signalée par Helena, vous remarquez qu'un oiseau est assis sur l'une des clôtures en pierre qui entourent les vieilles demeures. \n\nCe n'est pas un simple oiseau, car un simple oiseau n'a pas de bague précieuse à la patte."
+    },
+    {
+      "key": "loc_quest5_desc1_choice1",
+      "text": "Essayer d'appeler l'oiseau"
+    },
+    {
+      "key": "loc_quest5_desc1_choice2",
+      "text": "Essayer d'attraper l'oiseau"
+    },
+    {
+      "key": "loc_quest5_desc2",
+      "text": "Vous appelez doucement l'oiseau et, à votre grande surprise, il s'envole vers vous et s'assoit même sur votre main. \n\nC'est un grand corbeau noir et ses yeux, comme son regard, sont très semblables à ceux des humains. \nLorsqu'il s'envole, l'anneau semble glisser de lui-même et se retrouver dans vos mains."
+    },
+    {
+      "key": "loc_quest5_desc2_choice1",
+      "text": "Prendre la bague"
+    },
+    {
+      "key": "loc_quest5_desc3",
+      "text": "Vous essayez d'attraper l'oiseau, mais vos tentatives sont vaines - il est trop rapide.\n\nTout ce que vous pouvez faire, c'est suivre des yeux sa silhouette qui s'éloigne."
+    },
+    {
+      "key": "loc_quest5_desc3_choice1",
+      "text": "Respirer et partir"
+    },
+    {
+      "key": "loc_quest6_name",
+      "text": "Adepte timide"
+    },
+    {
+      "key": "loc_quest6_short_descript",
+      "text": "Il y a une cachette oubliée ici..."
+    },
+    {
+      "key": "loc_quest6_descript",
+      "text": "Il y a une cachette oubliée ici. Est-ce que tu es intéressé par les coordonnées?"
+    },
+    {
+      "key": "loc_quest6_desc1",
+      "text": "Il pleut à verse.\nVous suivez les coordonnées laissées à la recherche d'une cachette et parvenez à vous dissimuler à temps lorsqu'un adepte de l'Ordre passe à côté de vous. Un jeune homme aux yeux louches et aux cheveux ébouriffés se cache dans une ruelle de la ville.\n\nIl est visiblement nerveux et ne cherche manifestement pas la bagarre."
+    },
+    {
+      "key": "loc_quest6_desc1_choice1",
+      "text": "Étourdir-le. Il est là pour une raison et cache peut-être quelque chose."
+    },
+    {
+      "key": "loc_quest6_desc1_choice2",
+      "text": "Essayer de le suivre secrètement."
+    },
+    {
+      "key": "loc_quest6_desc2",
+      "text": "Vous l'étourdissez et vous le cherchez rapidement. Il y avait plusieurs cristaux contenant de l'essence magique dans ses poches... Mais vous ne pouviez pas attendre et l'interroger - bientôt la patrouille de l'Ordre est arrivée et vous avez dû quitter la zone."
+    },
+    {
+      "key": "loc_quest6_desc2_choice1",
+      "text": "Briser les cristaux et obtenir l'essence"
+    },
+    {
+      "key": "loc_quest6_desc3",
+      "text": "L'homme se cache dans une ruelle et se retrouve dans une impasse. \n\nLes briques humides et éraflées sont richement décorées de nombreux graffitis. Il ferme les yeux et commence à les tapoter à un rythme étrange."
+    },
+    {
+      "key": "loc_quest6_desc3_choice1",
+      "text": "Le moment est venu. La cachette est définitivement là!"
+    },
+    {
+      "key": "loc_quest6_desc3_choice2",
+      "text": "Attendre plus de temps"
+    },
+    {
+      "key": "loc_quest6_desc4",
+      "text": "Vous l'étourdissez et vous le cherchez rapidement. Il y avait plusieurs cristaux contenant de l'essence magique dans ses poches... Mais vous ne pouviez pas attendre et l'interroger, tout comme vous ne pouviez pas ouvrir la cache sans son aide - bientôt la patrouille de l'Ordre est arrivée et il n'y avait tout simplement pas assez de temps."
+    },
+    {
+      "key": "loc_quest6_desc4_choice1",
+      "text": "Casser les cristaux et récupérer l'essence. Mieux que rien."
+    },
+    {
+      "key": "loc_quest6_desc5",
+      "text": "Vous décidez d'attendre votre heure, et pour cause. Après deux minutes de tapotement, le mur tremble et s'écarte, révélant une cachette. \n\nVous utilisez la magie et un flux d'énergie frappe l'inquisiteur contre le mur, l'assommant. Le contenu de la cache vous appartient maintenant !"
+    },
+    {
+      "key": "loc_quest6_desc5_choice1",
+      "text": "Explorer le butin"
+    },
+    {
+      "key": "scene_1_slide_1",
+      "text": "Après avoir hérité de la vieille maison de grand-père, je n'avais aucune idée de ce qui m'attendait. Je pensais que je devais démonter les choses, puis mettre la maison en vente."
+    },
+    {
+      "key": "scene_1_slide_2",
+      "text": "Pour la première fois depuis la mort de mon grand-père, je suis entré dans une maison où j'ai passé tant de temps comme un enfant…"
+    },
+    {
+      "key": "scene_1_slide_4",
+      "text": "Je me suis promené dans les locaux et j'ai pris l'esprit - il y avait peu de choses. Mais ensuite, je me suis souvenu que tout ce grand-père pensait superflu et temporairement inutile était mis dans le grenier."
+    },
+    {
+      "key": "scene_1_slide_5",
+      "text": "Je suis monté dans le grenier par un vieux escalier d'appoint et j'ai éternué plusieurs fois de suite. Tout était empilé dans des boîtes et des sacs, et sur une vieille table recouverte de journaux, il y avait de petits objets."
+    },
+    {
+      "key": "scene_1_slide_6",
+      "text": "Je me suis rapproché et j'ai vu que c'étaient des dés à jouer. Ils avaient l'air inhabituel et n'étaient pas couverts de poussière."
+    },
+    {
+      "key": "scene_1_slide_7",
+      "text": "Je les ai pris dans ma main... et quelque chose d'étrange s'est passé. Les cubes sont éclairés de l'intérieur et sont devenus très chauds."
+    },
+    {
+      "key": "scene_1_slide_8",
+      "text": "Je les ai lâchés par réflexe sur les journaux et ils ont immédiatement pris feu. Que faire?!"
+    },
+    {
+      "key": "scene_1_slide_10",
+      "text": "Un clic fort retentit, une fille est apparue de nulle part et a éteint le feu en faisant quelques passes avec ses mains."
+    },
+    {
+      "key": "scene_1_slide_11",
+      "text": "Bonjour, {Name}. Je m'appelle Rebecca."
+    },
+    {
+      "key": "scene_1_slide_12",
+      "text": "D'où viens-tu?!"
+    },
+    {
+      "key": "scene_1_slide_13",
+      "text": "Pas d'importance. Ce qui compte, c'est que je suis une sorcière."
+    },
+    {
+      "key": "scene_1_slide_14",
+      "text": "Et tu gères le monde."
+    },
+    {
+      "key": "scene_1_slide_15",
+      "text": "Tu ris pour rien. Tu es un magicien aussi, au fait."
+    },
+    {
+      "key": "scene_1_slide_16",
+      "text": "Mais je ne le suis pas..."
+    },
+    {
+      "key": "scene_1_slide_17",
+      "text": "La magie masculine n'existe pas depuis longtemps. Mais il y a une prophétie que l'homme-magicien nouvellement apparu doit la sauver."
+    },
+    {
+      "key": "scene_1_slide_19",
+      "text": "Je ne vais pas faire ça. C'est fou."
+    },
+    {
+      "key": "scene_1_slide_20",
+      "text": "Tu n'as nulle part où aller parce que c'est une prophétie..."
+    },
+    {
+      "key": "scene_1_slide_21",
+      "text": "Il dit que tôt ou tard, il y aura le premier homme depuis de nombreuses années."
+    },
+    {
+      "key": "scene_1_slide_22",
+      "text": "Je ne peux pas être un magicien. Ce...c'est comme dire que je suis une pieuvre."
+    },
+    {
+      "key": "scene_1_slide_23",
+      "text": "Baisse la tête. Je ne peux plus rien conseiller."
+    },
+    {
+      "key": "scene_1_slide_24",
+      "text": "Et si je ne veux pas la suivre? Si je ne le fais pas?"
+    },
+    {
+      "key": "scene_1_slide_25",
+      "text": "Tu sera chassé par l'Ordre, et les magiciennes peuvent te considérer comme un ennemi."
+    },
+    {
+      "key": "scene_1_slide_26",
+      "text": "Pourquoi devrais-je être chassé? Quel genre d'Ordre est-ce?"
+    },
+    {
+      "key": "scene_1_slide_27",
+      "text": "L'Ordre veut éradiquer la magie comme phénomène."
+    },
+    {
+      "key": "scene_1_slide_28",
+      "text": "Puisque tu es maintenant un mage, ils commenceront à te chasser. Une fois que tu as pris les dés dans tes mains, un poteau de lumière est apparu au-dessus de la maison."
+    },
+    {
+      "key": "scene_1_slide_29",
+      "text": "Maintenant, tu seras à risque aussi."
+    },
+    {
+      "key": "scene_1_slide_30",
+      "text": "Mais la prophétie doit être accomplie à tout prix. Je vais t'apprendre les bases."
+    },
+    {
+      "key": "scene_1_slide_31",
+      "text": "Maintenant?"
+    },
+    {
+      "key": "scene_1_slide_32",
+      "text": "Oui."
+    },
+    {
+      "key": "scene_1_slide_33",
+      "text": "Pourquoi je fais ça?"
+    },
+    {
+      "key": "scene_1_slide_34",
+      "text": "Tout le monde se pose la question \"pour quoi\", mais personne n'a jamais reçu de réponse. On y va."
+    },
+    {
+      "key": "scene_1_slide_35",
+      "text": "Je me suis levé le matin, et au déjeuner, il s'est avéré que j'étais l'élu..."
+    },
+    {
+      "key": "scene_1_slide_36",
+      "text": "Arrête de pleurnicher. Au fait, j'ai failli oublier!"
+    },
+    {
+      "key": "scene_1_slide_37",
+      "text": "Qu'est-ce que je dois faire?"
+    },
+    {
+      "key": "scene_1_slide_38",
+      "text": "Sortir quelques personnes des griffes de l'Ordre. Tu es le seul à pouvoir le faire."
+    },
+    {
+      "key": "scene_1_slide_39",
+      "text": "Peut-être se battre avec certains Adeptes."
+    },
+    {
+      "key": "scene_1_slide_40",
+      "text": "Je me sentais faible."
+    },
+    {
+      "key": "scene_1_slide_41",
+      "text": "Comment je vais faire ça?"
+    },
+    {
+      "key": "scene_1_slide_42",
+      "text": "Tu dois entrer dans la base fortifiée de l'Ordre, qui est située dans la zone industrielle."
+    },
+    {
+      "key": "scene_1_slide_43",
+      "text": "Et beaucoup d'autres choses..."
+    },
+    {
+      "key": "scene_1_slide_44",
+      "text": "Ne perdons pas de temps."
+    },
+    {
+      "key": "scene_1_slide_45",
+      "text": "On va faire un essai. Concentre-toi."
+    },
+    {
+      "key": "scene_2_slide_1",
+      "text": ""
+    },
+    {
+      "key": "scene_2_slide_2",
+      "text": ""
+    },
+    {
+      "key": "scene_2_slide_3",
+      "text": ""
+    },
+    {
+      "key": "scene_2_slide_4",
+      "text": "Pas mal. Reprenons nos forces."
+    },
+    {
+      "key": "scene_2_choose_1_variant_1",
+      "text": "Ça ne fait pas mal?"
+    },
+    {
+      "key": "scene_2_choose_1_variant_2",
+      "text": "Une tournure intéressante."
+    },
+    {
+      "key": "scene_slide_4_variant_1",
+      "text": "Tu vas adorer."
+    },
+    {
+      "key": "scene_slide_4_variant_2",
+      "text": "Concentre-toi et ne te laisse pas te distraire."
+    },
+    {
+      "key": "scene_2_slide_5",
+      "text": "Il est temps de t'apprendre les sorts."
+    },
+    {
+      "key": "scene_2_slide_6",
+      "text": "Je serai heureux de continuer."
+    },
+    {
+      "key": "scene_3_slide_1",
+      "text": "Tu n'es plus si désespéré. Je ne m'attendais pas, je pensais que ce serait pire."
+    },
+    {
+      "key": "scene_3_slide_2",
+      "text": "Tous tes vêtements ont volé pendant le combat. Je ne m'attendais pas à ça non plus."
+    },
+    {
+      "key": "scene_3_slide_3",
+      "text": "Tu aimes ce que tu vois?"
+    },
+    {
+      "key": "scene_3_slide_4",
+      "text": "Bien sûr."
+    },
+    {
+      "key": "scene_3_slide_5",
+      "text": "Alors je terminerai le briefing et on se détendra un peu."
+    },
+    {
+      "key": "scene_3_slide_6",
+      "text": "Tu dois parler à mon amie Alicia. Elle va te mettre au courant."
+    },
+    {
+      "key": "scene_3_choose_1_variant_1",
+      "text": "Comment puis-je la trouver?"
+    },
+    {
+      "key": "scene_3_choose_1_variant_2",
+      "text": "Je peux faire confiance à quelqu'un d'autre que toi?"
+    },
+    {
+      "key": "scene_3_slide_6_variant_1",
+      "text": "Plus tard."
+    },
+    {
+      "key": "scene_3_slide_6_variant_2",
+      "text": "Oui, absolument. Elle ne te livrera jamais à l'Ordre."
+    },
+    {
+      "key": "scene_3_slide_7",
+      "text": "Je vais tout expliquer et te montrer, ne t'inquiéte pas."
+    },
+    {
+      "key": "scene_3_slide_8",
+      "text": "Maintenant, tu peux reprendre ton esprit."
+    },
+    {
+      "key": "scene_3_slide_9",
+      "text": "Tu as une copine?"
+    },
+    {
+      "key": "scene_3_slide_10",
+      "text": "Non. Pourquoi tu me demandes ça?"
+    },
+    {
+      "key": "scene_3_slide_11",
+      "text": "Je pensais que tu étais super..."
+    },
+    {
+      "key": "scene_3_slide_12",
+      "text": "C'est vrai? Pourquoi ?"
+    },
+    {
+      "key": "scene_3_slide_13",
+      "text": "Maintenant tu es un magicien. Ça change tout."
+    },
+    {
+      "key": "scene_3_slide_14",
+      "text": "Ça te rend unique et unique."
+    },
+    {
+      "key": "scene_3_slide_15",
+      "text": "Je me demande quel est le premier homme mage au lit?"
+    },
+    {
+      "key": "scene_3_slide_16",
+      "text": "Tu veux le savoir maintenant?"
+    },
+    {
+      "key": "scene_3_slide_17",
+      "text": "Oui. Et tu pourras découvrir ce que c'est que d'être au lit avec une sorcière."
+    },
+    {
+      "key": "scene_3_slide_18",
+      "text": "Intrigué."
+    },
+    {
+      "key": "scene_3_slide_19",
+      "text": "Alors déshabille-toi."
+    },
+    {
+      "key": "scene_4_slide_1",
+      "text": "J'ai rencontré Alicia à l'endroit prévu."
+    },
+    {
+      "key": "scene_4_slide_2",
+      "text": "On y va. Je vais te parler de la ville."
+    },
+    {
+      "key": "scene_4_slide_3",
+      "text": "Je ne sais pas pourquoi Rebecca a besoin de toi. Je n'ai pas vraiment besoin de toi."
+    },
+    {
+      "key": "scene_4_slide_4",
+      "text": "Et surtout tu n'est pas à mon goût du tout."
+    },
+    {
+      "key": "scene_4_choose_1_variant_1",
+      "text": "Je ne suis pas content de te rencontrer non plus."
+    },
+    {
+      "key": "scene_4_choose_1_variant_2",
+      "text": "Peut-être que je peux faire une  impression plus belle."
+    },
+    {
+      "key": "scene_4_slide_5",
+      "text": "Je ne suis pas sûre que tu maîtrises suffisamment la magie pour accomplir la prophétie."
+    },
+    {
+      "key": "scene_4_choose_2_variant_1",
+      "text": "Je comprends. Vérifie-moi."
+    },
+    {
+      "key": "scene_4_choose_2_variant_2",
+      "text": "Tu es si fragile...Je vais t'écraser sur le mur sans aucune magie."
+    },
+    {
+      "key": "scene_4_slide_5_variant_1",
+      "text": "Je dois le faire."
+    },
+    {
+      "key": "scene_4_slide_5_variant_2",
+      "text": "On verra ça."
+    },
+    {
+      "key": "scene_4_slide_6",
+      "text": "Commençons par l'orientation dans la ville."
+    },
+    {
+      "key": "scene_4_slide_7",
+      "text": "La ville a deux parties: l'ancienne et la nouvelle."
+    },
+    {
+      "key": "scene_4_slide_8",
+      "text": "C'est toi qui le sais. Mais sais tu que dans la vieille partie se trouve le siège de l'Ordre?"
+    },
+    {
+      "key": "scene_4_slide_9",
+      "text": "Maintenant je le sais."
+    },
+    {
+      "key": "scene_4_slide_10",
+      "text": "Il y a des agents de terrain, un secrétariat et des bureaux d'appui."
+    },
+    {
+      "key": "scene_4_slide_11",
+      "text": "Il y a des Adeptes partout."
+    },
+    {
+      "key": "scene_4_slide_12",
+      "text": "Dans la nouvelle, principalement il y a des immeubles d'habitation. Toute les autorités sont dans la vieille partie."
+    },
+    {
+      "key": "scene_4_slide_13",
+      "text": "L'Ordre est partout. Ils ont à la fois des officiers en uniforme et des personnes déguisées en civils."
+    },
+    {
+      "key": "scene_4_slide_14",
+      "text": "Ils ont des postes d'observation et des patrouilles."
+    },
+    {
+      "key": "scene_4_slide_15",
+      "text": "Les personnes spécialement formées ne maîtrisent pas la magie elles-mêmes, mais ressentent parfaitement sa présence."
+    },
+    {
+      "key": "scene_4_slide_16",
+      "text": "Ils peuvent être n'importe où."
+    },
+    {
+      "key": "scene_4_slide_17",
+      "text": "Il faut toujours être vigilant. Bien que vous les hommes, c'est plus facile."
+    },
+    {
+      "key": "scene_4_slide_18",
+      "text": "Il y a un homme là-bas qui nous regarde de près. C'est peut-être un agent de l'Ordre?"
+    },
+    {
+      "key": "scene_4_slide_19",
+      "text": "On dirait que c'est lui."
+    },
+    {
+      "key": "scene_4_slide_20",
+      "text": "Il faut partir."
+    },
+    {
+      "key": "scene_4_slide_21",
+      "text": "Il nous suit... Oh non!"
+    },
+    {
+      "key": "scene_4_slide_22",
+      "text": "Des gens comme lui proposent de passer avec eux, puis la sorcière disparaît."
+    },
+    {
+      "key": "scene_4_slide_23",
+      "text": "Je vais l'arrêter."
+    },
+    {
+      "key": "scene_4_choose_3_variant_1",
+      "text": "J'espère qu'il ne souffrira pas beaucoup, sinon ma conscience me rongera."
+    },
+    {
+      "key": "scene_4_choose_3_variant_2",
+      "text": "Je vais le déchirer!"
+    },
+    {
+      "key": "scene_5_slide_1",
+      "text": "Je te croyais faible."
+    },
+    {
+      "key": "scene_5_slide_2",
+      "text": "En vain. Tu n'as pas eu peur?"
+    },
+    {
+      "key": "scene_5_slide_3",
+      "text": "J'ai eu peur. Je pensais que c'était fini."
+    },
+    {
+      "key": "scene_5_slide_4",
+      "text": "Alors, où en étions-nous?"
+    },
+    {
+      "key": "scene_5_slide_5",
+      "text": "Nous nous sommes arrêtés au point l'Ordre était dangereux, mais tu l'as déjà compris."
+    },
+    {
+      "key": "scene_5_slide_6",
+      "text": "Selon Rebecca, ton but ultime est de restaurer la magie masculine. Pour ce faire, tu as besoin de trouver des Démiurges."
+    },
+    {
+      "key": "scene_5_slide_7",
+      "text": "Comment puis-je savoir où ils sont?"
+    },
+    {
+      "key": "scene_5_slide_8",
+      "text": "C'est plus compliqué. Tu devras le découvrir avec d'autres magiciennes."
+    },
+    {
+      "key": "scene_5_slide_9",
+      "text": "Tu dis qu'il y a un piège."
+    },
+    {
+      "key": "scene_5_slide_10",
+      "text": "Ils sont dans les cachots de l'Ordre."
+    },
+    {
+      "key": "scene_5_slide_11",
+      "text": "Si tu les libères, ils partageront des informations avec toi."
+    },
+    {
+      "key": "scene_5_slide_12",
+      "text": "Je vais marquer sur la carte un refuge où vous pouvez attendre la poursuite."
+    },
+    {
+      "key": "scene_5_slide_13",
+      "text": "Oh... Disons que je vais à la base. Et après?"
+    },
+    {
+      "key": "scene_5_choose_1_variant_1",
+      "text": "Juste libérer les filles?"
+    },
+    {
+      "key": "scene_5_choose_1_variant_2",
+      "text": "Ou en même temps tuer des Adeptes?"
+    },
+    {
+      "key": "scene_5_slide_14",
+      "text": "Tu es un héros. Les héros peuvent tout. Sérieusement, il suffit de libérer les magiciennes."
+    },
+    {
+      "key": "scene_5_slide_15",
+      "text": "Je suis un héros en herbe, j'ai besoin d'informations et de détails sur ce à quoi s'attendre à la base."
+    },
+    {
+      "key": "scene_5_slide_16",
+      "text": "Le premier facteur qui facilitera la tâche est la lenteur de la sécurité."
+    },
+    {
+      "key": "scene_5_slide_17",
+      "text": "Dans un tel endroit, il ne peut pas y avoir de gardes lents."
+    },
+    {
+      "key": "scene_5_slide_18",
+      "text": "Ils sont très forts, mais se déplacent lentement parce qu'ils sont entravés par l'équipement."
+    },
+    {
+      "key": "scene_5_slide_19",
+      "text": "Et le deuxième facteur?"
+    },
+    {
+      "key": "scene_5_slide_20",
+      "text": "Il y a un moyen secret. Mais pour ça, tu me dois un baiser."
+    },
+    {
+      "key": "scene_5_slide_21",
+      "text": "C'est tout? Je pensais que je devais plus."
+    },
+    {
+      "key": "scene_5_slide_22",
+      "text": "On ne va pas faire ça au centre-ville?"
+    },
+    {
+      "key": "scene_5_slide_23",
+      "text": "Je suis prêt à te le faire n'importe où."
+    },
+    {
+      "key": "scene_5_slide_24",
+      "text": "Je crois voir un autre Adepte. J'ai peur..."
+    },
+    {
+      "key": "scene_5_slide_25",
+      "text": "Il ne comprend pas lequel d'entre nous ressent la magie, mais il veut le savoir."
+    },
+    {
+      "key": "scene_5_slide_26",
+      "text": "Il faut se cacher!"
+    },
+    {
+      "key": "scene_5_slide_27",
+      "text": "On n'aura pas le temps. Il arrive."
+    },
+    {
+      "key": "scene_5_slide_28",
+      "text": "Cache - toi, je m'occupe de lui."
+    },
+    {
+      "key": "scene_5_slide_29",
+      "text": "Fais attention! Ils sont prêts à tout!"
+    },
+    {
+      "key": "scene_5_slide_30",
+      "text": "Moi aussi!"
+    },
+    {
+      "key": "scene_5_slide_31",
+      "text": "Il n'y avait nulle part où se retirer."
+    },
+    {
+      "key": "scene_6_slide_1",
+      "text": "Alicia! Où es-tu ?"
+    },
+    {
+      "key": "scene_6_slide_2",
+      "text": "Je me cachais derrière ces caisses et je m'inquiétais pour toi."
+    },
+    {
+      "key": "scene_6_slide_3",
+      "text": "Merci, mon héros."
+    },
+    {
+      "key": "scene_6_slide_4",
+      "text": "J'ai été très heureux. Peut-être que ce n'est pas si mal d'être élu?"
+    },
+    {
+      "key": "scene_6_slide_5",
+      "text": "Garde ton portefeuille."
+    },
+    {
+      "key": "scene_6_slide_6",
+      "text": "C'est quoi cette nouvelle? Tu m'as volé?"
+    },
+    {
+      "key": "scene_6_slide_7",
+      "text": "Un indice que tu ne dois faire confiance à personne."
+    },
+    {
+      "key": "scene_6_slide_8",
+      "text": "Et toi?"
+    },
+    {
+      "key": "scene_6_slide_9",
+      "text": "Surtout pour moi. Bon, revenons à la question de la base de l'Ordre."
+    },
+    {
+      "key": "scene_6_slide_10",
+      "text": "Il y a des patrouilles là-bas et leur horaire est serré. Je te le donnerai, et tu pourras entrer dans le changement."
+    },
+    {
+      "key": "scene_6_slide_11",
+      "text": "Alicia ajoutait de nouveaux aspects, et ma tête tournait autour d'une abondance d'informations."
+    },
+    {
+      "key": "scene_6_slide_12",
+      "text": "Changements, niches dans les murs, angles morts..."
+    },
+    {
+      "key": "scene_6_slide_13",
+      "text": "Attends, et si je me fais prendre?"
+    },
+    {
+      "key": "scene_6_slide_14",
+      "text": "C'est hautement indésirable. Les prévisions sont tristes."
+    },
+    {
+      "key": "scene_6_slide_15",
+      "text": "Si je dois accomplir la prophétie, je ne peux pas mourir."
+    },
+    {
+      "key": "scene_6_slide_16",
+      "text": "La vie présente des surprises différentes."
+    },
+    {
+      "key": "scene_6_slide_17",
+      "text": "Tu dois trouver une fille qui te donnera plus d'informations."
+    },
+    {
+      "key": "scene_6_slide_18",
+      "text": "Elle s'appelle Hélène. Elle...Il est facile de croire les gens. Elle a été capturée."
+    },
+    {
+      "key": "scene_6_slide_19",
+      "text": "Une fois, je l'ai laissé sans surveillance. Nous devons la sauver."
+    },
+    {
+      "key": "scene_6_slide_20",
+      "text": "Concentre-toi sur ça, pas sur l'excitation."
+    },
+    {
+      "key": "scene_6_slide_21",
+      "text": "Que je dois faire si je rencontre des gardes?"
+    },
+    {
+      "key": "scene_6_choose_1_variant_1",
+      "text": "Peut-être qu'on peut les faufiler?"
+    },
+    {
+      "key": "scene_6_choose_1_variant_2",
+      "text": "Je suis charmant. Peut-on les tromper?"
+    },
+    {
+      "key": "scene_6_slide_21_variant_1",
+      "text": "Il y a plein de caméras. Quelqu'un le remarquera. Sans combat on ne peut rien faire."
+    },
+    {
+      "key": "scene_6_slide_21_variant_2",
+      "text": "Ce sont des fanatiques absolus pour la plupart. Il est peu probable que tu réussis à te passer d'un combat."
+    },
+    {
+      "key": "scene_6_slide_22",
+      "text": "J'ai dit tout ce qu'il fallait. Passons à la dette."
+    },
+    {
+      "key": "scene_6_slide_23",
+      "text": "Oui, je devais quelque chose..."
+    },
+    {
+      "key": "scene_6_slide_24",
+      "text": "Plus qu'un baiser."
+    },
+    {
+      "key": "scene_6_slide_25",
+      "text": "Allons-y. Il y a une porte dans un garde-manger abandonné."
+    },
+    {
+      "key": "scene_6_slide_26",
+      "text": "Je te promets qu'on s'amusera bien."
+    },
+    {
+      "key": "scene_6_slide_27",
+      "text": "Si tu invites..."
+    },
+    {
+      "key": "scene_6_slide_28",
+      "text": "Mais ne compte pas sur beaucoup cette fois. Je veux te taquiner."
+    },
+    {
+      "key": "scene_6_slide_29",
+      "text": "On va s'amuser."
+    },
+    {
+      "key": "scene_6_slide_30",
+      "text": "Tu es si gentil..."
+    },
+    {
+      "key": "scene_6_choose_2_variant_1",
+      "text": "C'est pas dangereux ici?"
+    },
+    {
+      "key": "scene_6_choose_2_variant_2",
+      "text": "Je ne veux pas retarder les choses...Je te veux ici et maintenant."
+    },
+    {
+      "key": "scene_6_slide_30_variant_1",
+      "text": "On ne peut pas passer sans risque...Élu."
+    },
+    {
+      "key": "scene_6_slide_30_variant_2",
+      "text": "Il est encore tôt. Continue de te battre."
+    },
+    {
+      "key": "scene_7_slide_1",
+      "text": "Nous n'avons pas encore tout fait."
+    },
+    {
+      "key": "scene_7_slide_2",
+      "text": "Elle s'est habillée et nous sommes sortis de la pièce."
+    },
+    {
+      "key": "scene_7_slide_3",
+      "text": "Encore un Adepte..."
+    },
+    {
+      "key": "scene_7_slide_4",
+      "text": "J'en ai marre. Quel jour..."
+    },
+    {
+      "key": "scene_7_slide_5",
+      "text": "Je commence à m'y habituer."
+    },
+    {
+      "key": "scene_7_slide_6",
+      "text": "Je ne suis pas sûre de pouvoir m'y habituer."
+    },
+    {
+      "key": "scene_7_slide_7",
+      "text": "Je n'ai pas le choix. C'est comme ça que je serai au moins plus calme."
+    },
+    {
+      "key": "scene_7_slide_8",
+      "text": "Cache-toi pour l'instant."
+    },
+    {
+      "key": "scene_7_slide_9",
+      "text": "Maintenant, l'essentiel est de se battre et de rester en vie."
+    },
+    {
+      "key": "scene_8_slide_1",
+      "text": "La fille respirait fort. Mais son regard ne donnait pas le côté perdant..."
+    },
+    {
+      "key": "scene_8_slide_2",
+      "text": "On se reverra... J'aime les jeunes garçons comme toi."
+    },
+    {
+      "key": "scene_8_slide_3",
+      "text": "Elle se lécha les lèvres érotiquement et s'éloigna lentement."
+    },
+    {
+      "key": "scene_8_slide_4",
+      "text": "J'ai attendu qu'elle se cache et j'ai crié:"
+    },
+    {
+      "key": "scene_8_slide_5",
+      "text": "Sors, Alicia!"
+    },
+    {
+      "key": "scene_8_slide_6",
+      "text": "Je l'ai reconnue! C'est Hilda!"
+    },
+    {
+      "key": "scene_8_slide_7",
+      "text": "Vous vous connaissez?"
+    },
+    {
+      "key": "scene_8_slide_8",
+      "text": "Elle est connue parmi les Adeptes. Responsable des prisonniers."
+    },
+    {
+      "key": "scene_8_slide_9",
+      "text": "Elle dirige toutes les magiciennes arrêtées."
+    },
+    {
+      "key": "scene_8_slide_10",
+      "text": "Oui, je me souviens que tu en avais parlé."
+    },
+    {
+      "key": "scene_8_slide_11",
+      "text": "Oui. Les magiciennes sont captives sans procès."
+    },
+    {
+      "key": "scene_8_slide_12",
+      "text": "Elle a le droit de faire ce qu'elle veut. Mais les Adeptes ne peuvent pas toucher avec un doigt une personne ordinaire."
+    },
+    {
+      "key": "scene_8_slide_13",
+      "text": "Pourquoi?"
+    },
+    {
+      "key": "scene_8_slide_14",
+      "text": "L'idéologie de leur Ordre est de protéger les gens, de nous les mages. En fait, les objectifs sont bien sûr différents. Mais les Adeptes ordinaires se considèrent comme bons."
+    },
+    {
+      "key": "scene_8_slide_15",
+      "text": "Hilda est un Adepte typique et suit strictement toutes les lois."
+    },
+    {
+      "key": "scene_8_slide_16",
+      "text": "Je ne voudrais pas être son prisonnier..."
+    },
+    {
+      "key": "scene_8_slide_17",
+      "text": "Tu dois toujours aller dans cette prison et sortir Hélène de là."
+    },
+    {
+      "key": "scene_8_slide_18",
+      "text": "Quelles informations puis-je obtenir d'elle?"
+    },
+    {
+      "key": "scene_8_slide_19",
+      "text": "Maximum-où sont les créatures les plus puissantes."
+    },
+    {
+      "key": "scene_8_slide_20",
+      "text": "Au minimum, elle a entendu des plans de l'Ordre et peut te le dire."
+    },
+    {
+      "key": "scene_8_slide_21",
+      "text": "Au fait, comment je la reconnais? À quoi ressemble-t-elle?"
+    },
+    {
+      "key": "scene_8_slide_22",
+      "text": "Grande fille maigre avec des cheveux noirs."
+    },
+    {
+      "key": "scene_8_slide_23",
+      "text": "J'ai parlé de la sécurité, des particularités du territoire aussi..."
+    },
+    {
+      "key": "scene_8_slide_24",
+      "text": "Mais il est temps de finir ce qui a commencé..."
+    },
+    {
+      "key": "scene_8_slide_25",
+      "text": "Où en étions-nous?"
+    },
+    {
+      "key": "scene_8_slide_26",
+      "text": "Au point que tu es chaud."
+    },
+    {
+      "key": "scene_8_slide_27",
+      "text": "Tu es si séduisante..."
+    },
+    {
+      "key": "scene_8_slide_28",
+      "text": "Ne tardons pas."
+    },
+    {
+      "key": "scene_8_slide_29",
+      "text": "Tu veux me sentir à l'intérieur?"
+    },
+    {
+      "key": "scene_8_slide_30",
+      "text": "Je suis toute à toi."
+    },
+    {
+      "key": "scene_9_slide_1",
+      "text": "Suivant les instructions d'Alicia, j'ai pénétré dans l'endroit où les prisonniers étaient détenus."
+    },
+    {
+      "key": "scene_9_slide_2",
+      "text": "Il a fallu beaucoup de travail pour supprimer la peur collante."
+    },
+    {
+      "key": "scene_9_slide_3",
+      "text": "Je me souvenais que je devais trouver Hélène, et je savais aussi à quoi elle devrait ressembler."
+    },
+    {
+      "key": "scene_9_slide_4",
+      "text": "Hélène se retrouvait dans une sorte de cellule solitaire. La porte était très sécurisée."
+    },
+    {
+      "key": "scene_9_slide_5",
+      "text": "Hélène!"
+    },
+    {
+      "key": "scene_9_slide_6",
+      "text": "Je vais te sortir d'ici."
+    },
+    {
+      "key": "scene_9_slide_7",
+      "text": "J'ai attendu! Enfin !"
+    },
+    {
+      "key": "scene_9_slide_8",
+      "text": "Mais... Tu ne fais pas que ça. Pourquoi tu as besoin de moi?"
+    },
+    {
+      "key": "scene_9_choose_1_variant_1",
+      "text": "Parce que les innocents ne devraient pas être enfermés."
+    },
+    {
+      "key": "scene_9_choose_1_variant_2",
+      "text": "J'ai besoin d'informations. Mais tu vas devoir autre chose."
+    },
+    {
+      "key": "scene_9_slide_8_variant_1",
+      "text": "Tu es un vrai héros! Mais...Comment as-tu su où j'étais détenu?"
+    },
+    {
+      "key": "scene_9_slide_8_variant_2",
+      "text": "Bien sûr, libère-moi! Mais...Comment as-tu su où j'étais détenu?"
+    },
+    {
+      "key": "scene_9_slide_9",
+      "text": "Alicia..."
+    },
+    {
+      "key": "scene_9_slide_10",
+      "text": "C'est elle? Alors c'est clair."
+    },
+    {
+      "key": "scene_9_slide_11",
+      "text": "J'ai ouvert la lourde serrure et ouvert la porte. Elle grondait doucement."
+    },
+    {
+      "key": "scene_9_slide_12",
+      "text": "Hélène et moi étions terrifiés. Mais il semble que personne n'ait entendu le grincement."
+    },
+    {
+      "key": "scene_9_slide_13",
+      "text": "Allons-y vite."
+    },
+    {
+      "key": "scene_9_slide_14",
+      "text": "Le cœur battait de toutes ses forces."
+    },
+    {
+      "key": "scene_9_slide_15",
+      "text": "J'ai pris Hélène par la main et nous avons couru vers la sortie."
+    },
+    {
+      "key": "scene_9_slide_16",
+      "text": "Mais nous n'avons pas eu de chance."
+    },
+    {
+      "key": "scene_9_slide_17",
+      "text": "Sur le chemin, l'un des gardes a grandi."
+    },
+    {
+      "key": "scene_9_slide_18",
+      "text": "C'est un monstre... Il va nous tuer."
+    },
+    {
+      "key": "scene_9_slide_19",
+      "text": "Rien de grave, j'ai de l'expérience."
+    },
+    {
+      "key": "scene_9_slide_20",
+      "text": "Mais il est toujours très dangereux! Ne pense pas que ce sera facile!"
+    },
+    {
+      "key": "scene_9_slide_21",
+      "text": "Je vais m'occuper de lui."
+    },
+    {
+      "key": "scene_10_slide_1",
+      "text": "Tu es incroyable!"
+    },
+    {
+      "key": "scene_10_slide_2",
+      "text": "Hélène était ravie."
+    },
+    {
+      "key": "scene_10_slide_3",
+      "text": "Tu t'es débarrassé de ce monstre! Je te suis redevable!"
+    },
+    {
+      "key": "scene_10_slide_4",
+      "text": "Si tu me dis quoi faire ensuite, on est parti."
+    },
+    {
+      "key": "scene_10_slide_5",
+      "text": "N'importe quoi! Je ne pensais pas que je sortirais d'ici!"
+    },
+    {
+      "key": "scene_10_slide_6",
+      "text": "Je suis l'élu. Te sauver n'est qu'une partie de ce que je peux faire."
+    },
+    {
+      "key": "scene_10_slide_7",
+      "text": "Hélène s'est arrêtée. Moi aussi."
+    },
+    {
+      "key": "scene_10_slide_8",
+      "text": "Qu'est-ce que ça veut dire, \"l'élu\"?"
+    },
+    {
+      "key": "scene_10_slide_9",
+      "text": "L'homme magicien. Et mon outil principal est les dés."
+    },
+    {
+      "key": "scene_10_slide_10",
+      "text": "Il n'y a plus de magiciens masculins depuis des années. Comment est-il arrivé que tu...?"
+    },
+    {
+      "key": "scene_10_slide_11",
+      "text": "La prophétie a été faite qu'il y aurait un élu capable de faire revivre la magie masculine."
+    },
+    {
+      "key": "scene_10_slide_12",
+      "text": "Il se trouve que c'est moi."
+    },
+    {
+      "key": "scene_10_slide_13",
+      "text": "Étonnamment... Non, c'est impossible... mais si tu dis ça..."
+    },
+    {
+      "key": "scene_10_slide_14",
+      "text": "Je ne me suis pas habitué au nouveau rôle."
+    },
+    {
+      "key": "scene_10_slide_15",
+      "text": "Pour moi, toute cette situation est nouvelle."
+    },
+    {
+      "key": "scene_10_slide_16",
+      "text": "Et quant aux dés comme outil magique, j'entends aussi pour la première fois."
+    },
+    {
+      "key": "scene_10_slide_17",
+      "text": "Tu saurais à quel point j'étais surpris."
+    },
+    {
+      "key": "scene_10_slide_18",
+      "text": "Je pensais que j'étais fou."
+    },
+    {
+      "key": "scene_10_slide_19",
+      "text": "Tu es unique. Et le sauveur, et le magicien, et juste un dur à cuire."
+    },
+    {
+      "key": "scene_11_slide_1",
+      "text": "Quand on sortira..."
+    },
+    {
+      "key": "scene_11_slide_2",
+      "text": "L'indice est compris."
+    },
+    {
+      "key": "scene_11_slide_3",
+      "text": "Sur quoi puis-je compter?"
+    },
+    {
+      "key": "scene_11_slide_4",
+      "text": "Tout ce que tu veux. Je suis prête à tout."
+    },
+    {
+      "key": "scene_11_slide_5",
+      "text": "J'aime vraiment quand une belle fille est prête à tout."
+    },
+    {
+      "key": "scene_11_slide_6",
+      "text": "Tu vas adorer."
+    },
+    {
+      "key": "scene_11_slide_7",
+      "text": "Tu es si sûre de tes paroles? Et si non?"
+    },
+    {
+      "key": "scene_11_slide_8",
+      "text": "N'oublie pas que je suis une sorcière."
+    },
+    {
+      "key": "scene_11_slide_9",
+      "text": "Je suis vraiment excité quand un beau mec me sauve de la captivité."
+    },
+    {
+      "key": "scene_11_slide_10",
+      "text": "C'est une bonne idée de te sauver plus souvent."
+    },
+    {
+      "key": "scene_11_slide_11",
+      "text": "Si tu le fais personnellement, je serai heureuse."
+    },
+    {
+      "key": "scene_11_slide_12",
+      "text": "Je compte pour l'avenir."
+    },
+    {
+      "key": "scene_11_slide_13",
+      "text": "Qui a afflué là-bas? J'ai cru..."
+    },
+    {
+      "key": "scene_11_slide_14",
+      "text": "Je ne sais pas, il faut regarder autour."
+    },
+    {
+      "key": "scene_11_slide_15",
+      "text": "L'intuition n'a pas échoué."
+    },
+    {
+      "key": "scene_11_slide_16",
+      "text": "Nous avons vu un autre garde, qui a fauché les dents dans notre direction."
+    },
+    {
+      "key": "scene_11_slide_17",
+      "text": "Où ils viennent... Je n'ai pas le temps de battre."
+    },
+    {
+      "key": "scene_12_slide_1",
+      "text": "Hélène avait très peur."
+    },
+    {
+      "key": "scene_12_slide_2",
+      "text": "Je ne sais pas si on sort d'ici ou pas... Qu'est-ce que tu voulais savoir?"
+    },
+    {
+      "key": "scene_12_slide_3",
+      "text": "Comment trouver les êtres les plus puissants..."
+    },
+    {
+      "key": "scene_12_slide_4",
+      "text": "Ne continue pas, j'ai compris. Personnellement, je ne sais pas, mais je connais une fille qui peut t'aider."
+    },
+    {
+      "key": "scene_12_slide_5",
+      "text": "J'espère qu'elle n'est pas captive."
+    },
+    {
+      "key": "scene_12_slide_6",
+      "text": "Tu espères en vain... Elle s'appelle Ethel. Et elle doit avoir cette information."
+    },
+    {
+      "key": "scene_12_slide_7",
+      "text": "C'est une dryade. Elle est gardée par l'Adepte suprême."
+    },
+    {
+      "key": "scene_12_slide_8",
+      "text": "À ma connaissance, Ethel est dans une cage presque dans sa chambre privée."
+    },
+    {
+      "key": "scene_12_slide_9",
+      "text": "C'est-à-dire, en passant, je dois me battre avec le suprême?"
+    },
+    {
+      "key": "scene_12_slide_10",
+      "text": "Oui. Si on la libère, elle nous dira ce qu'il nous faut."
+    },
+    {
+      "key": "scene_12_slide_11",
+      "text": "Elle sait comment se rendre aux créatures les plus puissantes du monde de la magie..."
+    },
+    {
+      "key": "scene_12_slide_12",
+      "text": "Encore une fois, je vais devoir tomber dans l'enfer."
+    },
+    {
+      "key": "scene_12_slide_13",
+      "text": "Je sais dans quel secteur de la zone industrielle se trouve le suprême. Je peux y aller."
+    },
+    {
+      "key": "scene_12_slide_14",
+      "text": "On y va ensemble, mais plus tard."
+    },
+    {
+      "key": "scene_12_slide_15",
+      "text": "Nous avons réussi à passer inaperçus jusqu'à l'abri désigné par Alicia plus tôt."
+    },
+    {
+      "key": "scene_12_slide_16",
+      "text": "Nous avions besoin d'attendre un moment acceptable."
+    },
+    {
+      "key": "scene_12_slide_17",
+      "text": "Hélène se familiarisait dans un nouvel endroit."
+    },
+    {
+      "key": "scene_12_slide_18",
+      "text": "Après la cellule de prison, elle aura l'air heureuse pendant encore quelques mois."
+    },
+    {
+      "key": "scene_12_slide_19",
+      "text": "J'étais ravi de pouvoir sauver une belle fille."
+    },
+    {
+      "key": "scene_12_slide_20",
+      "text": "Tu as promis de me remercier."
+    },
+    {
+      "key": "scene_12_slide_21",
+      "text": "Tu vas être ma mauvaise fille?"
+    },
+    {
+      "key": "scene_12_slide_22",
+      "text": "Je ferai ce que tu veux."
+    },
+    {
+      "key": "scene_12_slide_23",
+      "text": "Je veux que tu te déshabilles."
+    },
+    {
+      "key": "scene_12_slide_24",
+      "text": "Le regard d'Hélène exprimait un désir pur."
+    },
+    {
+      "key": "scene_13_slide_1",
+      "text": "Tu es très belle."
+    },
+    {
+      "key": "scene_13_slide_2",
+      "text": "Je veux te voir toute."
+    },
+    {
+      "key": "scene_13_slide_3",
+      "text": "Je vais m'occuper de toi ce soir."
+    },
+    {
+      "key": "scene_13_slide_4",
+      "text": "Mais plus tard."
+    },
+    {
+      "key": "scene_13_slide_5",
+      "text": "Pourquoi?"
+    },
+    {
+      "key": "scene_13_slide_6",
+      "text": "Je sens un danger venir. L'abri peut devenir un piège. Je veux éviter le risque."
+    },
+    {
+      "key": "scene_13_slide_7",
+      "text": "Évidemment!"
+    },
+    {
+      "key": "scene_13_slide_8",
+      "text": "Je reviens bientôt."
+    },
+    {
+      "key": "scene_13_slide_9",
+      "text": "A plus tard."
+    },
+    {
+      "key": "scene_14_slide_1",
+      "text": "En passant un peu, j'ai senti que le danger était très proche."
+    },
+    {
+      "key": "scene_14_slide_2",
+      "text": "Quelques secondes plus tard, quelqu'un m'a renversé."
+    },
+    {
+      "key": "scene_14_slide_3",
+      "text": "Ay!"
+    },
+    {
+      "key": "scene_14_slide_4",
+      "text": "Encore toi?"
+    },
+    {
+      "key": "scene_14_slide_5",
+      "text": "J'en ai marre de toi!"
+    },
+    {
+      "key": "scene_14_slide_6",
+      "text": "Moi aussi. Je déteste ces coïncidences."
+    },
+    {
+      "key": "scene_14_slide_7",
+      "text": "Ce n'est pas une coïncidence."
+    },
+    {
+      "key": "scene_14_choose_1_variant_1",
+      "text": "Il n'est pas trop tard pour prétendre qu'on ne s'est pas remarqués."
+    },
+    {
+      "key": "scene_14_choose_1_variant_2",
+      "text": "Arrête de me suivre! Va-t'en tant que vivante!"
+    },
+    {
+      "key": "scene_14_slide_8",
+      "text": "Je suppose, tu en as assez de toi-même."
+    },
+    {
+      "key": "scene_14_slide_9",
+      "text": "On va devoir trouver qui est le plus fort."
+    },
+    {
+      "key": "scene_14_slide_10",
+      "text": "Faisons-le maintenant."
+    },
+    {
+      "key": "scene_15_slide_1",
+      "text": "Comment est-ce que tu t'appelles ?"
+    },
+    {
+      "key": "scene_15_choose_1_variant_1",
+      "text": "{Name}."
+    },
+    {
+      "key": "scene_15_choose_1_variant_2",
+      "text": "Ça ne te regarde pas."
+    },
+    {
+      "key": "scene_15_slide_2",
+      "text": "On t'a parlé de moi?"
+    },
+    {
+      "key": "scene_15_slide_3",
+      "text": "Oui. Tu es Hilda et tu occupe une place importante dans l'Ordre."
+    },
+    {
+      "key": "scene_15_slide_4",
+      "text": "Nous avons déjà compris qui est le plus fort."
+    },
+    {
+      "key": "scene_15_slide_5",
+      "text": "Maintenant, quelqu'un va partir d'ici tout seul."
+    },
+    {
+      "key": "scene_15_slide_6",
+      "text": "Je te suggère de nous séparer et d'oublier."
+    },
+    {
+      "key": "scene_15_slide_7",
+      "text": "Non. Nous devons continuer jusqu'au bout."
+    },
+    {
+      "key": "scene_15_slide_8",
+      "text": "C'est le seul moyen de maintenir l'équilibre."
+    },
+    {
+      "key": "scene_15_slide_9",
+      "text": "Si tu me tues, tu devras te justifier pour avoir tué un citoyen ordinaire. Personne ne croira que je suis un magicien."
+    },
+    {
+      "key": "scene_15_slide_10",
+      "text": "J'ai un statut trop élevé. Je peux sortir de n'importe quelle situation."
+    },
+    {
+      "key": "scene_15_slide_11",
+      "text": "Mais si tu me tues, comment vas-tu te justifier?"
+    },
+    {
+      "key": "scene_15_slide_12",
+      "text": "Personne ne me soupçonnera. Ça y est."
+    },
+    {
+      "key": "scene_15_slide_13",
+      "text": "Tu te surestimes."
+    },
+    {
+      "key": "scene_15_slide_14",
+      "text": "Toi aussi. Tu n'as ni l'expérience ni la réputation, mais beaucoup d'audace."
+    },
+    {
+      "key": "scene_15_slide_15",
+      "text": "L'audace est le deuxième bonheur."
+    },
+    {
+      "key": "scene_15_slide_16",
+      "text": "J'aime les jeunes mecs effrontés. Ils essaient très fort au lit."
+    },
+    {
+      "key": "scene_15_slide_17",
+      "text": "Et quant à moi?"
+    },
+    {
+      "key": "scene_15_slide_18",
+      "text": "C'est pour ça que je veux coucher avec toi."
+    },
+    {
+      "key": "scene_15_slide_19",
+      "text": "Est-ce que mon opinion compte?"
+    },
+    {
+      "key": "scene_15_slide_20",
+      "text": "Il y aura un homme magicien dans ma collection."
+    },
+    {
+      "key": "scene_15_slide_21",
+      "text": "Bien sûr que non."
+    },
+    {
+      "key": "scene_15_slide_22",
+      "text": "Et si oui?"
+    },
+    {
+      "key": "scene_16_slide_1",
+      "text": "Maintenant, sors d'ici tant que tu es vivant."
+    },
+    {
+      "key": "scene_16_slide_2",
+      "text": "Toi aussi."
+    },
+    {
+      "key": "scene_16_slide_3",
+      "text": "On s'est séparés sans se perdre de vue."
+    },
+    {
+      "key": "scene_16_slide_4",
+      "text": "J'ai décidé de ne plus chercher d'aventure et je suis rentré chez moi."
+    },
+    {
+      "key": "scene_16_slide_5",
+      "text": "C'est bien quand une belle fille attend à la maison, prête à tout."
+    },
+    {
+      "key": "scene_16_slide_6",
+      "text": "Je rêvais d'être accueilli par Hélène."
+    },
+    {
+      "key": "scene_16_slide_7",
+      "text": "Je suis entré dans la maison. On peut enfin se reposer."
+    },
+    {
+      "key": "scene_16_slide_8",
+      "text": "Qu'est-ce qui s'est passé ?"
+    },
+    {
+      "key": "scene_16_slide_9",
+      "text": "Hilda m'a traquée. Elle a dû se retirer."
+    },
+    {
+      "key": "scene_16_slide_10",
+      "text": "Quoi ? Tu as réussi à la battre?!"
+    },
+    {
+      "key": "scene_16_slide_11",
+      "text": "Oui."
+    },
+    {
+      "key": "scene_16_slide_12",
+      "text": "Incroyable!"
+    },
+    {
+      "key": "scene_16_slide_13",
+      "text": "Je serai à la maison maintenant."
+    },
+    {
+      "key": "scene_16_slide_14",
+      "text": "On sera tout seuls. On ne peut pas nous manquer."
+    },
+    {
+      "key": "scene_16_slide_15",
+      "text": "On fait quoi?"
+    },
+    {
+      "key": "scene_16_slide_16",
+      "text": "Que voudrais-tu? Je vais tout faire."
+    },
+    {
+      "key": "scene_16_slide_17",
+      "text": "Et si je veux du sexe anal?"
+    },
+    {
+      "key": "scene_16_slide_18",
+      "text": "Je t'avais promis."
+    },
+    {
+      "key": "scene_16_slide_19",
+      "text": "Oui, les promesses doivent être tenues."
+    },
+    {
+      "key": "scene_16_slide_20",
+      "text": "Je peux faire beaucoup de choses, juste demande."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb6be5c4f8947c5bae781726b806bf2, type: 3}
+  m_Name: Magic_mana 2
+  m_EditorClassIdentifier: 
+  edgePrefab: {fileID: 6409698351231155947, guid: 0718af7fac171ae40b2f9beb26562907, type: 3}
+  edgeMaterial: {fileID: 2100000, guid: c5e4ef9ee0145524c9fc1666f0a839ab, type: 2}
+  edgePattern: {fileID: 11400000, guid: 594d4b8e1981f0c48ab505a3f9ed8ac0, type: 2}

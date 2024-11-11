@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5369b2bfaa524ea585362e1bd1e39735, type: 3}
+  m_Name: DiceSettings
+  m_EditorClassIdentifier: 
+  diceFloatDistance: 1.6
+  diceFloatDelta: 0.25
+  diceFloatSpeed: 1
+  diceHoldTime: 0.2
+  dicejumpDisatance: 2.5
+  dicejumpTime: 0.34
+  throwDisatance: 1.2
+  throwTime: 0.2
+  throwMinImpulse: 2.3
+  throwMaxImpulse: 4
+  spinMuliplier: 1
+  spinDelay: 0.1
+  ZSpreding: -0.55
+  ZStartVector: -2.35
+  YStartVector: 0.8
+  XSpreding: 0.2
+  diceEdgeRotationUp: {x: 0, y: 0, z: 0}
+  diceEdgeRotationDown: {x: 0, y: -90, z: 180}
+  diceEdgeRotationLeft: {x: -90, y: 0, z: 90}
+  diceEdgeRotationRight: {x: 0, y: 0, z: -90}
+  diceEdgeRotationForward: {x: 0, y: -90, z: -90}
+  diceEdgeRotationBack: {x: 0, y: -90, z: 90}

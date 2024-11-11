@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7ec28587594f9286d479e0c28d6460, type: 3}
+  m_Name: ArmorDice B2_2 LVL5
+  m_EditorClassIdentifier: 
+  diceName: "\u0428\u0438\u043F II"
+  description: "\u041B\u0443\u0447\u0448\u0438\u0439 \u0434\u0440\u0443\u0433 \u0432\u0441\u0435\u0445
+    \u0442\u043E\u0440\u0433\u043E\u0432\u0446\u0435\u0432, \u043F\u0430\u043B\u043E\u043C\u043D\u0438\u043A\u043E\u0432,
+    \u0438 \u043F\u0440\u043E\u0441\u0442\u043E \u0442\u0435\u0445, \u043A\u0442\u043E
+    \u0445\u043E\u0447\u0435\u0442 \u0436\u0438\u0442\u044C \u043F\u043E\u0434\u043E\u043B\u044C\u0448\u0435.
+    \u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u043A\u0443\u0431 \u0434\u043B\u044F
+    \u0437\u0430\u0449\u0438\u0442\u044B."
+  id: base_armor_13
+  levelNumber: 5
+  upgradeCost: 0
+  Edges:
+  - {fileID: 11400000, guid: ed4f3fd23fe7cdd4d9be514871deff96, type: 2}
+  - {fileID: 11400000, guid: 4e0016f6df50e584ca5b25864ad0cfb2, type: 2}
+  - {fileID: 11400000, guid: e2fd0df655ec7334d80b8729b2056643, type: 2}
+  - {fileID: 11400000, guid: c5309f4dfa8e6864e854c80e72e8f980, type: 2}
+  - {fileID: 11400000, guid: 39d4d6c760ad475458340143d3e5d9c3, type: 2}
+  - {fileID: 11400000, guid: 4e0016f6df50e584ca5b25864ad0cfb2, type: 2}
+  Upgrades: []
+  DiceBorderMaterial: {fileID: 2100000, guid: ef3fe84990261314e9ec4a9dd4caab05, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7ec28587594f9286d479e0c28d6460, type: 3}
+  m_Name: BlacksmithDice
+  m_EditorClassIdentifier: 
+  diceName: loc_heromenu_cubename_dicename9
+  description: loc_heromenu_descript_dice_description9
+  id: base_blacksmith_1
+  levelNumber: 1
+  upgradeCost: 85
+  Edges:
+  - {fileID: 11400000, guid: db8b4c891fa84ce4a922cd27ca19240d, type: 2}
+  - {fileID: 11400000, guid: 957e2d7733e0b574e88d162ba99de076, type: 2}
+  - {fileID: 11400000, guid: 883c713dcfefe304da37f72d1953d163, type: 2}
+  - {fileID: 11400000, guid: 15c88181547ba9f4fb49a3f004305bd9, type: 2}
+  - {fileID: 11400000, guid: db8b4c891fa84ce4a922cd27ca19240d, type: 2}
+  - {fileID: 11400000, guid: 1640a44e0ef919d428ed22c4e14d90a9, type: 2}
+  Upgrades:
+  - {fileID: 11400000, guid: 4daf75c264d67824cb825de6b907364a, type: 2}
+  - {fileID: 11400000, guid: 39bc0085c9c5a29439238c0d04bae581, type: 2}
+  DiceBorderMaterial: {fileID: 2100000, guid: ab1dcc94436de2b418c83813dca737af, type: 2}

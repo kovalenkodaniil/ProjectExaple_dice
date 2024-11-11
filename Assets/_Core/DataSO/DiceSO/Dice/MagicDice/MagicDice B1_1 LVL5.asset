@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7ec28587594f9286d479e0c28d6460, type: 3}
+  m_Name: MagicDice B1_1 LVL5
+  m_EditorClassIdentifier: 
+  diceName: "\u0421\u0432\u0435\u0442\u043B\u0430\u044F \u043C\u0430\u0433\u0438\u044F
+    IV"
+  description: "\u0415\u0441\u043B\u0438 \u0432\u0430\u043C \u043D\u0435 \u0447\u0443\u0436\u0434\u044B
+    \u043C\u0430\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043F\u0440\u0438\u0451\u043C\u044B,
+    \u0438 \u0432\u044B \u043D\u0435 \u043B\u0438\u0448\u0435\u043D\u044B \u043A\u043E\u043B\u0434\u043E\u0432\u0441\u043A\u0438\u0445
+    \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0435\u0439 - \u044D\u0442\u043E
+    \u043E\u0442\u043B\u0438\u0447\u043D\u044B\u0439 \u0432\u044B\u0431\u043E\u0440
+    \u0434\u043B\u044F \u0432\u0430\u0441. \u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439
+    \u043A\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u043C\u0430\u0433\u0438\u0438."
+  id: base_magic_10
+  levelNumber: 5
+  upgradeCost: 0
+  Edges:
+  - {fileID: 11400000, guid: 04407cb895b2e8842830b2d59e13fd75, type: 2}
+  - {fileID: 11400000, guid: c3e8b0dbbc62e8b4b91481f80213e480, type: 2}
+  - {fileID: 11400000, guid: 1aaac9dae0c5e2f4fac9c34137ea7e4d, type: 2}
+  - {fileID: 11400000, guid: fbb97e60924dbce4c87600c3b5fe8211, type: 2}
+  - {fileID: 11400000, guid: 2a7cc878ccc7de44282ddbc1f51cbd74, type: 2}
+  - {fileID: 11400000, guid: 29844e5ed23125a40a8ec0255aaf39bd, type: 2}
+  Upgrades: []
+  DiceBorderMaterial: {fileID: 2100000, guid: e3ddea8c97fa59b4abbe936d922977a1, type: 2}
