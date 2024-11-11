@@ -5,11 +5,13 @@ using Core.Data.Consumable;
 using DG.Tweening;
 using Managers;
 using PlayerScripts;
+using Popups;
+using Popups.PopupReward;
 using UnityEngine;
 using UnityEngine.UI;
 using VContainer;
 
-namespace Popups.PopupReward
+namespace _Core.Scripts.Popups.PopupRewards
 {
     public class PopupReward : MonoBehaviour
     {

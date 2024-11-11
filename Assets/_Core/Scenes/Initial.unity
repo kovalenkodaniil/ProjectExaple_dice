@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PopupReward
       objectReference: {fileID: 0}
+    - target: {fileID: 1324119682850882133, guid: 56b33647877732f4eb443b40cbf70143, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4919183068968716196, guid: 56b33647877732f4eb443b40cbf70143, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

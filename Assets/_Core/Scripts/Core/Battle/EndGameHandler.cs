@@ -3,6 +3,7 @@ using System.Collections;
 using _Core.Scripts.Core.Battle.Enemies;
 using _Core.Scripts.Core.Greyness;
 using _Core.Scripts.Popups;
+using _Core.Scripts.Popups.PopupRewards;
 using Core.Data;
 using DG.Tweening;
 using Managers;
